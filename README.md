@@ -25,6 +25,9 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Real-Time Voice AI Agents](https://exactbaseline.com/benchmarks/voice-ai-agents)** — Pipecat vs LiveKit Agents vs Daily (sub-300ms audio turnaround and WebRTC streaming).
 
 ### Cloud Infrastructure & Self-Hosted DevOps
+- **[Serverless & FaaS Compute Platforms](https://exactbaseline.com/benchmarks/open-source-serverless-faas-compute-platforms)** — OpenFaaS vs Knative Serving vs Cloudflare workerd (AWS Lambda and Google Cloud Run metered compute & cold start replacement).
+- **[OLAP Lakehouse & SQL Query Engines](https://exactbaseline.com/benchmarks/open-source-olap-lakehouse-sql-query-engines)** — Trino vs Apache Doris vs StarRocks (Snowflake and AWS Athena compute and scan fee replacement).
+- **[eBPF Service Mesh Networking](https://exactbaseline.com/benchmarks/open-source-ebpf-service-mesh-networking)** — Cilium vs Istio vs Linkerd (AWS App Mesh and Tetrate Service Bridge replacement).
 - **[Open-Source S3 Object Storage](https://exactbaseline.com/benchmarks/open-source-s3-object-storage-data-lake-minio-seaweedfs)** — MinIO vs SeaweedFS vs Ceph vs JuiceFS (AWS S3 & Cloudflare R2 egress cost replacement).
 - **[Infrastructure as Code (IaC)](https://exactbaseline.com/benchmarks/open-source-infrastructure-as-code-iac-terraform-alternatives)** — OpenTofu vs Pulumi vs Terragrunt (HashiCorp Terraform BSL license and HCP cloud cost replacement).
 - **[Container Registries & OCI Artifacts](https://exactbaseline.com/benchmarks/open-source-container-registries-artifact-repositories)** — Harbor vs Zot vs Dragonfly (Docker Hub pull rate limits and JFrog Artifactory enterprise cost benchmark).

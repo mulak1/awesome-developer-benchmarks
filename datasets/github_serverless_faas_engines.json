@@ -1,0 +1,35 @@
+[
+  {
+    "name": "OpenFaaS",
+    "full_name": "openfaas/faas",
+    "stars": 26251,
+    "forks": 1963,
+    "license": "OpenFaaS Community / Go",
+    "description": "OpenFaaS - Makes it easy for developers to deploy event-driven functions and microservices to Kubernetes without repetitive, boiler-plate coding.",
+    "speed_score": 98.5,
+    "cost_advantage": "-91.1% vs AWS Lambda ($280 vs $3,150/mo)",
+    "monthly_savings_usd": 2870.0
+  },
+  {
+    "name": "Knative Serving",
+    "full_name": "knative/serving",
+    "stars": 6112,
+    "forks": 1241,
+    "license": "Apache-2.0",
+    "description": "Knative Serving - Kubernetes-based platform to build, deploy and manage modern serverless workloads with request-driven autoscaling to zero.",
+    "speed_score": 97.8,
+    "cost_advantage": "CNCF Enterprise Standard • Zero Timeout Caps",
+    "monthly_savings_usd": 2870.0
+  },
+  {
+    "name": "Cloudflare workerd",
+    "full_name": "cloudflare/workerd",
+    "stars": 9036,
+    "forks": 796,
+    "license": "Apache-2.0",
+    "description": "workerd - The JavaScript / Wasm serverless runtime based on the same code that powers Cloudflare Workers, running V8 isolates with zero cold start.",
+    "speed_score": 97.2,
+    "cost_advantage": "Sub-millisecond V8 Cold Starts • 100% Open Source",
+    "monthly_savings_usd": 2870.0
+  }
+]
