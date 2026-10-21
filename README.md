@@ -53,6 +53,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[MQTT & Distributed IoT Message Brokers](https://exactbaseline.com/benchmarks/open-source-mqtt-iot-message-brokers)** — EMQX vs Eclipse Mosquitto vs NanoMQ (AWS IoT Core and HiveMQ Enterprise per-message and per-connection-minute toll replacement).
 - **[Cloud Security Posture Management (CSPM) & Compliance](https://exactbaseline.com/benchmarks/open-source-cloud-security-posture-management-cspm)** — Prowler vs Checkov vs Cloud Custodian (Wiz and Prisma Cloud per-workload and per-resource markup replacement).
 - **[Secret Detection & Credential Scanning](https://exactbaseline.com/benchmarks/open-source-secret-detection-credential-scanning)** — TruffleHog vs Gitleaks vs detect-secrets (GitGuardian Enterprise and Nightfall AI DLP per-developer seat tax replacement).
+- **[Secure Tunnels, Reverse Proxies & NAT Traversal](https://exactbaseline.com/benchmarks/open-source-secure-tunnels-reverse-proxies-nat-traversal)** — FRP vs Cloudflared vs Rathole (Ngrok Enterprise and Packetriot per-user seat tax and bandwidth metering replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators

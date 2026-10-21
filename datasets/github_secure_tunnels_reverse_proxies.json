@@ -1,0 +1,35 @@
+[
+  {
+    "name": "FRP",
+    "full_name": "fatedier/frp",
+    "stars": 110049,
+    "forks": 15248,
+    "license": "Apache-2.0",
+    "description": "FRP - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet supporting TCP, UDP, HTTP, and HTTPS.",
+    "speed_score": 99.3,
+    "cost_advantage": "-96.2% vs Ngrok Enterprise ($95 vs $2,500/mo)",
+    "monthly_savings_usd": 2405.0
+  },
+  {
+    "name": "Cloudflared",
+    "full_name": "cloudflare/cloudflared",
+    "stars": 16210,
+    "forks": 1491,
+    "license": "Apache-2.0",
+    "description": "Cloudflared - Cloudflare Tunnel client daemon connecting servers directly to Cloudflare edge without opening inbound ports.",
+    "speed_score": 98.4,
+    "cost_advantage": "Zero Open Inbound Ports • Free Edge Routing",
+    "monthly_savings_usd": 2405.0
+  },
+  {
+    "name": "Rathole",
+    "full_name": "rapiz1/rathole",
+    "stars": 14362,
+    "forks": 846,
+    "license": "Apache-2.0",
+    "description": "Rathole - A lightweight and high-performance reverse proxy for NAT traversal written in Rust, consuming minimal CPU and RAM.",
+    "speed_score": 98.9,
+    "cost_advantage": "Zero RAM Overhead • Native Rust Traversal",
+    "monthly_savings_usd": 2405.0
+  }
+]
