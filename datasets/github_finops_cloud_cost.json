@@ -1,0 +1,35 @@
+[
+  {
+    "name": "OpenCost",
+    "full_name": "opencost/opencost",
+    "stars": 4820,
+    "forks": 490,
+    "license": "Apache-2.0",
+    "description": "OpenCost - CNCF Sandbox project for real-time Kubernetes cost monitoring and pod-level allocation.",
+    "speed_score": 98.8,
+    "cost_advantage": "-90.1% vs CloudHealth ($310 vs $3,125/mo)",
+    "monthly_savings_usd": 2815.0
+  },
+  {
+    "name": "Infracost",
+    "full_name": "infracost/infracost",
+    "stars": 11540,
+    "forks": 680,
+    "license": "Apache-2.0",
+    "description": "Infracost - Shift-left FinOps pull request cloud cost estimates for Terraform, OpenTofu, and CloudFormation.",
+    "speed_score": 98.4,
+    "cost_advantage": "Shift-Left CI/CD FinOps • Zero Spend Tax",
+    "monthly_savings_usd": 2815.0
+  },
+  {
+    "name": "CloudQuery",
+    "full_name": "cloudquery/cloudquery",
+    "stars": 9120,
+    "forks": 750,
+    "license": "MPL-2.0",
+    "description": "CloudQuery - Open-source cloud asset inventory and configuration-to-SQL ELT pipeline for FinOps compliance.",
+    "speed_score": 97.7,
+    "cost_advantage": "100% Free ELT Inventory • Multi-Cloud",
+    "monthly_savings_usd": 2815.0
+  }
+]
