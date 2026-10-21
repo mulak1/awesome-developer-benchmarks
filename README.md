@@ -24,6 +24,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Document Parsing & Multimodal OCR](https://exactbaseline.com/benchmarks/document-rag-parsers)** — Docling vs MinerU vs Unstructured (formula extraction, table recall, and processing speed).
 - **[Real-Time Voice AI Agents](https://exactbaseline.com/benchmarks/voice-ai-agents)** — Pipecat vs LiveKit Agents vs Daily (sub-300ms audio turnaround and WebRTC streaming).
 - **[ML Experiment Tracking & Model Registries](https://exactbaseline.com/benchmarks/open-source-ml-experiment-tracking-model-registry)** — MLflow vs ClearML vs Aim (Weights & Biases and Neptune.ai per-seat license & artifact egress replacement).
+- **[Feature Stores & Real-Time ML Platforms](https://exactbaseline.com/benchmarks/open-source-feature-store-ml-platforms)** — Feast vs Hopsworks (Tecton and AWS SageMaker Feature Store metered ingestion & skew replacement).
 
 ### Cloud Infrastructure & Self-Hosted DevOps
 - **[Serverless & FaaS Compute Platforms](https://exactbaseline.com/benchmarks/open-source-serverless-faas-compute-platforms)** — OpenFaaS vs Knative Serving vs Cloudflare workerd (AWS Lambda and Google Cloud Run metered compute & cold start replacement).

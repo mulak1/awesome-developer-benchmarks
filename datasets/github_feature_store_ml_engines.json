@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Feast",
+    "full_name": "feast-dev/feast",
+    "stars": 7340,
+    "forks": 1481,
+    "license": "Apache-2.0",
+    "description": "Feast - Open source feature store for machine learning, enabling teams to manage, store, and serve features for offline training and online inference.",
+    "speed_score": 98.4,
+    "cost_advantage": "-93.3% vs Tecton ($240 vs $3,600/mo)",
+    "monthly_savings_usd": 3360.0
+  },
+  {
+    "name": "Hopsworks",
+    "full_name": "logicalclocks/hopsworks",
+    "stars": 1310,
+    "forks": 159,
+    "license": "AGPL-3.0",
+    "description": "Hopsworks - Open-source feature store and AI platform with RonDB sub-millisecond online serving and automated model governance.",
+    "speed_score": 96.8,
+    "cost_advantage": "Sub-Millisecond RonDB • Zero Per-Feature Tax",
+    "monthly_savings_usd": 3360.0
+  }
+]
