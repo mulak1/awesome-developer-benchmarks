@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Dagger",
+    "full_name": "dagger/dagger",
+    "stars": 12250,
+    "forks": 980,
+    "license": "Apache-2.0",
+    "description": "Dagger - An open-source programmable CI/CD engine that runs pipelines locally and in the cloud using TypeScript, Python, and Go.",
+    "speed_score": 98.7,
+    "cost_advantage": "-92.9% vs CircleCI ($160 vs $2,250/mo)",
+    "monthly_savings_usd": 2090.0
+  },
+  {
+    "name": "Drone CI",
+    "full_name": "harness/drone",
+    "stars": 33540,
+    "forks": 2710,
+    "license": "Apache-2.0 / Polyform",
+    "description": "Drone CI - Container-native continuous delivery platform running isolated ephemeral container steps with single-binary deployment.",
+    "speed_score": 97.9,
+    "cost_advantage": "Zero Per-Seat Tax • Docker Ephemeral Steps",
+    "monthly_savings_usd": 2090.0
+  },
+  {
+    "name": "Woodpecker CI",
+    "full_name": "woodpecker-ci/woodpecker",
+    "stars": 5820,
+    "forks": 490,
+    "license": "Apache-2.0",
+    "description": "Woodpecker CI - Community-driven continuous integration system running multi-architecture matrix builds on self-hosted runners.",
+    "speed_score": 96.8,
+    "cost_advantage": "100% Free Apache-2.0 • Pure Community Fork",
+    "monthly_savings_usd": 2090.0
+  }
+]
