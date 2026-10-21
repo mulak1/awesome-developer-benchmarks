@@ -1,0 +1,49 @@
+{
+  "category": "Local LLM Inference & Fine-Tuning Runtimes",
+  "repos": [
+    {
+      "repo": "ggml-org/llama.cpp",
+      "stars": 131323,
+      "forks": 24447,
+      "open_issues": 2546,
+      "language": "C++",
+      "license": "MIT",
+      "description": "LLM inference in C/C++",
+      "pushed_at": "2026-10-16T02:58:15Z",
+      "fetched_at": "2026-10-16T03:04:21.197401+00:00"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "stars": 78087,
+      "forks": 7215,
+      "open_issues": 353,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
+      "pushed_at": "2026-10-16T03:01:37Z",
+      "fetched_at": "2026-10-16T03:04:21.410483+00:00"
+    },
+    {
+      "repo": "axolotl-ai-cloud/axolotl",
+      "stars": 12575,
+      "forks": 1472,
+      "open_issues": 253,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "Go ahead and axolotl questions",
+      "pushed_at": "2026-10-16T02:50:25Z",
+      "fetched_at": "2026-10-16T03:04:21.645883+00:00"
+    },
+    {
+      "repo": "exo-explore/exo",
+      "stars": 47911,
+      "forks": 3563,
+      "open_issues": 388,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "Run frontier AI locally.",
+      "pushed_at": "2026-10-13T20:11:49Z",
+      "fetched_at": "2026-10-16T03:04:21.894382+00:00"
+    }
+  ]
+}

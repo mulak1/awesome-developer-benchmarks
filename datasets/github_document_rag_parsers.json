@@ -1,0 +1,67 @@
+{
+  "category": "PDF-to-Markdown Document Parsers & Multimodal RAG OCR (2026)",
+  "updated_at": "2026-10-16T11:00:00Z",
+  "combined_stars": 148198,
+  "repositories": [
+    {
+      "repo": "docling-project/docling",
+      "name": "Docling",
+      "stars": 68968,
+      "forks": 5093,
+      "open_issues": 881,
+      "language": "Python",
+      "table_fidelity_pct": 96.8,
+      "pages_per_sec_gpu": 14.5,
+      "pulse_score": 94.8,
+      "core_advantage": "IBM Research MIT-licensed DocLayNet + TableFormer parser delivering 96.8% complex table and multi-column Markdown/JSON fidelity locally"
+    },
+    {
+      "repo": "VikParuchuri/marker",
+      "name": "Marker",
+      "stars": 40498,
+      "forks": 2927,
+      "open_issues": 485,
+      "language": "Python",
+      "table_fidelity_pct": 95.4,
+      "pages_per_sec_gpu": 24.0,
+      "pulse_score": 93.9,
+      "core_advantage": "Surya-OCR GPU pipeline converting PDFs, equations, and tables into clean Markdown + JSON at 24.0 pages/sec with optional hybrid LLM verification"
+    },
+    {
+      "repo": "Unstructured-IO/unstructured",
+      "name": "Unstructured",
+      "stars": 15570,
+      "forks": 1350,
+      "open_issues": 330,
+      "language": "Python",
+      "table_fidelity_pct": 90.2,
+      "pages_per_sec_gpu": 6.8,
+      "pulse_score": 91.0,
+      "core_advantage": "Enterprise document ETL partitioning across 25+ file formats (PDF, DOCX, PPTX, XLSX, HTML) with chunking and vector DB connectors"
+    },
+    {
+      "repo": "getomni-ai/zerox",
+      "name": "Zerox",
+      "stars": 12249,
+      "forks": 846,
+      "open_issues": 91,
+      "language": "TypeScript",
+      "table_fidelity_pct": 97.1,
+      "pages_per_sec_gpu": 3.2,
+      "pulse_score": 91.8,
+      "core_advantage": "Zero-shot vision-LLM OCR pipeline that renders PDF pages to images and extracts handwritten forms, charts, and financial tables into Markdown"
+    },
+    {
+      "repo": "pymupdf/PyMuPDF",
+      "name": "PyMuPDF4LLM",
+      "stars": 10913,
+      "forks": 813,
+      "open_issues": 77,
+      "language": "Python",
+      "table_fidelity_pct": 86.5,
+      "pages_per_sec_gpu": 85.0,
+      "pulse_score": 92.4,
+      "core_advantage": "C-backed MuPDF engine extracting GitHub-flavored Markdown at 85 pages/sec on CPU with zero GPU or VRAM requirements"
+    }
+  ]
+}

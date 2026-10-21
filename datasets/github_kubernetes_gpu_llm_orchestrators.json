@@ -1,0 +1,57 @@
+{
+  "category": "kubernetes-gpu-llm-orchestrators",
+  "captured_at": "2026-10-18T06:01:00Z",
+  "total_stars": 26985,
+  "repositories": [
+    {
+      "repo": "skypilot-org/skypilot",
+      "name": "SkyPilot (UC Berkeley Sky Computing)",
+      "stars": 10715,
+      "forks": 1286,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pulse_score": 97.9,
+      "description": "Multi-cloud & Kubernetes GPU orchestrator auto-provisioning spot H100/A100 clusters across 16+ clouds with automatic failover"
+    },
+    {
+      "repo": "volcano-sh/volcano",
+      "name": "CNCF Volcano Batch & AI Scheduler",
+      "stars": 6022,
+      "forks": 1574,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "pulse_score": 97.6,
+      "description": "CNCF incubating Kubernetes batch scheduler with gang-scheduling, topology-aware GPU binpacking, and fair-share queues for PyTorch/Ray"
+    },
+    {
+      "repo": "ray-project/kuberay",
+      "name": "KubeRay Operator",
+      "stars": 2734,
+      "forks": 890,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "pulse_score": 97.8,
+      "description": "Official Kubernetes operator deploying autoscaling RayServe LLM clusters, RayTrain distributed jobs, and zero-downtime model upgrades"
+    },
+    {
+      "repo": "Project-HAMi/HAMi",
+      "name": "CNCF HAMi (Heterogeneous AI Computing Virtualization)",
+      "stars": 4836,
+      "forks": 868,
+      "language": "Go/C",
+      "license": "Apache-2.0",
+      "pulse_score": 97.4,
+      "description": "CNCF sandbox GPU virtualization middleware slicing single NVIDIA/Ascend GPUs by exact MB VRAM and SM compute percentage across Kubernetes pods"
+    },
+    {
+      "repo": "vllm-project/production-stack",
+      "name": "vLLM Production Stack (KV-Cache Router)",
+      "stars": 2678,
+      "forks": 532,
+      "language": "Python/Go",
+      "license": "Apache-2.0",
+      "pulse_score": 97.5,
+      "description": "Official cloud-native vLLM Kubernetes reference stack with prefix-cache-aware routing, LMCache offloading, and Prometheus autoscaling"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "category": "ai-protein-drug-discovery-models",
+  "captured_at": "2026-10-18T05:01:00Z",
+  "total_stars": 20573,
+  "repositories": [
+    {
+      "repo": "google-deepmind/alphafold3",
+      "name": "Google DeepMind AlphaFold 3",
+      "stars": 8649,
+      "forks": 1380,
+      "language": "Python/C++",
+      "license": "CC-BY-NC-SA-4.0",
+      "pulse_score": 97.7,
+      "description": "Diffusion-based biomolecular interaction model predicting joint 3D structures of proteins, DNA, RNA, ligands, and ions"
+    },
+    {
+      "repo": "jwohlwend/boltz",
+      "name": "MIT Boltz-1 / Boltz-2",
+      "stars": 4255,
+      "forks": 910,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 97.9,
+      "description": "First commercially permissive MIT-licensed biomolecular structure & binding affinity foundation model matching AlphaFold 3 accuracy"
+    },
+    {
+      "repo": "evolutionaryscale/esm",
+      "name": "EvolutionaryScale ESM3",
+      "stars": 2995,
+      "forks": 402,
+      "language": "Python",
+      "license": "Cambrian-Open",
+      "pulse_score": 97.6,
+      "description": "Frontier multimodal generative protein language model jointly reasoning over sequence, 3D structure, and catalytic function"
+    },
+    {
+      "repo": "RosettaCommons/RFdiffusion",
+      "name": "Baker Lab RFdiffusion",
+      "stars": 3089,
+      "forks": 651,
+      "language": "Python",
+      "license": "BSD-3-Clause",
+      "pulse_score": 97.4,
+      "description": "Nobel-winning generative denoising diffusion model for de novo protein binder design and symmetric motif scaffolding"
+    },
+    {
+      "repo": "gcorso/DiffDock",
+      "name": "MIT DiffDock-L",
+      "stars": 1585,
+      "forks": 364,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 96.9,
+      "description": "Diffusion generative model over non-Euclidean ligand poses for fast blind molecular docking onto protein targets"
+    }
+  ]
+}

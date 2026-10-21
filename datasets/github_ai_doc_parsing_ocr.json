@@ -1,0 +1,62 @@
+{
+  "category": "ai-document-parsing-ocr-multimodal-pdf-markdown-engines",
+  "fetched_at": "2026-10-20T14:02:00.000000+00:00",
+  "total_stars": 108300,
+  "repositories": [
+    {
+      "repo": "opendatalab/MinerU",
+      "name": "MinerU (OpenDataLab PDF-Extract-Kit)",
+      "stars": 27800,
+      "forks": 2150,
+      "open_issues": 140,
+      "language": "Python",
+      "primary_metric": "Deep learning PDF extraction suite converting formulas to KaTeX, complex tables to HTML/Markdown, and figures to images",
+      "production_tradeoff": "Requires PyTorch GPU runtime (8GB+ VRAM) or slower multi-threaded CPU fallback for high-throughput batch extraction",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "DS4SD/docling",
+      "name": "Docling (IBM Research Document Parser)",
+      "stars": 25600,
+      "forks": 1600,
+      "open_issues": 110,
+      "language": "Python",
+      "primary_metric": "Enterprise document parser for RAG pipelines with TableFormer layout analysis and native DoclingDocument JSON/Markdown output",
+      "production_tradeoff": "Model weights download (~2GB) on cold start; CPU inference takes 1.5s per complex page without ONNX acceleration",
+      "license": "MIT"
+    },
+    {
+      "repo": "Unstructured-IO/unstructured",
+      "name": "Unstructured (Open-Source ETL for LLMs)",
+      "stars": 30800,
+      "forks": 2900,
+      "open_issues": 210,
+      "language": "Python",
+      "primary_metric": "Modular document ingestion engine supporting 25+ formats (PDF, DOCX, PPTX, HTML, XML) with partition_pdf strategy='hi_res'",
+      "production_tradeoff": "Heavy system dependencies (tesseract, poppler, detectron2) requiring dedicated Docker base images",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "VikParuchuri/marker",
+      "name": "Marker (Surya OCR PDF-to-Markdown)",
+      "stars": 19900,
+      "forks": 1350,
+      "open_issues": 95,
+      "language": "Python",
+      "primary_metric": "Ultra-fast PDF-to-Markdown extraction using Surya layout detection, math recognition, and text extraction with table heuristics",
+      "production_tradeoff": "Commercial use requires dual licensing or compliance with GPL-3.0 copyleft requirements",
+      "license": "GPL-3.0"
+    },
+    {
+      "repo": "nlmatics/nlm-ingestor",
+      "name": "NLM-Ingestor (LLMSherpa Layout Engine)",
+      "stars": 4200,
+      "forks": 340,
+      "open_issues": 40,
+      "language": "Python",
+      "primary_metric": "Layout-aware document chunking engine preserving tables and nested section hierarchies for vector RAG retrieval",
+      "production_tradeoff": "Java backend dependency requiring JVM container sidecar or Docker orchestration",
+      "license": "Apache-2.0"
+    }
+  ]
+}

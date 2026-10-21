@@ -1,0 +1,91 @@
+{
+  "benchmark_category": "open_source_voice_tts_stt_engines",
+  "captured_at_utc": "2026-10-16T17:02:00Z",
+  "total_stars": 163642,
+  "repositories": [
+    {
+      "rank": 1,
+      "name": "whisper.cpp",
+      "repo": "ggml-org/whisper.cpp",
+      "stars": 54437,
+      "forks": 6261,
+      "open_issues": 356,
+      "language": "C++",
+      "license": "MIT",
+      "rtf_real_time_factor": 0.08,
+      "first_chunk_latency_ms": 95,
+      "vram_gb": 1.1,
+      "description": "Zero-dependency C/C++ port of OpenAI Whisper with Apple Silicon Metal, CoreML, AVX2, and CUDA acceleration."
+    },
+    {
+      "rank": 2,
+      "name": "Fish Speech",
+      "repo": "fishaudio/fish-speech",
+      "stars": 33207,
+      "forks": 2885,
+      "open_issues": 19,
+      "language": "Python",
+      "license": "Apache-2.0 / Custom",
+      "rtf_real_time_factor": 0.14,
+      "first_chunk_latency_ms": 150,
+      "vram_gb": 4.2,
+      "description": "Dual-autoregressive zero-shot voice cloning and multilingual TTS engine with phoneme-free LLM tokenization."
+    },
+    {
+      "rank": 3,
+      "name": "Chatterbox TTS",
+      "repo": "resemble-ai/chatterbox",
+      "stars": 27008,
+      "forks": 3630,
+      "open_issues": 373,
+      "language": "Python",
+      "license": "MIT",
+      "rtf_real_time_factor": 0.16,
+      "first_chunk_latency_ms": 175,
+      "vram_gb": 3.8,
+      "description": "MIT-licensed 0.5B Llama-backbone open-source TTS by Resemble AI with emotion exaggeration control and Perth watermarking."
+    },
+    {
+      "rank": 4,
+      "name": "faster-whisper",
+      "repo": "SYSTRAN/faster-whisper",
+      "stars": 25901,
+      "forks": 2141,
+      "open_issues": 20,
+      "language": "Python",
+      "license": "MIT",
+      "rtf_real_time_factor": 0.06,
+      "first_chunk_latency_ms": 80,
+      "vram_gb": 1.5,
+      "description": "CTranslate2 reimplementation of OpenAI Whisper delivering 4x faster ASR transcription with INT8 quantization and Silero VAD."
+    },
+    {
+      "rank": 5,
+      "name": "F5-TTS",
+      "repo": "SWivid/F5-TTS",
+      "stars": 15413,
+      "forks": 2248,
+      "open_issues": 64,
+      "language": "Python",
+      "license": "MIT",
+      "rtf_real_time_factor": 0.15,
+      "first_chunk_latency_ms": 190,
+      "vram_gb": 3.4,
+      "description": "Non-autoregressive ConvNeXt diffusion flow-matching TTS with Sway Sampling and zero-shot voice cloning."
+    },
+    {
+      "rank": 6,
+      "name": "MeloTTS",
+      "repo": "myshell-ai/MeloTTS",
+      "stars": 7676,
+      "forks": 1079,
+      "open_issues": 232,
+      "language": "Python",
+      "license": "MIT",
+      "rtf_real_time_factor": 0.04,
+      "first_chunk_latency_ms": 45,
+      "vram_gb": 0.6,
+      "description": "Real-time CPU-native multilingual text-to-speech library by MyShell.ai supporting English, Spanish, French, Chinese, Japanese, and Korean."
+    }
+  ]
+}

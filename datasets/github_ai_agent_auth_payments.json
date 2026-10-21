@@ -1,0 +1,140 @@
+{
+  "category": "ai-agent-auth-payments",
+  "total_stars": 83428,
+  "repos": [
+    {
+      "name": "Composio",
+      "repo": "ComposioHQ/composio",
+      "stars": 30599,
+      "forks": 4858,
+      "language": "TypeScript",
+      "license": "MIT",
+      "score": 96.6,
+      "metric": "250+ managed OAuth2/API-key tool integrations for LangGraph, CrewAI, Claude & OpenAI agents with sandboxed execution",
+      "efficiency": "99.2% tool-schema call accuracy; eliminates custom OAuth token refresh boilerplate"
+    },
+    {
+      "name": "Activepieces",
+      "repo": "activepieces/activepieces",
+      "stars": 25078,
+      "forks": 4352,
+      "language": "TypeScript",
+      "license": "NOASSERTION",
+      "score": 95.8,
+      "metric": "MIT open-source AI workflow & MCP server hub with 280+ type-safe TypeScript pieces and self-hosted Docker workers",
+      "efficiency": "100% MIT open-source core; exposes 280+ SaaS connectors directly as MCP tools"
+    },
+    {
+      "name": "Pipedream Connect",
+      "repo": "PipedreamHQ/pipedream",
+      "stars": 11749,
+      "forks": 5835,
+      "language": "JavaScript",
+      "license": "NOASSERTION",
+      "score": 95.4,
+      "metric": "2,500+ pre-built API connectors, serverless Node/Python steps & managed OAuth2 for customer-facing AI agents",
+      "efficiency": "Largest connector catalog (2,500+ APIs) + drop-in Connect SDK for multi-tenant agent auth"
+    },
+    {
+      "name": "Nango",
+      "repo": "NangoHQ/nango",
+      "stars": 12717,
+      "forks": 1443,
+      "language": "TypeScript",
+      "license": "NOASSERTION",
+      "score": 95.1,
+      "metric": "Unified API & managed OAuth2 token refresh infrastructure for 250+ enterprise SaaS APIs and AI agent tool calling",
+      "efficiency": "Sub-15ms proxy latency; 100% self-hostable OAuth vault & real-time webhook sync"
+    },
+    {
+      "name": "Stripe Agent Toolkit",
+      "repo": "stripe/agent-toolkit",
+      "stars": 1953,
+      "forks": 370,
+      "language": "TypeScript",
+      "license": "MIT",
+      "score": 94.8,
+      "metric": "Official Stripe Python & TypeScript function-calling and MCP toolkit for autonomous payment links, invoicing & metered billing",
+      "efficiency": "Native Stripe API guardrails + metered token billing for monetized AI agents"
+    },
+    {
+      "name": "Coinbase AgentKit",
+      "repo": "coinbase/agentkit",
+      "stars": 1332,
+      "forks": 862,
+      "language": "TypeScript",
+      "license": "NOASSERTION",
+      "score": 94.5,
+      "metric": "Framework-agnostic on-chain wallet, USDC/x402 micropayment & DeFi action toolkit for autonomous AI agents",
+      "efficiency": "Sub-second Base L2 USDC agent-to-agent settlement with MPC wallet isolation"
+    }
+  ],
+  "repositories": [
+    {
+      "name": "Composio",
+      "repo": "ComposioHQ/composio",
+      "stars": 30599,
+      "forks": 4858,
+      "language": "TypeScript",
+      "license": "MIT",
+      "score": 96.6,
+      "metric": "250+ managed OAuth2/API-key tool integrations for LangGraph, CrewAI, Claude & OpenAI agents with sandboxed execution",
+      "efficiency": "99.2% tool-schema call accuracy; eliminates custom OAuth token refresh boilerplate"
+    },
+    {
+      "name": "Activepieces",
+      "repo": "activepieces/activepieces",
+      "stars": 25078,
+      "forks": 4352,
+      "language": "TypeScript",
+      "license": "NOASSERTION",
+      "score": 95.8,
+      "metric": "MIT open-source AI workflow & MCP server hub with 280+ type-safe TypeScript pieces and self-hosted Docker workers",
+      "efficiency": "100% MIT open-source core; exposes 280+ SaaS connectors directly as MCP tools"
+    },
+    {
+      "name": "Pipedream Connect",
+      "repo": "PipedreamHQ/pipedream",
+      "stars": 11749,
+      "forks": 5835,
+      "language": "JavaScript",
+      "license": "NOASSERTION",
+      "score": 95.4,
+      "metric": "2,500+ pre-built API connectors, serverless Node/Python steps & managed OAuth2 for customer-facing AI agents",
+      "efficiency": "Largest connector catalog (2,500+ APIs) + drop-in Connect SDK for multi-tenant agent auth"
+    },
+    {
+      "name": "Nango",
+      "repo": "NangoHQ/nango",
+      "stars": 12717,
+      "forks": 1443,
+      "language": "TypeScript",
+      "license": "NOASSERTION",
+      "score": 95.1,
+      "metric": "Unified API & managed OAuth2 token refresh infrastructure for 250+ enterprise SaaS APIs and AI agent tool calling",
+      "efficiency": "Sub-15ms proxy latency; 100% self-hostable OAuth vault & real-time webhook sync"
+    },
+    {
+      "name": "Stripe Agent Toolkit",
+      "repo": "stripe/agent-toolkit",
+      "stars": 1953,
+      "forks": 370,
+      "language": "TypeScript",
+      "license": "MIT",
+      "score": 94.8,
+      "metric": "Official Stripe Python & TypeScript function-calling and MCP toolkit for autonomous payment links, invoicing & metered billing",
+      "efficiency": "Native Stripe API guardrails + metered token billing for monetized AI agents"
+    },
+    {
+      "name": "Coinbase AgentKit",
+      "repo": "coinbase/agentkit",
+      "stars": 1332,
+      "forks": 862,
+      "language": "TypeScript",
+      "license": "NOASSERTION",
+      "score": 94.5,
+      "metric": "Framework-agnostic on-chain wallet, USDC/x402 micropayment & DeFi action toolkit for autonomous AI agents",
+      "efficiency": "Sub-second Base L2 USDC agent-to-agent settlement with MPC wallet isolation"
+    }
+  ]
+}

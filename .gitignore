@@ -1,0 +1,6 @@
+# OS & editor artifacts
+.DS_Store
+*.swp
+*.pyc
+__pycache__/
+.env

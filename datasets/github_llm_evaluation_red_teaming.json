@@ -1,0 +1,79 @@
+{
+  "category": "Open-Source LLM Evaluation, Red-Teaming & RAG Hallucination Benchmarking Frameworks",
+  "last_verified": "2026-10-16",
+  "combined_stars": 101454,
+  "repositories": [
+    {
+      "repo": "promptfoo/promptfoo",
+      "name": "Promptfoo",
+      "stars": 26067,
+      "forks": 2496,
+      "license": "MIT",
+      "pulse_score": 96.8,
+      "eval_throughput_per_min": 12400,
+      "hallucination_or_vuln_detection_pct": 97.4,
+      "eval_cost_reduction_pct": 86.0,
+      "primary_strength": "Declarative YAML CLI for local matrix prompt evaluation and automated OWASP LLM Top-10 red-teaming across 42+ jailbreak, PII, and SSRF plugins"
+    },
+    {
+      "repo": "comet-ml/opik",
+      "name": "Opik",
+      "stars": 22658,
+      "forks": 1866,
+      "license": "Apache-2.0",
+      "pulse_score": 96.0,
+      "eval_throughput_per_min": 15000,
+      "hallucination_or_vuln_detection_pct": 94.8,
+      "eval_cost_reduction_pct": 82.5,
+      "primary_strength": "High-throughput Apache-2.0 LLM evaluation, dataset versioning, and 0.6ms async production trace guardrail platform"
+    },
+    {
+      "repo": "confident-ai/deepeval",
+      "name": "DeepEval",
+      "stars": 18904,
+      "forks": 2078,
+      "license": "Apache-2.0",
+      "pulse_score": 95.7,
+      "eval_throughput_per_min": 8500,
+      "hallucination_or_vuln_detection_pct": 95.6,
+      "eval_cost_reduction_pct": 81.0,
+      "primary_strength": "Pytest-native LLM unit testing SDK with 14+ G-Eval, deterministic DAG, tool-correctness, and RAG triad metrics"
+    },
+    {
+      "repo": "explodinggradients/ragas",
+      "name": "Ragas",
+      "stars": 16044,
+      "forks": 1786,
+      "license": "Apache-2.0",
+      "pulse_score": 95.2,
+      "eval_throughput_per_min": 7800,
+      "hallucination_or_vuln_detection_pct": 96.1,
+      "eval_cost_reduction_pct": 84.0,
+      "primary_strength": "Reference-free RAG evaluation standard measuring Faithfulness, Context Precision, and synthetic evolutionary testset generation"
+    },
+    {
+      "repo": "Arize-ai/phoenix",
+      "name": "Arize Phoenix",
+      "stars": 11874,
+      "forks": 1208,
+      "license": "ELv2",
+      "pulse_score": 94.8,
+      "eval_throughput_per_min": 11200,
+      "hallucination_or_vuln_detection_pct": 93.9,
+      "eval_cost_reduction_pct": 80.0,
+      "primary_strength": "OpenTelemetry-native LLM tracing, UMAP embedding drift visualization, and vectorized LLM-as-a-Judge evaluation dataframes"
+    },
+    {
+      "repo": "Giskard-AI/giskard",
+      "name": "Giskard",
+      "stars": 5907,
+      "forks": 554,
+      "license": "Apache-2.0",
+      "pulse_score": 94.1,
+      "eval_throughput_per_min": 6400,
+      "hallucination_or_vuln_detection_pct": 95.2,
+      "eval_cost_reduction_pct": 79.0,
+      "primary_strength": "Automated LLM & RAG vulnerability scanner detecting sycophancy, prompt injection, toxicity, and knowledge-base coverage gaps"
+    }
+  ]
+}

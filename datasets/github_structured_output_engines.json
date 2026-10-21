@@ -1,0 +1,49 @@
+{
+  "category": "Structured Output, FSM Constrained Decoding & Type-Safe Agent Engines",
+  "repos": [
+    {
+      "repo": "567-labs/instructor",
+      "stars": 14020,
+      "forks": 1313,
+      "open_issues": 198,
+      "language": "Python",
+      "license": "MIT",
+      "description": "structured outputs for llms ",
+      "pushed_at": "2026-10-14T22:21:57Z",
+      "fetched_at": "2026-10-16T04:05:55.534281+00:00"
+    },
+    {
+      "repo": "pydantic/pydantic-ai",
+      "stars": 20650,
+      "forks": 2927,
+      "open_issues": 1457,
+      "language": "Python",
+      "license": "MIT",
+      "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+      "pushed_at": "2026-10-16T04:04:53Z",
+      "fetched_at": "2026-10-16T04:05:55.754592+00:00"
+    },
+    {
+      "repo": "dottxt-ai/outlines",
+      "stars": 15938,
+      "forks": 907,
+      "open_issues": 196,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "Structured Outputs",
+      "pushed_at": "2026-09-21T17:58:05Z",
+      "fetched_at": "2026-10-16T04:05:55.968086+00:00"
+    },
+    {
+      "repo": "guidance-ai/guidance",
+      "stars": 21799,
+      "forks": 1218,
+      "open_issues": 352,
+      "language": "Jupyter Notebook",
+      "license": "MIT",
+      "description": "A guidance language for controlling large language models.",
+      "pushed_at": "2026-05-21T17:08:04Z",
+      "fetched_at": "2026-10-16T04:05:56.181149+00:00"
+    }
+  ]
+}

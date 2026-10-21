@@ -1,0 +1,57 @@
+{
+  "category": "ai-3d-gaussian-splatting-models",
+  "captured_at": "2026-10-18T01:01:00Z",
+  "total_stars": 72538,
+  "repositories": [
+    {
+      "repo": "graphdeco-inria/gaussian-splatting",
+      "name": "3D Gaussian Splatting (INRIA)",
+      "stars": 24233,
+      "forks": 3474,
+      "language": "Python/CUDA",
+      "license": "Custom/Research",
+      "pulse_score": 97.6,
+      "description": "Original INRIA real-time 100+ FPS radiance field rendering via anisotropic 3D Gaussians"
+    },
+    {
+      "repo": "microsoft/TRELLIS",
+      "name": "Microsoft TRELLIS 3D",
+      "stars": 13984,
+      "forks": 1383,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 97.9,
+      "description": "Structured 3D Latents (SLAT) foundation model generating 3D Gaussians, Radiance Fields, and textured GLB meshes from text or images"
+    },
+    {
+      "repo": "Tencent/Hunyuan3D-2",
+      "name": "Tencent Hunyuan3D 2.0",
+      "stars": 15144,
+      "forks": 1571,
+      "language": "Python",
+      "license": "Custom/Open-Weights",
+      "pulse_score": 97.7,
+      "description": "High-resolution two-stage DiT shape (Hunyuan3D-DiT) and PBR texture synthesis (Hunyuan3D-Paint) foundation model"
+    },
+    {
+      "repo": "nerfstudio-project/nerfstudio",
+      "name": "Nerfstudio (gsplat)",
+      "stars": 12080,
+      "forks": 1681,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pulse_score": 97.2,
+      "description": "Modular open-source framework and `gsplat` CUDA engine (4x less VRAM) for training, viewing, and exporting 3D Gaussian Splatting & NeRFs"
+    },
+    {
+      "repo": "VAST-AI-Research/TripoSR",
+      "name": "TripoSR (Stability AI & Tripo)",
+      "stars": 7097,
+      "forks": 918,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 96.8,
+      "description": "Ultra-fast feed-forward Large Reconstruction Model (LRM) generating textured 3D meshes from a single image in 0.5 seconds"
+    }
+  ]
+}

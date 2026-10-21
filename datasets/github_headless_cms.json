@@ -1,0 +1,57 @@
+{
+  "category": "Open-Source Headless CMS & Content Infrastructure",
+  "generated_at": "2026-10-20T19:00:00Z",
+  "total_stars": 177700,
+  "repositories": [
+    {
+      "repo": "strapi/strapi",
+      "name": "Strapi",
+      "stars": 65200,
+      "forks": 8400,
+      "license": "Community / MIT",
+      "description": "Leading open-source headless CMS 100% JavaScript / TypeScript with visual content-type builder and plugin marketplace",
+      "primary_language": "TypeScript",
+      "pulse_score": 98.4
+    },
+    {
+      "repo": "payloadcms/payload",
+      "name": "Payload CMS",
+      "stars": 28500,
+      "forks": 2100,
+      "license": "MIT",
+      "description": "The best Next.js and Node.js headless CMS with code-first TypeScript schemas, Lexical editor, and native database access",
+      "primary_language": "TypeScript",
+      "pulse_score": 98.3
+    },
+    {
+      "repo": "directus/directus",
+      "name": "Directus",
+      "stars": 28200,
+      "forks": 3900,
+      "license": "BOSL / GPL-3.0",
+      "description": "An open-source data engine that instantly turns any SQL database into real-time GraphQL and REST APIs with a no-code app",
+      "primary_language": "TypeScript",
+      "pulse_score": 98.1
+    },
+    {
+      "repo": "TryGhost/Ghost",
+      "name": "Ghost",
+      "stars": 47400,
+      "forks": 10500,
+      "license": "MIT",
+      "description": "Turn your audience into a business with modern publishing, headless content APIs, paid subscriptions, and newsletters",
+      "primary_language": "JavaScript",
+      "pulse_score": 97.9
+    },
+    {
+      "repo": "keystonejs/keystone",
+      "name": "KeystoneJS",
+      "stars": 8400,
+      "forks": 650,
+      "license": "MIT",
+      "description": "The superpowered CMS for developers with schema-driven GraphQL APIs and auto-generated admin UI",
+      "primary_language": "TypeScript",
+      "pulse_score": 97.5
+    }
+  ]
+}

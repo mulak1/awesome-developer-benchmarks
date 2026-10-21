@@ -1,0 +1,57 @@
+{
+  "category": "open-source-web-analytics-privacy-product-analytics",
+  "generated_at": "2026-10-21T00:00:00Z",
+  "total_combined_stars": 152459,
+  "platforms": [
+    {
+      "name": "PostHog",
+      "repo": "PostHog/posthog",
+      "stars": 40364,
+      "forks": 2720,
+      "language": "Python / TypeScript",
+      "license": "MIT / Open-core",
+      "score": 98.7,
+      "description": "All-in-one product OS: product analytics, session recording, feature flags, heatmaps, and LLM observability."
+    },
+    {
+      "name": "Umami",
+      "repo": "umami-software/umami",
+      "stars": 39492,
+      "forks": 5150,
+      "language": "TypeScript",
+      "license": "MIT",
+      "score": 98.5,
+      "description": "Fast, privacy-focused open source alternative to Google Analytics with zero cookies."
+    },
+    {
+      "name": "Plausible Analytics",
+      "repo": "plausible/analytics",
+      "stars": 29577,
+      "forks": 1980,
+      "language": "Elixir",
+      "license": "AGPL-3.0",
+      "score": 98.4,
+      "description": "Simple, lightweight (<1 KB), privacy-friendly web analytics alternative to Google Analytics."
+    },
+    {
+      "name": "Matomo",
+      "repo": "matomo-org/matomo",
+      "stars": 21964,
+      "forks": 2840,
+      "language": "PHP",
+      "license": "GPL-3.0",
+      "score": 97.9,
+      "description": "The leading open-source Google Analytics alternative that gives you full control over your data."
+    },
+    {
+      "name": "GoAccess",
+      "repo": "allinurl/goaccess",
+      "stars": 21062,
+      "forks": 1280,
+      "language": "C",
+      "license": "MIT",
+      "score": 97.6,
+      "description": "Real-time web log analyzer and interactive viewer that runs in a terminal or through your browser."
+    }
+  ]
+}

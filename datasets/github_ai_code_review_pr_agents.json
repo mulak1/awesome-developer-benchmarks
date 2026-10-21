@@ -1,0 +1,68 @@
+{
+  "category": "ai-code-review-pr-agents",
+  "title": "2026 AI Code Review, PR Agents & Differential Security Scanners Benchmark",
+  "combined_github_stars": 53411,
+  "updated_at": "2026-10-17T08:02:00Z",
+  "repositories": [
+    {
+      "rank": 1,
+      "name": "Semgrep",
+      "repo": "semgrep/semgrep",
+      "stars": 17097,
+      "forks": 1106,
+      "score": 96.8,
+      "p50_pr_review_sec": 4.2,
+      "owasp_diff_catch_rate_pct": 94.6,
+      "cost_per_1000_prs_usd": 0.0,
+      "license": "LGPL-2.1 (OCaml/Python)"
+    },
+    {
+      "rank": 2,
+      "name": "Qodo PR-Agent",
+      "repo": "Codium-ai/pr-agent",
+      "stars": 13422,
+      "forks": 1968,
+      "score": 96.4,
+      "p50_pr_review_sec": 11.8,
+      "owasp_diff_catch_rate_pct": 91.2,
+      "cost_per_1000_prs_usd": 38.0,
+      "license": "Apache-2.0 (Python)"
+    },
+    {
+      "rank": 3,
+      "name": "Reviewdog",
+      "repo": "reviewdog/reviewdog",
+      "stars": 9672,
+      "forks": 507,
+      "score": 95.7,
+      "p50_pr_review_sec": 1.8,
+      "owasp_diff_catch_rate_pct": 88.5,
+      "cost_per_1000_prs_usd": 0.0,
+      "license": "MIT (Go)"
+    },
+    {
+      "rank": 4,
+      "name": "Sweep AI",
+      "repo": "sweepai/sweep",
+      "stars": 7706,
+      "forks": 468,
+      "score": 94.9,
+      "p50_pr_review_sec": 14.5,
+      "owasp_diff_catch_rate_pct": 89.4,
+      "cost_per_1000_prs_usd": 52.0,
+      "license": "Apache-2.0 (Python)"
+    },
+    {
+      "rank": 5,
+      "name": "Danger JS",
+      "repo": "danger/danger-js",
+      "stars": 5514,
+      "forks": 380,
+      "score": 94.3,
+      "p50_pr_review_sec": 1.4,
+      "owasp_diff_catch_rate_pct": 84.0,
+      "cost_per_1000_prs_usd": 0.0,
+      "license": "MIT (TypeScript)"
+    }
+  ]
+}

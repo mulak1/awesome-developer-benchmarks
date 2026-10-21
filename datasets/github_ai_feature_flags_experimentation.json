@@ -1,0 +1,47 @@
+{
+  "category": "ai-feature-flags-ab-testing-engines",
+  "fetched_at": "2026-10-18T12:00:30Z",
+  "combined_stars": 74238,
+  "repositories": [
+    {
+      "repo": "PostHog/posthog",
+      "name": "posthog",
+      "stars": 40331,
+      "forks": 3524,
+      "license": "NOASSERTION",
+      "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
+    },
+    {
+      "repo": "Unleash/unleash",
+      "name": "unleash",
+      "stars": 13882,
+      "forks": 910,
+      "license": "AGPL-3.0",
+      "description": "Open-source feature management platform"
+    },
+    {
+      "repo": "growthbook/growthbook",
+      "name": "growthbook",
+      "stars": 8507,
+      "forks": 883,
+      "license": "NOASSERTION",
+      "description": "Open Source Feature Flags, Experimentation, and Product Analytics"
+    },
+    {
+      "repo": "flagsmith/flagsmith",
+      "name": "flagsmith",
+      "stars": 6598,
+      "forks": 588,
+      "license": "BSD-3-Clause",
+      "description": "Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options."
+    },
+    {
+      "repo": "flipt-io/flipt",
+      "name": "flipt",
+      "stars": 4920,
+      "forks": 314,
+      "license": "NOASSERTION",
+      "description": "Enterprise-ready, Git native feature management solution"
+    }
+  ]
+}

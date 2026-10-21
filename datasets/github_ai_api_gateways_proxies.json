@@ -1,0 +1,56 @@
+{
+  "category": "ai-api-gateways-reverse-proxies-ingress-controllers",
+  "total_stars": 233989,
+  "repositories": [
+    {
+      "repo": "traefik/traefik",
+      "name": "traefik",
+      "stars": 65271,
+      "forks": 6254,
+      "open_issues": 948,
+      "language": "Go",
+      "license": "MIT",
+      "description": "The Cloud Native Application Proxy"
+    },
+    {
+      "repo": "caddyserver/caddy",
+      "name": "caddy",
+      "stars": 78117,
+      "forks": 5150,
+      "open_issues": 300,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS"
+    },
+    {
+      "repo": "Kong/kong",
+      "name": "kong",
+      "stars": 44279,
+      "forks": 5237,
+      "open_issues": 222,
+      "language": "Lua",
+      "license": "Apache-2.0",
+      "description": "\ud83e\udd8d The API and AI Gateway"
+    },
+    {
+      "repo": "apache/apisix",
+      "name": "apisix",
+      "stars": 17236,
+      "forks": 2972,
+      "open_issues": 256,
+      "language": "Lua",
+      "license": "Apache-2.0",
+      "description": "The Cloud-Native API Gateway and AI Gateway"
+    },
+    {
+      "repo": "envoyproxy/envoy",
+      "name": "envoy",
+      "stars": 29086,
+      "forks": 5665,
+      "open_issues": 1848,
+      "language": "C++",
+      "license": "Apache-2.0",
+      "description": "Cloud-native high-performance edge/middle/service proxy"
+    }
+  ]
+}

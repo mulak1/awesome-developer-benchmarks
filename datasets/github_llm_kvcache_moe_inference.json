@@ -1,0 +1,85 @@
+{
+  "category": "Open-Source LLM KV-Cache Disaggregation, MoE Offload & TensorRT Engines (2026)",
+  "captured_at": "2026-10-17T07:02:00Z",
+  "combined_stars": 65892,
+  "repositories": [
+    {
+      "repo": "kvcache-ai/ktransformers",
+      "name": "KTransformers",
+      "stars": 19613,
+      "forks": 1602,
+      "open_issues": 525,
+      "license": "Apache-2.0",
+      "language": "C++ / Python",
+      "ttft_speedup_x": 3.8,
+      "moe_671b_single_gpu_vram_gb": 24.0,
+      "core_win": "Run 671B DeepSeek-R1/V3 on 1x 24GB GPU + RAM",
+      "tradeoff": "Requires DDR5 system RAM bandwidth for MoE"
+    },
+    {
+      "repo": "NVIDIA/TensorRT-LLM",
+      "name": "NVIDIA TensorRT-LLM",
+      "stars": 14838,
+      "forks": 2826,
+      "open_issues": 1701,
+      "license": "Apache-2.0",
+      "language": "C++ / CUDA",
+      "ttft_speedup_x": 4.2,
+      "moe_671b_single_gpu_vram_gb": 80.0,
+      "core_win": "FP8/FP4 TensorRT kernels + EAGLE spec decode",
+      "tradeoff": "NVIDIA GPU exclusive; engine build step"
+    },
+    {
+      "repo": "LMCache/LMCache",
+      "name": "LMCache",
+      "stars": 12099,
+      "forks": 2064,
+      "open_issues": 854,
+      "license": "Apache-2.0",
+      "language": "Python / CUDA",
+      "ttft_speedup_x": 6.5,
+      "moe_671b_single_gpu_vram_gb": 48.0,
+      "core_win": "6.5x faster TTFT via cross-node vLLM KV cache",
+      "tradeoff": "Add-on KV layer for vLLM; needs Redis/disk"
+    },
+    {
+      "repo": "abetlen/llama-cpp-python",
+      "name": "llama-cpp-python",
+      "stars": 10648,
+      "forks": 1470,
+      "open_issues": 694,
+      "license": "MIT",
+      "language": "Python / C++",
+      "ttft_speedup_x": 2.4,
+      "moe_671b_single_gpu_vram_gb": 16.0,
+      "core_win": "Drop-in Python GGUF server + draft spec-dec",
+      "tradeoff": "Lower multi-user batching vs vLLM/TRT-LLM"
+    },
+    {
+      "repo": "kvcache-ai/Mooncake",
+      "name": "Mooncake Transfer Engine",
+      "stars": 6818,
+      "forks": 1343,
+      "open_issues": 767,
+      "license": "Apache-2.0",
+      "language": "C++ / Go / Rust",
+      "ttft_speedup_x": 5.8,
+      "moe_671b_single_gpu_vram_gb": 48.0,
+      "core_win": "RDMA/NVMe disaggregated prefill/decode KV pool",
+      "tradeoff": "Best on multi-node RDMA/RoCE GPU clusters"
+    },
+    {
+      "repo": "PygmalionAI/aphrodite-engine",
+      "name": "Aphrodite Engine",
+      "stars": 1876,
+      "forks": 210,
+      "open_issues": 56,
+      "license": "AGPL-3.0",
+      "language": "Python / CUDA",
+      "ttft_speedup_x": 2.9,
+      "moe_671b_single_gpu_vram_gb": 24.0,
+      "core_win": "EXL2/AWQ/GGUF/FP8 KV cache + spec decoding",
+      "tradeoff": "AGPL-3.0 license for hosted commercial APIs"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "category": "open-source-infrastructure-as-code-iac-terraform-alternatives",
+  "name": "Open-Source Infrastructure as Code (IaC) & Cloud Provisioning Engines",
+  "description": "State management, cloud provider compatibility, and resource-hour commercial licensing benchmark across open-source Terraform alternatives.",
+  "captured_at": "2026-10-21T06:00:00Z",
+  "combined_stars": 66245,
+  "tools": [
+    {
+      "name": "OpenTofu",
+      "repo": "opentofu/opentofu",
+      "stars": 30557,
+      "forks": 1400,
+      "license": "MPL-2.0 (Linux Foundation)",
+      "score": 98.6,
+      "iac_language": "Declarative HCL (100% Terraform Drop-In)",
+      "state_encryption": "Client-Side Native AES-GCM / AWS KMS",
+      "commercial_alternative": "HCP Terraform ($0.00014/resource/hr)",
+      "monthly_savings_est": 1400.00
+    },
+    {
+      "name": "Pulumi",
+      "repo": "pulumi/pulumi",
+      "stars": 25799,
+      "forks": 1461,
+      "license": "Apache-2.0",
+      "score": 98.1,
+      "iac_language": "TypeScript, Python, Go, C#, YAML",
+      "state_encryption": "Pulumi Secrets Provider",
+      "commercial_alternative": "Terraform Enterprise ($2,500/mo base)",
+      "monthly_savings_est": 2100.00
+    },
+    {
+      "name": "Terragrunt",
+      "repo": "gruntwork-io/terragrunt",
+      "stars": 9889,
+      "forks": 1243,
+      "license": "MIT",
+      "score": 96.4,
+      "iac_language": "DRY Terraform & OpenTofu Wrapper HCL",
+      "state_encryption": "Delegated to OpenTofu / S3 Backend",
+      "commercial_alternative": "Spacelift Enterprise ($1,500/mo)",
+      "monthly_savings_est": 950.00
+    }
+  ]
+}

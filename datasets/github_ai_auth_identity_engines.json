@@ -1,0 +1,57 @@
+{
+  "benchmark_id": "ai_auth_identity_engines_2026",
+  "captured_at": "2026-10-18T13:00:57.786627+00:00",
+  "combined_github_stars": 108021,
+  "repositories": [
+    {
+      "repo": "keycloak/keycloak",
+      "stars": 37419,
+      "forks": 9074,
+      "language": "Java",
+      "license": "Apache-2.0",
+      "jwt_verify_p99_ms": 3.8,
+      "memory_footprint_mb": 1200,
+      "token_exchange_rps": 14500
+    },
+    {
+      "repo": "goauthentik/authentik",
+      "stars": 25992,
+      "forks": 2082,
+      "language": "Python",
+      "license": "MIT",
+      "jwt_verify_p99_ms": 2.4,
+      "memory_footprint_mb": 650,
+      "token_exchange_rps": 9200
+    },
+    {
+      "repo": "zitadel/zitadel",
+      "stars": 15340,
+      "forks": 1384,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "jwt_verify_p99_ms": 1.1,
+      "memory_footprint_mb": 140,
+      "token_exchange_rps": 18500
+    },
+    {
+      "repo": "supertokens/supertokens-core",
+      "stars": 15347,
+      "forks": 835,
+      "language": "Java",
+      "license": "Apache-2.0",
+      "jwt_verify_p99_ms": 1.4,
+      "memory_footprint_mb": 210,
+      "token_exchange_rps": 16200
+    },
+    {
+      "repo": "ory/kratos",
+      "stars": 13923,
+      "forks": 1197,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "jwt_verify_p99_ms": 0.9,
+      "memory_footprint_mb": 85,
+      "token_exchange_rps": 22400
+    }
+  ]
+}

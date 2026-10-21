@@ -1,0 +1,62 @@
+{
+  "benchmark_suite": "Iteration 16: Real-Time Voice & WebRTC Multimodal Agent Runtimes (Pipecat vs LiveKit Agents vs TEN vs Ultravox)",
+  "total_combined_stars": 47014,
+  "repositories": [
+    {
+      "repo": "pipecat-ai/pipecat",
+      "category": "Real-Time Voice & Multimodal Agent Framework",
+      "stars": 16512,
+      "forks": 2888,
+      "open_issues": 399,
+      "language": "Python",
+      "license": "BSD-2-Clause",
+      "p50_ttfa_ms": 320,
+      "cost_per_min_usd": 0.042,
+      "description": "Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.",
+      "pushed_at": "2026-10-15T21:45:06Z",
+      "fetched_at": "2026-10-15T22:00:58.414452+00:00"
+    },
+    {
+      "repo": "livekit/agents",
+      "category": "WebRTC Realtime Voice & Video Agent Worker",
+      "stars": 14757,
+      "forks": 3943,
+      "open_issues": 732,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "p50_ttfa_ms": 265,
+      "cost_per_min_usd": 0.038,
+      "description": "A framework for building realtime voice AI agents \ud83e\udd16\ud83c\udf99\ufe0f\ud83d\udcf9 ",
+      "pushed_at": "2026-10-15T20:54:55Z",
+      "fetched_at": "2026-10-15T22:00:58.660566+00:00"
+    },
+    {
+      "repo": "TEN-framework/ten-framework",
+      "category": "Ultra-Low-Latency C++/Go/Python Realtime AI Agent",
+      "stars": 11166,
+      "forks": 1366,
+      "open_issues": 249,
+      "language": "Python",
+      "license": "NOASSERTION",
+      "p50_ttfa_ms": 210,
+      "cost_per_min_usd": 0.031,
+      "description": " Open-source framework for conversational voice AI agents",
+      "pushed_at": "2026-10-14T12:46:33Z",
+      "fetched_at": "2026-10-15T22:00:58.890043+00:00"
+    },
+    {
+      "repo": "fixie-ai/ultravox",
+      "category": "Native Speech-to-Speech Multimodal LLM Runtime",
+      "stars": 4579,
+      "forks": 386,
+      "open_issues": 63,
+      "language": "Python",
+      "license": "MIT",
+      "p50_ttfa_ms": 185,
+      "cost_per_min_usd": 0.029,
+      "description": "A fast multimodal LLM for real-time voice",
+      "pushed_at": "2025-12-12T18:09:40Z",
+      "fetched_at": "2026-10-15T22:00:59.118209+00:00"
+    }
+  ]
+}

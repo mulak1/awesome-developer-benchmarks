@@ -1,0 +1,42 @@
+[
+  {
+    "repo": "tremorlabs/tremor",
+    "name": "tremor",
+    "stars": 3661,
+    "forks": 192,
+    "open_issues": 27,
+    "language": "TypeScript",
+    "description": "Copy & Paste React components to build modern web applications. ",
+    "pushed_at": "2025-10-10T13:08:24Z"
+  },
+  {
+    "repo": "apache/echarts",
+    "name": "echarts",
+    "stars": 67518,
+    "forks": 19815,
+    "open_issues": 1487,
+    "language": "TypeScript",
+    "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+    "pushed_at": "2026-10-13T09:27:20Z"
+  },
+  {
+    "repo": "shadcn-ui/ui",
+    "name": "ui",
+    "stars": 125685,
+    "forks": 13290,
+    "open_issues": 1804,
+    "language": "TypeScript",
+    "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
+    "pushed_at": "2026-10-15T16:46:19Z"
+  },
+  {
+    "repo": "promptfoo/promptfoo",
+    "name": "promptfoo",
+    "stars": 26017,
+    "forks": 2485,
+    "open_issues": 724,
+    "language": "TypeScript",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+    "pushed_at": "2026-10-15T17:31:57Z"
+  }
+]

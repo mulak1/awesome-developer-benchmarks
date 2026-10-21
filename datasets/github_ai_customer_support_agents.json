@@ -1,0 +1,51 @@
+{
+  "category": "AI Customer Support, Omnichannel Helpdesk & Conversational Agents",
+  "fetched_at": "2026-10-18T10:02:30Z",
+  "repositories": [
+    {
+      "repo": "chatwoot/chatwoot",
+      "stars": 37913,
+      "forks": 9241,
+      "open_issues": 1602,
+      "language": "Ruby",
+      "license": "NOASSERTION",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac"
+    },
+    {
+      "repo": "baptisteArno/typebot.io",
+      "stars": 10553,
+      "forks": 3236,
+      "open_issues": 17,
+      "language": "TypeScript",
+      "license": "NOASSERTION",
+      "description": "\ud83d\udcac Typebot is a powerful chatbot builder that you can self-host."
+    },
+    {
+      "repo": "botpress/botpress",
+      "stars": 14956,
+      "forks": 2295,
+      "open_issues": 55,
+      "language": "TypeScript",
+      "license": "MIT",
+      "description": "The open-source hub to build & deploy GPT/LLM Agents \u26a1\ufe0f"
+    },
+    {
+      "repo": "onyx-dot-app/onyx",
+      "stars": 32553,
+      "forks": 4574,
+      "open_issues": 593,
+      "language": "Python",
+      "license": "NOASSERTION",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM"
+    },
+    {
+      "repo": "papercups-io/papercups",
+      "stars": 6115,
+      "forks": 580,
+      "open_issues": 179,
+      "language": "Elixir",
+      "license": "MIT",
+      "description": "Open-source live customer chat"
+    }
+  ]
+}

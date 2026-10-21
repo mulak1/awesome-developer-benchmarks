@@ -1,0 +1,73 @@
+{
+  "category": "On-Device, Apple Silicon MLX, WebGPU Browser & Edge LLM Runtimes",
+  "captured_at": "2026-10-17T02:02:00Z",
+  "total_combined_stars": 161975,
+  "repositories": [
+    {
+      "name": "Exo Distributed Cluster",
+      "repo": "exo-explore/exo",
+      "stars": 47927,
+      "forks": 3564,
+      "license": "GPL-3.0",
+      "throughput_tok_sec": 64.0,
+      "memory_footprint_gb": 0.0,
+      "token_overhead_ratio": 1.0,
+      "best_for": "Pooling everyday MacBooks, Mac Studios, Linux GPUs, and iPhones into a unified P2P home cluster to run 70B-405B frontier models locally"
+    },
+    {
+      "name": "Apple MLX / MLX-LM",
+      "repo": "ml-explore/mlx",
+      "stars": 28816,
+      "forks": 2346,
+      "license": "MIT",
+      "throughput_tok_sec": 185.0,
+      "memory_footprint_gb": 4.6,
+      "token_overhead_ratio": 1.0,
+      "best_for": "Zero-copy Apple Silicon unified memory LLM inference and LoRA fine-tuning on M1/M2/M3/M4 Macs"
+    },
+    {
+      "name": "Mozilla llamafile",
+      "repo": "Mozilla-Ocho/llamafile",
+      "stars": 26361,
+      "forks": 1704,
+      "license": "Apache-2.0",
+      "throughput_tok_sec": 112.0,
+      "memory_footprint_gb": 4.9,
+      "token_overhead_ratio": 1.0,
+      "best_for": "Distributing and running an entire LLM + local OpenAI server as a single zero-dependency Cosmopolitan executable across 6 OSes"
+    },
+    {
+      "name": "MLC-LLM",
+      "repo": "mlc-ai/mlc-llm",
+      "stars": 23248,
+      "forks": 2192,
+      "license": "Apache-2.0",
+      "throughput_tok_sec": 148.0,
+      "memory_footprint_gb": 4.4,
+      "token_overhead_ratio": 1.0,
+      "best_for": "Compiling LLMs via Apache TVM Unity to native iOS, Android, Metal, Vulkan, and CUDA runtimes"
+    },
+    {
+      "name": "WebLLM",
+      "repo": "mlc-ai/web-llm",
+      "stars": 19274,
+      "forks": 1420,
+      "license": "Apache-2.0",
+      "throughput_tok_sec": 85.0,
+      "memory_footprint_gb": 3.8,
+      "token_overhead_ratio": 1.0,
+      "best_for": "100% in-browser WebGPU LLM inference with OpenAI-compatible TypeScript SDK and zero backend GPU servers"
+    },
+    {
+      "name": "Transformers.js",
+      "repo": "huggingface/transformers.js",
+      "stars": 16349,
+      "forks": 1203,
+      "license": "Apache-2.0",
+      "throughput_tok_sec": 92.0,
+      "memory_footprint_gb": 1.4,
+      "token_overhead_ratio": 1.0,
+      "best_for": "Client-side ONNX Runtime Web & WebGPU embeddings, vision, Whisper ASR, and small language models in JavaScript"
+    }
+  ]
+}

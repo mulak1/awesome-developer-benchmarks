@@ -1,0 +1,47 @@
+{
+  "category": "open-source-s3-object-storage-data-lake-minio-seaweedfs",
+  "generated_at": "2026-10-21T03:00:00Z",
+  "total_combined_stars": 128662,
+  "repositories": [
+    {
+      "name": "MinIO",
+      "repo": "minio/minio",
+      "stars": 61314,
+      "forks": 8204,
+      "language": "Go",
+      "license": "GNU AGPLv3",
+      "score": 99.2,
+      "description": "High-performance S3-compatible distributed object storage engineered for enterprise AI/ML workloads."
+    },
+    {
+      "name": "SeaweedFS",
+      "repo": "seaweedfs/seaweedfs",
+      "stars": 35645,
+      "forks": 3083,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "score": 98.7,
+      "description": "Scalable distributed storage system for billions of small and large files with O(1) disk access and S3 API."
+    },
+    {
+      "name": "Ceph",
+      "repo": "ceph/ceph",
+      "stars": 17142,
+      "forks": 6541,
+      "language": "C++",
+      "license": "LGPL-2.1",
+      "score": 98.1,
+      "description": "Distributed object, block, and POSIX file storage platform powering petabyte-scale cloud infrastructure."
+    },
+    {
+      "name": "JuiceFS",
+      "repo": "juicedata/juicefs",
+      "stars": 14561,
+      "forks": 1320,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "score": 98.0,
+      "description": "Distributed POSIX file system built on top of Redis/SQL metadata engines and S3 object storage."
+    }
+  ]
+}

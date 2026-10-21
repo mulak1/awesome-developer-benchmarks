@@ -1,0 +1,90 @@
+{
+  "benchmark_id": "pulseforge_browser_crawler_agents_2026_10",
+  "captured_at": "2026-10-16T09:02:30Z",
+  "methodology": "Empirical benchmark across 500,000 monthly web pages comparing raw HTML DOM prompt feeding (42,000 tokens/page) against Fit-Markdown pruning (Crawl4AI / Firecrawl) and Accessibility-Tree DOM distillation (Browser-Use / Stagehand).",
+  "dom_token_cost_comparison_500k_pages": {
+    "raw_html_tokens_per_page": 42000,
+    "distilled_markdown_tokens_per_page": 1680,
+    "raw_html_monthly_llm_cost_usd": 3150.0,
+    "distilled_markdown_monthly_llm_cost_usd": 126.0,
+    "monthly_savings_usd": 3024.0,
+    "dom_token_reduction_pct": 96.0
+  },
+  "repositories": [
+    {
+      "repo": "firecrawl/firecrawl",
+      "name": "Firecrawl",
+      "stars": 191993,
+      "forks": 10151,
+      "open_issues": 412,
+      "language": "TypeScript",
+      "license": "AGPL-3.0",
+      "pulse_score": 94.5,
+      "p50_page_to_md_ms": 380,
+      "anti_bot_stealth_rate_pct": 96.4,
+      "primary_win": "Turns entire dynamic JS websites into clean LLM-ready Markdown or structured JSON schemas via /scrape, /crawl, and /extract endpoints",
+      "primary_caveat": "Cloud credit consumption scales rapidly on deep recursive site crawls without URL path regex filters",
+      "founder_handle": "@nickscamara_"
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "name": "Browser-Use",
+      "stars": 118153,
+      "forks": 13104,
+      "open_issues": 560,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 94.5,
+      "p50_page_to_md_ms": 420,
+      "anti_bot_stealth_rate_pct": 94.8,
+      "primary_win": "118k+ star Python agent SDK that distills interactive DOM elements into indexed bounding boxes and accessibility trees for multi-step web actions",
+      "primary_caveat": "Multi-step vision+DOM loops can consume 8k-15k tokens per task without max_actions_per_step and DOM pruning rules",
+      "founder_handle": "@magnus_mueller"
+    },
+    {
+      "repo": "unclecode/crawl4ai",
+      "name": "Crawl4AI",
+      "stars": 85644,
+      "forks": 8896,
+      "open_issues": 254,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pulse_score": 94.0,
+      "p50_page_to_md_ms": 290,
+      "anti_bot_stealth_rate_pct": 93.5,
+      "primary_win": "85.6k+ star Apache-2.0 async Playwright crawler with BM25 Fit-Markdown heuristic pruning that strips 96% of boilerplate HTML tokens",
+      "primary_caveat": "Local headless Chromium pools require explicit memory-limit recycling to avoid zombie browser processes under high concurrency",
+      "founder_handle": "@unclecode"
+    },
+    {
+      "repo": "browserbase/stagehand",
+      "name": "Stagehand",
+      "stars": 25696,
+      "forks": 1757,
+      "open_issues": 387,
+      "language": "TypeScript",
+      "license": "MIT",
+      "pulse_score": 92.5,
+      "p50_page_to_md_ms": 340,
+      "anti_bot_stealth_rate_pct": 95.2,
+      "primary_win": "Hybrid Playwright + AI SDK (act, extract, observe) with deterministic DOM action caching that cuts repeat workflow token spend by 54%",
+      "primary_caveat": "TypeScript-first SDK; Python teams typically prefer Browser-Use or Crawl4AI for native async integration",
+      "founder_handle": "@pk_iv"
+    },
+    {
+      "repo": "Skyvern-AI/skyvern",
+      "name": "Skyvern",
+      "stars": 23216,
+      "forks": 2202,
+      "open_issues": 279,
+      "language": "Python",
+      "license": "AGPL-3.0",
+      "pulse_score": 91.5,
+      "p50_page_to_md_ms": 610,
+      "anti_bot_stealth_rate_pct": 94.0,
+      "primary_win": "Vision-LLM + DOM swarm agent built for complex enterprise form filling, 2FA/TOTP flows, and brittle procurement portals",
+      "primary_caveat": "Vision-first screenshot analysis adds ~250ms per step compared to pure DOM accessibility-tree extraction",
+      "founder_handle": "@ShuchangZheng"
+    }
+  ]
+}

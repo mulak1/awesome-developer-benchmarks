@@ -1,0 +1,57 @@
+{
+  "category": "ai-time-series-iot-observability-databases",
+  "benchmark_date": "2026-10-18",
+  "combined_stars": 116260,
+  "repositories": [
+    {
+      "repo": "ClickHouse/ClickHouse",
+      "name": "ClickHouse",
+      "stars": 50472,
+      "forks": 9124,
+      "open_issues": 8507,
+      "language": "C++",
+      "license": "Apache-2.0",
+      "description": "ClickHouse\u00ae is a real-time analytics database management system"
+    },
+    {
+      "repo": "timescale/timescaledb",
+      "name": "timescaledb",
+      "stars": 23715,
+      "forks": 1172,
+      "open_issues": 431,
+      "language": "C",
+      "license": "NOASSERTION",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension"
+    },
+    {
+      "repo": "VictoriaMetrics/VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "stars": 17880,
+      "forks": 1774,
+      "open_issues": 782,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database"
+    },
+    {
+      "repo": "questdb/questdb",
+      "name": "questdb",
+      "stars": 17449,
+      "forks": 1675,
+      "open_issues": 1230,
+      "language": "Java",
+      "license": "Apache-2.0",
+      "description": "QuestDB is a high performance, open-source, time-series database"
+    },
+    {
+      "repo": "GreptimeTeam/greptimedb",
+      "name": "greptimedb",
+      "stars": 6744,
+      "forks": 566,
+      "open_issues": 295,
+      "language": "Rust",
+      "license": "Apache-2.0",
+      "description": "The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage."
+    }
+  ]
+}

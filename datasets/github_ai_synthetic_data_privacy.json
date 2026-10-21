@@ -1,0 +1,62 @@
+{
+  "category": "ai-synthetic-data-generation-privacy-engines",
+  "fetched_at": "2026-10-20T11:04:00.000000+00:00",
+  "total_stars": 27700,
+  "repositories": [
+    {
+      "repo": "joke2k/faker",
+      "name": "Faker",
+      "stars": 17500,
+      "forks": 1900,
+      "open_issues": 120,
+      "language": "Python",
+      "primary_metric": "Deterministic mock PII data generation with 100+ localized country providers",
+      "production_tradeoff": "Mock generation rather than statistical relational correlation modeling",
+      "license": "MIT"
+    },
+    {
+      "repo": "sdv-dev/SDV",
+      "name": "Synthetic Data Vault (SDV)",
+      "stars": 4100,
+      "forks": 650,
+      "open_issues": 85,
+      "language": "Python",
+      "primary_metric": "CTGAN/CopulaGAN relational tabular synthesizer with Wasserstein fidelity metrics",
+      "production_tradeoff": "Multi-table relational synthesis on complex schemas requires GPU or multi-core CPU",
+      "license": "MIT"
+    },
+    {
+      "repo": "argilla-io/distilabel",
+      "name": "Distilabel",
+      "stars": 3800,
+      "forks": 320,
+      "open_issues": 45,
+      "language": "Python",
+      "primary_metric": "High-throughput LLM synthetic dataset synthesis & DPO preference pair distillation",
+      "production_tradeoff": "Requires local or remote LLM endpoint (vLLM/Ollama/OpenRouter) for text synthesis",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "opendp/opendp",
+      "name": "OpenDP (Harvard/Microsoft)",
+      "stars": 1200,
+      "forks": 180,
+      "open_issues": 35,
+      "language": "Rust",
+      "primary_metric": "Mathematical differential privacy library with formal epsilon-delta bounds",
+      "production_tradeoff": "Privacy budget calibration requires statistical expertise to balance utility vs noise",
+      "license": "MIT"
+    },
+    {
+      "repo": "DataResponsibly/DataSynthesizer",
+      "name": "DataSynthesizer",
+      "stars": 1100,
+      "forks": 190,
+      "open_issues": 18,
+      "language": "Python",
+      "primary_metric": "Differentially private Bayesian network and correlated attribute synthesizer",
+      "production_tradeoff": "High attribute cardinality can increase Bayesian network computation time",
+      "license": "MIT"
+    }
+  ]
+}

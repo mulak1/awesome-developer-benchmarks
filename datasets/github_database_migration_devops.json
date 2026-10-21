@@ -1,0 +1,62 @@
+{
+  "category": "database-migration-schema-devops-engines",
+  "fetched_at": "2026-10-20T15:02:00.000000+00:00",
+  "total_stars": 70300,
+  "repositories": [
+    {
+      "repo": "bytebase/bytebase",
+      "name": "Bytebase (Database DevOps & GitOps)",
+      "stars": 34500,
+      "forks": 3200,
+      "open_issues": 160,
+      "language": "Go",
+      "primary_metric": "Web-based database DevOps portal with GitOps schema change review, SQL linting, and RBAC across 15+ databases",
+      "production_tradeoff": "Requires dedicated Go/Next.js container deployment and metadata database (Postgres/MySQL)",
+      "license": "Apache-2.0 / Free Self-Hosted"
+    },
+    {
+      "repo": "ariga/atlas",
+      "name": "Atlas (Declarative Schema Migration)",
+      "stars": 6400,
+      "forks": 380,
+      "open_issues": 75,
+      "language": "Go",
+      "primary_metric": "Modern declarative schema management engine computing automatic DDL diffs from HCL or SQL schemas with CI drift detection",
+      "production_tradeoff": "Cloud schema registry features (Atlas Cloud) require subscription or self-hosted CLI workflows",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "golang-migrate/migrate",
+      "name": "golang-migrate (CLI & Go Library)",
+      "stars": 15800,
+      "forks": 1850,
+      "open_issues": 210,
+      "language": "Go",
+      "primary_metric": "Zero-dependency Go CLI and library executing forward/backward migration pairs across 20+ SQL/NoSQL drivers",
+      "production_tradeoff": "Imperative numbered migration files without automated schema drift or conflict resolution",
+      "license": "MIT"
+    },
+    {
+      "repo": "flyway/flyway",
+      "name": "Flyway Community Edition",
+      "stars": 8400,
+      "forks": 1700,
+      "open_issues": 190,
+      "language": "Java",
+      "primary_metric": "Canonical version control for relational databases executing SQL-based migrations with transactional checksums",
+      "production_tradeoff": "Advanced features (dry-run, undo, drift check) locked behind Redgate commercial licenses",
+      "license": "Apache-2.0 (Core)"
+    },
+    {
+      "repo": "liquibase/liquibase",
+      "name": "Liquibase Community",
+      "stars": 5200,
+      "forks": 1550,
+      "open_issues": 140,
+      "language": "Java",
+      "primary_metric": "Enterprise database change management supporting XML, YAML, JSON, and formatted SQL changelogs",
+      "production_tradeoff": "JVM runtime overhead and verbose XML changelog syntax compared to lightweight Go binaries",
+      "license": "Apache-2.0"
+    }
+  ]
+}

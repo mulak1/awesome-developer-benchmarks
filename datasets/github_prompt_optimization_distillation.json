@@ -1,0 +1,77 @@
+{
+  "snapshot_id": "prompt_optimization_distillation_2026_10_17",
+  "captured_at": "2026-10-17T17:05:00Z",
+  "category": "Automatic Prompt Compilers, Textual Auto-Diff & Synthetic Distillation Pipelines",
+  "repositories": [
+    {
+      "slug": "dspy",
+      "full_name": "stanfordnlp/dspy",
+      "stars": 38667,
+      "forks": 3431,
+      "open_issues": 813,
+      "language": "Python",
+      "html_url": "https://github.com/stanfordnlp/dspy",
+      "description": "DSPy: The framework for programming (not prompting) language models via MIPROv2 & BootstrapFewShot compilers",
+      "accuracy_gain_pct": 24.6,
+      "token_cost_reduction_via_distillation_pct": 88.5,
+      "license": "MIT",
+      "pulse_score": 97.2
+    },
+    {
+      "slug": "agenta",
+      "full_name": "Agenta-AI/agenta",
+      "stars": 4843,
+      "forks": 699,
+      "open_issues": 381,
+      "language": "TypeScript",
+      "html_url": "https://github.com/Agenta-AI/agenta",
+      "description": "Agenta: Open-source LLMOps prompt engineering playground, versioning, side-by-side evaluation, and observability studio",
+      "accuracy_gain_pct": 18.2,
+      "token_cost_reduction_via_distillation_pct": 74.0,
+      "license": "MIT",
+      "pulse_score": 95.8
+    },
+    {
+      "slug": "adalflow",
+      "full_name": "SylphAI-Inc/AdalFlow",
+      "stars": 4219,
+      "forks": 389,
+      "open_issues": 70,
+      "language": "Python",
+      "html_url": "https://github.com/SylphAI-Inc/AdalFlow",
+      "description": "AdalFlow: PyTorch-like library to build and auto-optimize LLM applications using unified textual auto-diff and few-shot demos",
+      "accuracy_gain_pct": 26.1,
+      "token_cost_reduction_via_distillation_pct": 86.2,
+      "license": "MIT",
+      "pulse_score": 96.4
+    },
+    {
+      "slug": "textgrad",
+      "full_name": "zou-group/textgrad",
+      "stars": 3762,
+      "forks": 295,
+      "open_issues": 66,
+      "language": "Python",
+      "html_url": "https://github.com/zou-group/textgrad",
+      "description": "TextGrad: Automatic differentiation via text backpropagating LLM feedback gradients through compound AI systems (Nature)",
+      "accuracy_gain_pct": 22.8,
+      "token_cost_reduction_via_distillation_pct": 79.4,
+      "license": "MIT",
+      "pulse_score": 95.6
+    },
+    {
+      "slug": "distilabel",
+      "full_name": "argilla-io/distilabel",
+      "stars": 3423,
+      "forks": 263,
+      "open_issues": 113,
+      "language": "Python",
+      "html_url": "https://github.com/argilla-io/distilabel",
+      "description": "Distilabel: Synthetic data generation and RLAIF teacher-to-student distillation pipeline framework",
+      "accuracy_gain_pct": 21.4,
+      "token_cost_reduction_via_distillation_pct": 91.8,
+      "license": "Apache-2.0",
+      "pulse_score": 96.1
+    }
+  ]
+}

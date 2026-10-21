@@ -1,0 +1,80 @@
+{
+  "benchmark_category": "ai-video-generation-models",
+  "captured_at": "2026-10-16T20:02:00-07:00",
+  "total_combined_stars": 93848,
+  "workload_profile": "2,000 monthly 5-second 720p/1080p AI video generation clips & talking avatar renders",
+  "repositories": [
+    {
+      "name": "Wan2.1",
+      "repo": "Wan-Video/Wan2.1",
+      "stars": 17226,
+      "forks": 3813,
+      "license": "Apache-2.0",
+      "language": "Python",
+      "score": 96.8,
+      "vbench_total_pct": 86.2,
+      "min_vram_gb": 8.2,
+      "highlight": "17.2k+ star Apache-2.0 14B/1.3B 3D-VAE DiT video suite achieving 86.2% VBench score and running 1.3B T2V/I2V in 8.2GB consumer VRAM"
+    },
+    {
+      "name": "HunyuanVideo",
+      "repo": "Tencent-Hunyuan/HunyuanVideo",
+      "stars": 12627,
+      "forks": 1355,
+      "license": "Tencent-Hunyuan",
+      "language": "Python",
+      "score": 96.1,
+      "vbench_total_pct": 85.3,
+      "min_vram_gb": 14.0,
+      "highlight": "12.6k+ star 13B dual-to-single stream DiT with 3D causal VAE and MLLM text encoder for cinematic motion and camera control"
+    },
+    {
+      "name": "Open-Sora",
+      "repo": "hpcaitech/Open-Sora",
+      "stars": 29871,
+      "forks": 3094,
+      "license": "Apache-2.0",
+      "language": "Python",
+      "score": 95.8,
+      "vbench_total_pct": 84.8,
+      "min_vram_gb": 12.0,
+      "highlight": "29.9k+ star Apache-2.0 open video training & inference pipeline with Colossal-AI sequence parallelism and 16x video DC-AE compression"
+    },
+    {
+      "name": "LivePortrait",
+      "repo": "KwaiVGI/LivePortrait",
+      "stars": 19251,
+      "forks": 2004,
+      "license": "MIT",
+      "language": "Python",
+      "score": 95.9,
+      "vbench_total_pct": 85.0,
+      "min_vram_gb": 4.2,
+      "highlight": "19.3k+ star MIT stitch-and-retarget portrait animation engine running at 12.8ms/frame (78 FPS) on RTX 4090 in 4.2GB VRAM"
+    },
+    {
+      "name": "LTX-Video",
+      "repo": "Lightricks/LTX-Video",
+      "stars": 11123,
+      "forks": 1179,
+      "license": "Apache-2.0",
+      "language": "Python",
+      "score": 95.5,
+      "vbench_total_pct": 83.9,
+      "min_vram_gb": 8.0,
+      "highlight": "11.1k+ star Apache-2.0 2B DiT video generator producing 5-second 768x512@24fps clips in 4 seconds (faster than real-time playback)"
+    },
+    {
+      "name": "Mochi 1",
+      "repo": "genmoai/mochi",
+      "stars": 3750,
+      "forks": 494,
+      "license": "Apache-2.0",
+      "language": "Python",
+      "score": 94.6,
+      "vbench_total_pct": 83.4,
+      "min_vram_gb": 16.0,
+      "highlight": "3.8k+ star Apache-2.0 10B Asymmetric Diffusion Transformer (AsymmDiT) with 30fps photorealistic temporal motion fidelity"
+    }
+  ]
+}

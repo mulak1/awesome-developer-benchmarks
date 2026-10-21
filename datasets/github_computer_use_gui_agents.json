@@ -1,0 +1,92 @@
+{
+  "category": "Open-Source Desktop Computer-Use Agents, Vision GUI Grounding & OS Automation Frameworks",
+  "benchmark_date": "2026-10-17",
+  "combined_github_stars": 187962,
+  "methodology": "Live GitHub telemetry combined with PulseForge OSWorld/ScreenSpot GUI grounding accuracy, p50 screen-parse latency, sandbox isolation overhead, and monthly cost vs $200/seat OpenAI Operator and raw high-res vision screenshot loops.",
+  "repositories": [
+    {
+      "name": "Open Interpreter",
+      "slug": "open-interpreter",
+      "repo": "OpenInterpreter/open-interpreter",
+      "stars": 68642,
+      "forks": 6120,
+      "license": "MIT",
+      "language": "Python",
+      "pulse_score": 96.5,
+      "p50_action_latency_ms": 140,
+      "screenspot_gui_accuracy_pct": 84.5,
+      "best_for": "Natural-language local terminal, Python, and OS desktop automation with open/BYOK models",
+      "cost_savings_note": "100% Free MIT local CLI & OS agent; eliminates $200/mo commercial operator seats"
+    },
+    {
+      "name": "UI-TARS Desktop",
+      "slug": "ui-tars",
+      "repo": "bytedance/UI-TARS-desktop",
+      "stars": 39318,
+      "forks": 2890,
+      "license": "Apache-2.0",
+      "language": "TypeScript",
+      "pulse_score": 96.7,
+      "p50_action_latency_ms": 115,
+      "screenspot_gui_accuracy_pct": 91.8,
+      "best_for": "Native Vision-Language GUI desktop & browser agent controlling macOS and Windows with zero DOM wrappers",
+      "cost_savings_note": "-88.2% GUI automation token cost via single-pass native vision-action grounding"
+    },
+    {
+      "name": "Cua (trycua)",
+      "slug": "cua",
+      "repo": "trycua/cua",
+      "stars": 30045,
+      "forks": 1780,
+      "license": "MIT",
+      "language": "Python",
+      "pulse_score": 96.1,
+      "p50_action_latency_ms": 95,
+      "screenspot_gui_accuracy_pct": 90.4,
+      "best_for": "Apple Virtualization.framework (Lume) macOS & Linux VM sandboxes for safe Computer-Use 2.0 fleets",
+      "cost_savings_note": "Near-native 95% macOS/Linux VM speed with full host filesystem isolation"
+    },
+    {
+      "name": "Microsoft OmniParser V2",
+      "slug": "omniparser",
+      "repo": "microsoft/OmniParser",
+      "stars": 25514,
+      "forks": 2140,
+      "license": "MIT",
+      "language": "Python",
+      "pulse_score": 95.8,
+      "p50_action_latency_ms": 85,
+      "screenspot_gui_accuracy_pct": 93.2,
+      "best_for": "85ms screen parsing converting raw desktop screenshots into numbered, clickable UI bounding boxes for any LLM",
+      "cost_savings_note": "-74.0% vision retry token waste by grounding tiny icons and non-HTML widgets before LLM inference"
+    },
+    {
+      "name": "Nanobrowser",
+      "slug": "nanobrowser",
+      "repo": "nanobrowser/nanobrowser",
+      "stars": 14128,
+      "forks": 1460,
+      "license": "Apache-2.0",
+      "language": "TypeScript",
+      "pulse_score": 94.9,
+      "p50_action_latency_ms": 120,
+      "screenspot_gui_accuracy_pct": 89.2,
+      "best_for": "Multi-agent Chrome extension (Planner, Navigator, Validator) automating tasks inside your logged-in browser",
+      "cost_savings_note": "$0/mo Apache-2.0 Chrome extension replacing $200/mo ChatGPT Operator subscriptions"
+    },
+    {
+      "name": "Self-Operating Computer",
+      "slug": "self-operating-computer",
+      "repo": "OthersideAI/self-operating-computer",
+      "stars": 10315,
+      "forks": 1590,
+      "license": "MIT",
+      "language": "Python",
+      "pulse_score": 93.8,
+      "p50_action_latency_ms": 180,
+      "screenspot_gui_accuracy_pct": 86.0,
+      "best_for": "Lightweight Python multimodal mouse/keyboard OS controller supporting OmniParser, GPT-4o, Claude, and Qwen-VL",
+      "cost_savings_note": "Permissive MIT cross-OS desktop automation in under 500 lines of hackable Python"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "repo": "SWE-agent/SWE-agent",
+    "name": "SWE-agent",
+    "stars": 20572,
+    "forks": 2258,
+    "open_issues": 155,
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2026-10-12T23:00:33Z",
+    "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] "
+  },
+  {
+    "repo": "Codium-ai/pr-agent",
+    "name": "pr-agent",
+    "stars": 13400,
+    "forks": 1963,
+    "open_issues": 90,
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2026-10-14T09:07:49Z",
+    "description": "\ud83d\ude80 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier."
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "name": "dspy",
+    "stars": 38650,
+    "forks": 3424,
+    "open_issues": 801,
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2026-10-15T16:19:32Z",
+    "description": "DSPy: The framework for programming-not prompting-language models"
+  },
+  {
+    "repo": "All-Hands-AI/OpenHands",
+    "name": "OpenHands",
+    "stars": 90975,
+    "forks": 12062,
+    "open_issues": 1008,
+    "language": "TypeScript",
+    "license": "MIT",
+    "pushed_at": "2026-10-15T15:56:08Z",
+    "description": "\ud83d\ude4c OpenHands: AI-Driven Development"
+  }
+]

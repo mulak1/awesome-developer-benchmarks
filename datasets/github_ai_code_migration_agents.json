@@ -1,0 +1,62 @@
+{
+  "category": "ai-code-migration-refactoring-agents",
+  "benchmark_date": "2026-10-18",
+  "combined_stars": 37207,
+  "repositories": [
+    {
+      "name": "ast-grep",
+      "repo": "ast-grep/ast-grep",
+      "stars": 16258,
+      "forks": 480,
+      "score": 97.9,
+      "license": "MIT",
+      "language": "Rust",
+      "files_scanned_per_sec": 18500,
+      "ast_refactor_determinism_pct": 100.0
+    },
+    {
+      "name": "jscodeshift",
+      "repo": "facebook/jscodeshift",
+      "stars": 10040,
+      "forks": 499,
+      "score": 97.4,
+      "license": "MIT",
+      "language": "JavaScript",
+      "files_scanned_per_sec": 4200,
+      "ast_refactor_determinism_pct": 100.0
+    },
+    {
+      "name": "GritQL",
+      "repo": "getgrit/gritql",
+      "stars": 4612,
+      "forks": 127,
+      "score": 97.6,
+      "license": "Apache-2.0",
+      "language": "Rust",
+      "files_scanned_per_sec": 14200,
+      "ast_refactor_determinism_pct": 99.8
+    },
+    {
+      "name": "OpenRewrite",
+      "repo": "openrewrite/rewrite",
+      "stars": 3801,
+      "forks": 588,
+      "score": 97.8,
+      "license": "Apache-2.0",
+      "language": "Java",
+      "files_scanned_per_sec": 6800,
+      "ast_refactor_determinism_pct": 100.0
+    },
+    {
+      "name": "Uber Piranha",
+      "repo": "uber/piranha",
+      "stars": 2496,
+      "forks": 212,
+      "score": 96.9,
+      "license": "Apache-2.0",
+      "language": "Rust",
+      "files_scanned_per_sec": 15400,
+      "ast_refactor_determinism_pct": 100.0
+    }
+  ]
+}

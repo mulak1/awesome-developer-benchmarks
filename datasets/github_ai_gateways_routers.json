@@ -1,0 +1,55 @@
+{
+  "benchmark_suite": "GitHub AI Gateways, Semantic Caches & Cost-Optimal LLM Routers (2026)",
+  "fetched_at": "2026-10-16T01:01:58.089347+00:00",
+  "total_combined_stars": 91851,
+  "repositories": [
+    {
+      "repo": "BerriAI/litellm",
+      "category": "Universal LLM Proxy & Cost-Cap Gateway",
+      "stars": 61339,
+      "forks": 12390,
+      "open_issues": 5488,
+      "language": "Python",
+      "p50_proxy_overhead_ms": 8.4,
+      "blended_cost_reduction_pct": 48.0,
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and l",
+      "pushed_at": "2026-10-16T01:00:39Z"
+    },
+    {
+      "repo": "Portkey-AI/gateway",
+      "category": "Sub-Millisecond AI Gateway & Semantic Cache",
+      "stars": 13195,
+      "forks": 1355,
+      "open_issues": 300,
+      "language": "TypeScript",
+      "p50_proxy_overhead_ms": 1.9,
+      "blended_cost_reduction_pct": 54.0,
+      "description": "A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.",
+      "pushed_at": "2026-05-25T13:54:51Z"
+    },
+    {
+      "repo": "tensorzero/tensorzero",
+      "category": "Rust High-Throughput LLM Gateway & Feedback Loop",
+      "stars": 11711,
+      "forks": 973,
+      "open_issues": 392,
+      "language": "Rust",
+      "p50_proxy_overhead_ms": 0.8,
+      "blended_cost_reduction_pct": 61.0,
+      "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+      "pushed_at": "2026-06-11T01:48:44Z"
+    },
+    {
+      "repo": "lm-sys/RouteLLM",
+      "category": "Cost-Optimal Strong/Weak Model Cascade Router",
+      "stars": 5606,
+      "forks": 446,
+      "open_issues": 45,
+      "language": "Python",
+      "p50_proxy_overhead_ms": 4.2,
+      "blended_cost_reduction_pct": 68.5,
+      "description": "A framework for serving and evaluating LLM routers - save LLM costs without compromising quality",
+      "pushed_at": "2024-08-10T19:10:15Z"
+    }
+  ]
+}

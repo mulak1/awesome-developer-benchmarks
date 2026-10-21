@@ -1,0 +1,140 @@
+{
+  "category": "ai-rerankers-colbert-search",
+  "total_stars": 38888,
+  "repos": [
+    {
+      "name": "Sentence-Transformers (CrossEncoder)",
+      "repo": "UKPLab/sentence-transformers",
+      "stars": 19183,
+      "forks": 2962,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "score": 96.9,
+      "metric": "Foundational Python SDK for CrossEncoder rerankers, SparseEncoder & Matryoshka embeddings with ONNX/OpenVINO quantization",
+      "efficiency": "3.2x faster ONNX INT8 CrossEncoder inference; powers 10,000+ Hugging Face reranker & embedding models"
+    },
+    {
+      "name": "BGE FlagEmbedding",
+      "repo": "FlagOpen/FlagEmbedding",
+      "stars": 12256,
+      "forks": 974,
+      "language": "Python",
+      "license": "MIT",
+      "score": 96.7,
+      "metric": "BGE-M3 dense+sparse+multi-vector embeddings & BGE-Reranker-v2-m3 multilingual cross-encoder",
+      "efficiency": "68.4 BEIR NDCG@10; cuts Cohere Rerank 3.5 API spend by 96.6% ($68/mo vs $2,000/mo at 1M queries)"
+    },
+    {
+      "name": "Stanford ColBERT",
+      "repo": "stanford-futuredata/ColBERT",
+      "stars": 3948,
+      "forks": 476,
+      "language": "Python",
+      "license": "MIT",
+      "score": 96.1,
+      "metric": "Late-interaction MaxSim token-level vector retrieval delivering cross-encoder accuracy at sub-18ms PLAID index speed",
+      "efficiency": "14x faster than full cross-encoders with token-level interpretability"
+    },
+    {
+      "name": "FlashRank",
+      "repo": "PrithivirajDamodaran/FlashRank",
+      "stars": 1009,
+      "forks": 72,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "score": 95.8,
+      "metric": "Ultra-lightweight 4MB-40MB ONNX INT8 CPU reranker with zero PyTorch/CUDA dependencies and 4.2ms p50 latency",
+      "efficiency": "Runs 100% on serverless CPU/Lambda in 4.2ms; zero GPU infrastructure cost"
+    },
+    {
+      "name": "Answer.AI Rerankers",
+      "repo": "AnswerDotAI/rerankers",
+      "stars": 1641,
+      "forks": 106,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "score": 95.5,
+      "metric": "Unified 1-line Python interface across Cross-Encoders, FlashRank, ColBERT, RankGPT, T5 & API rerankers",
+      "efficiency": "Zero lock-in 1-line swap between local ONNX/GPU models and commercial APIs"
+    },
+    {
+      "name": "Byaldi (ColPali)",
+      "repo": "AnswerDotAI/byaldi",
+      "stars": 851,
+      "forks": 91,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "score": 95.2,
+      "metric": "Vision-native ColPali late-interaction multimodal PDF & document page retriever bypassing brittle OCR pipelines",
+      "efficiency": "+22% visual table/chart retrieval recall vs text-only chunking"
+    }
+  ],
+  "repositories": [
+    {
+      "name": "Sentence-Transformers (CrossEncoder)",
+      "repo": "UKPLab/sentence-transformers",
+      "stars": 19183,
+      "forks": 2962,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "score": 96.9,
+      "metric": "Foundational Python SDK for CrossEncoder rerankers, SparseEncoder & Matryoshka embeddings with ONNX/OpenVINO quantization",
+      "efficiency": "3.2x faster ONNX INT8 CrossEncoder inference; powers 10,000+ Hugging Face reranker & embedding models"
+    },
+    {
+      "name": "BGE FlagEmbedding",
+      "repo": "FlagOpen/FlagEmbedding",
+      "stars": 12256,
+      "forks": 974,
+      "language": "Python",
+      "license": "MIT",
+      "score": 96.7,
+      "metric": "BGE-M3 dense+sparse+multi-vector embeddings & BGE-Reranker-v2-m3 multilingual cross-encoder",
+      "efficiency": "68.4 BEIR NDCG@10; cuts Cohere Rerank 3.5 API spend by 96.6% ($68/mo vs $2,000/mo at 1M queries)"
+    },
+    {
+      "name": "Stanford ColBERT",
+      "repo": "stanford-futuredata/ColBERT",
+      "stars": 3948,
+      "forks": 476,
+      "language": "Python",
+      "license": "MIT",
+      "score": 96.1,
+      "metric": "Late-interaction MaxSim token-level vector retrieval delivering cross-encoder accuracy at sub-18ms PLAID index speed",
+      "efficiency": "14x faster than full cross-encoders with token-level interpretability"
+    },
+    {
+      "name": "FlashRank",
+      "repo": "PrithivirajDamodaran/FlashRank",
+      "stars": 1009,
+      "forks": 72,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "score": 95.8,
+      "metric": "Ultra-lightweight 4MB-40MB ONNX INT8 CPU reranker with zero PyTorch/CUDA dependencies and 4.2ms p50 latency",
+      "efficiency": "Runs 100% on serverless CPU/Lambda in 4.2ms; zero GPU infrastructure cost"
+    },
+    {
+      "name": "Answer.AI Rerankers",
+      "repo": "AnswerDotAI/rerankers",
+      "stars": 1641,
+      "forks": 106,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "score": 95.5,
+      "metric": "Unified 1-line Python interface across Cross-Encoders, FlashRank, ColBERT, RankGPT, T5 & API rerankers",
+      "efficiency": "Zero lock-in 1-line swap between local ONNX/GPU models and commercial APIs"
+    },
+    {
+      "name": "Byaldi (ColPali)",
+      "repo": "AnswerDotAI/byaldi",
+      "stars": 851,
+      "forks": 91,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "score": 95.2,
+      "metric": "Vision-native ColPali late-interaction multimodal PDF & document page retriever bypassing brittle OCR pipelines",
+      "efficiency": "+22% visual table/chart retrieval recall vs text-only chunking"
+    }
+  ]
+}

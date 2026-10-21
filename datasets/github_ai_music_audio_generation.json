@@ -1,0 +1,57 @@
+{
+  "category": "ai-music-audio-generation",
+  "captured_at": "2026-10-18T00:01:00Z",
+  "total_stars": 110640,
+  "repositories": [
+    {
+      "repo": "suno-ai/bark",
+      "name": "Suno Bark",
+      "stars": 39271,
+      "forks": 4666,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 97.4,
+      "description": "Transformer text-to-audio model generating speech, background music, ambient noise, and non-verbal vocalizations"
+    },
+    {
+      "repo": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+      "name": "RVC Voice & Singing WebUI",
+      "stars": 38794,
+      "forks": 5309,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 97.6,
+      "description": "Real-time AI singing voice conversion and vocal timbre cloning trained on <10 minutes of reference audio"
+    },
+    {
+      "repo": "facebookresearch/audiocraft",
+      "name": "Meta AudioCraft (MusicGen & AudioGen)",
+      "stars": 23740,
+      "forks": 2706,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 97.8,
+      "description": "Meta PyTorch deep learning library for controllable text-to-music (MusicGen), melody conditioning, and sound effects (AudioGen)"
+    },
+    {
+      "repo": "ace-step/ACE-Step",
+      "name": "ACE-Step 3.5B Music Foundation Model",
+      "stars": 4949,
+      "forks": 642,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pulse_score": 97.9,
+      "description": "Open-source 3.5B flow-matching music generation foundation model synthesizing 4-minute full-band vocals + instrumentals in 20 seconds"
+    },
+    {
+      "repo": "Stability-AI/stable-audio-tools",
+      "name": "Stable Audio Open (stable-audio-tools)",
+      "stars": 3886,
+      "forks": 486,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 96.8,
+      "description": "Latent diffusion transformer training and inference toolkit for 44.1kHz stereo sound effects, loops, and musical stems"
+    }
+  ]
+}

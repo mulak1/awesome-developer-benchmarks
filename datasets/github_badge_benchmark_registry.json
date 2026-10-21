@@ -1,0 +1,82 @@
+{
+  "synced_at": "2026-10-15T03:02:13.316183+00:00",
+  "source_repositories": [
+    {
+      "full_name": "anuraghazra/github-readme-stats",
+      "stars": 79841,
+      "forks": 38137,
+      "language": "JavaScript",
+      "license": "MIT",
+      "description": ":zap: Dynamically generated stats for your github readmes",
+      "html_url": "https://github.com/anuraghazra/github-readme-stats"
+    },
+    {
+      "full_name": "badges/shields",
+      "stars": 27260,
+      "forks": 5619,
+      "language": "JavaScript",
+      "license": "Apache-2.0",
+      "description": "Concise, consistent, and legible badges in SVG and raster format",
+      "html_url": "https://github.com/badges/shields"
+    },
+    {
+      "full_name": "astral-sh/uv",
+      "stars": 90780,
+      "forks": 3663,
+      "language": "Rust",
+      "license": "Apache-2.0",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "html_url": "https://github.com/astral-sh/uv"
+    },
+    {
+      "full_name": "cline/cline",
+      "stars": 70338,
+      "forks": 7659,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "html_url": "https://github.com/cline/cline"
+    },
+    {
+      "full_name": "langfuse/langfuse",
+      "stars": 35834,
+      "forks": 3990,
+      "language": "TypeScript",
+      "license": "NOASSERTION",
+      "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+      "html_url": "https://github.com/langfuse/langfuse"
+    },
+    {
+      "full_name": "Aider-AI/aider",
+      "stars": 49554,
+      "forks": 5060,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "aider is AI pair programming in your terminal",
+      "html_url": "https://github.com/Aider-AI/aider"
+    }
+  ],
+  "incumbent_battlecards": {
+    "cursor": {
+      "name": "Cursor Pro",
+      "pricing": "$20/mo per seat (500 fast requests cap)",
+      "privacy_boundary": "Cloud proxy routing (Privacy Mode toggle required)",
+      "ast_latency": "~320ms Electron IPC + remote indexing",
+      "license": "Proprietary Closed-Source"
+    },
+    "copilot": {
+      "name": "GitHub Copilot Business",
+      "pricing": "$19-$39/mo per seat",
+      "privacy_boundary": "Cloud SaaS multi-tenant telemetry",
+      "ast_latency": "~410ms completion round-trip",
+      "license": "Proprietary Closed-Source"
+    },
+    "datadog-llm": {
+      "name": "Datadog LLM Observability",
+      "pricing": "$150+/mo enterprise ingestion tiers",
+      "privacy_boundary": "Closed SaaS cloud log retention",
+      "ast_latency": "~85ms agent ingestion overhead",
+      "license": "Proprietary Closed-Source"
+    }
+  }
+}

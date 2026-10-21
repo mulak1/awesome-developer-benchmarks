@@ -1,0 +1,140 @@
+{
+  "category": "ai-image-diffusion-workflows",
+  "total_stars": 410220,
+  "repos": [
+    {
+      "name": "ComfyUI",
+      "repo": "comfyanonymous/ComfyUI",
+      "stars": 137942,
+      "forks": 16430,
+      "language": "Python",
+      "license": "GPL-3.0",
+      "score": 97.4,
+      "metric": "Node-based DAG workflow engine for Flux.1, SD3.5, Wan2.1 & ControlNet with smart VRAM offloading",
+      "efficiency": "2.8s Flux.1-dev FP8 1024x1024 render; 100% zero-copy VRAM node caching"
+    },
+    {
+      "name": "Stable Diffusion WebUI",
+      "repo": "AUTOMATIC1111/stable-diffusion-webui",
+      "stars": 165071,
+      "forks": 33559,
+      "language": "Python",
+      "license": "AGPL-3.0",
+      "score": 95.8,
+      "metric": "Foundational Gradio browser studio for Stable Diffusion checkpoints, LoRAs, ControlNet & inpainting",
+      "efficiency": "Largest extension ecosystem (1,200+ plugins); higher baseline VRAM than ComfyUI"
+    },
+    {
+      "name": "Fooocus",
+      "repo": "lllyasviel/Fooocus",
+      "stars": 53548,
+      "forks": 8655,
+      "language": "Python",
+      "license": "GPL-3.0",
+      "score": 95.2,
+      "metric": "Zero-config Midjourney-grade prompt expansion & SDXL/Flux inpainting engine with 4GB minimum GPU VRAM",
+      "efficiency": "Automated GPT-2 prompt refinement + native k-diffusion sampling on 4GB GPUs"
+    },
+    {
+      "name": "InvokeAI",
+      "repo": "invoke-ai/InvokeAI",
+      "stars": 28698,
+      "forks": 3061,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "score": 94.9,
+      "metric": "Production unified canvas, node graph & commercial studio UI for enterprise creative teams",
+      "efficiency": "Best unified layered canvas + commercial Apache-2.0 team asset management"
+    },
+    {
+      "name": "Kohya_ss",
+      "repo": "bmaltais/kohya_ss",
+      "stars": 12632,
+      "forks": 1609,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "score": 94.6,
+      "metric": "Gold-standard GUI & CLI for Flux.1, SDXL & SD3 LoRA, LyCORIS, DreamBooth & fine-tuning",
+      "efficiency": "Supports FP8/BF16 Flux LoRA training in 12GB VRAM with prodigy/adamw8bit optimizers"
+    },
+    {
+      "name": "Ostris AI-Toolkit",
+      "repo": "ostris/ai-toolkit",
+      "stars": 12329,
+      "forks": 1580,
+      "language": "Python",
+      "license": "MIT",
+      "score": 94.3,
+      "metric": "All-in-one diffusion training suite for Flux.1-dev/schnell, Wan2.1 video LoRAs & 24GB consumer GPUs",
+      "efficiency": "Fastest YAML/Gradio Flux.1-dev LoRA trainer on single RTX 3090/4090 GPUs"
+    }
+  ],
+  "repositories": [
+    {
+      "name": "ComfyUI",
+      "repo": "comfyanonymous/ComfyUI",
+      "stars": 137942,
+      "forks": 16430,
+      "language": "Python",
+      "license": "GPL-3.0",
+      "score": 97.4,
+      "metric": "Node-based DAG workflow engine for Flux.1, SD3.5, Wan2.1 & ControlNet with smart VRAM offloading",
+      "efficiency": "2.8s Flux.1-dev FP8 1024x1024 render; 100% zero-copy VRAM node caching"
+    },
+    {
+      "name": "Stable Diffusion WebUI",
+      "repo": "AUTOMATIC1111/stable-diffusion-webui",
+      "stars": 165071,
+      "forks": 33559,
+      "language": "Python",
+      "license": "AGPL-3.0",
+      "score": 95.8,
+      "metric": "Foundational Gradio browser studio for Stable Diffusion checkpoints, LoRAs, ControlNet & inpainting",
+      "efficiency": "Largest extension ecosystem (1,200+ plugins); higher baseline VRAM than ComfyUI"
+    },
+    {
+      "name": "Fooocus",
+      "repo": "lllyasviel/Fooocus",
+      "stars": 53548,
+      "forks": 8655,
+      "language": "Python",
+      "license": "GPL-3.0",
+      "score": 95.2,
+      "metric": "Zero-config Midjourney-grade prompt expansion & SDXL/Flux inpainting engine with 4GB minimum GPU VRAM",
+      "efficiency": "Automated GPT-2 prompt refinement + native k-diffusion sampling on 4GB GPUs"
+    },
+    {
+      "name": "InvokeAI",
+      "repo": "invoke-ai/InvokeAI",
+      "stars": 28698,
+      "forks": 3061,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "score": 94.9,
+      "metric": "Production unified canvas, node graph & commercial studio UI for enterprise creative teams",
+      "efficiency": "Best unified layered canvas + commercial Apache-2.0 team asset management"
+    },
+    {
+      "name": "Kohya_ss",
+      "repo": "bmaltais/kohya_ss",
+      "stars": 12632,
+      "forks": 1609,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "score": 94.6,
+      "metric": "Gold-standard GUI & CLI for Flux.1, SDXL & SD3 LoRA, LyCORIS, DreamBooth & fine-tuning",
+      "efficiency": "Supports FP8/BF16 Flux LoRA training in 12GB VRAM with prodigy/adamw8bit optimizers"
+    },
+    {
+      "name": "Ostris AI-Toolkit",
+      "repo": "ostris/ai-toolkit",
+      "stars": 12329,
+      "forks": 1580,
+      "language": "Python",
+      "license": "MIT",
+      "score": 94.3,
+      "metric": "All-in-one diffusion training suite for Flux.1-dev/schnell, Wan2.1 video LoRAs & 24GB consumer GPUs",
+      "efficiency": "Fastest YAML/Gradio Flux.1-dev LoRA trainer on single RTX 3090/4090 GPUs"
+    }
+  ]
+}

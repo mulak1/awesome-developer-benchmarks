@@ -1,0 +1,55 @@
+{
+  "synced_at": "2026-10-15T07:04:17.102801+00:00",
+  "source_repositories": [
+    {
+      "full_name": "nektos/act",
+      "stars": 72334,
+      "forks": 2064,
+      "language": "Go",
+      "license": "MIT",
+      "description": "Run your GitHub Actions locally \ud83d\ude80",
+      "html_url": "https://github.com/nektos/act"
+    },
+    {
+      "full_name": "semantic-release/semantic-release",
+      "stars": 24106,
+      "forks": 1808,
+      "language": "JavaScript",
+      "license": "MIT",
+      "description": "\ud83d\udce6\ud83d\ude80 Fully automated version management and package publishing",
+      "html_url": "https://github.com/semantic-release/semantic-release"
+    },
+    {
+      "full_name": "changesets/changesets",
+      "stars": 12487,
+      "forks": 843,
+      "language": "TypeScript",
+      "license": "MIT",
+      "description": "\ud83e\udd8b A tool to manage versioning and changelogs with a focus on monorepos",
+      "html_url": "https://github.com/changesets/changesets"
+    },
+    {
+      "full_name": "rhysd/actionlint",
+      "stars": 4326,
+      "forks": 283,
+      "language": "Go",
+      "license": "MIT",
+      "description": ":octocat: Static checker for GitHub Actions workflow files",
+      "html_url": "https://github.com/rhysd/actionlint"
+    }
+  ],
+  "ci_presets": {
+    "pr-benchmark-gate": {
+      "label": "Pull Request Empirical Score & OWASP Red-Team Gate",
+      "min_score": 85,
+      "fail_on_unverified": false,
+      "post_step_summary": true
+    },
+    "strict-enterprise-release": {
+      "label": "Strict Enterprise Release Gate (Requires Tier-1 Verified Badge)",
+      "min_score": 90,
+      "fail_on_unverified": true,
+      "post_step_summary": true
+    }
+  }
+}

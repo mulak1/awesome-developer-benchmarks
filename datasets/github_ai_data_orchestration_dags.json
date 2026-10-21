@@ -1,0 +1,72 @@
+[
+  {
+    "repo": "kestra-io/kestra",
+    "name": "kestra",
+    "category": "Event-Driven Declarative YAML Orchestration Platform",
+    "stars": 29820,
+    "forks": 3436,
+    "open_issues": 954,
+    "language": "Java",
+    "license": "Apache-2.0",
+    "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
+    "url": "https://github.com/kestra-io/kestra",
+    "pushed_at": "2026-10-16T17:30:07Z",
+    "fetched_at_utc": "2026-10-18T17:02:16.930993+00:00"
+  },
+  {
+    "repo": "PrefectHQ/prefect",
+    "name": "prefect",
+    "category": "Pythonic AI & Data Workflow Orchestration Engine",
+    "stars": 24036,
+    "forks": 2590,
+    "open_issues": 903,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "pushed_at": "2026-10-18T13:37:44Z",
+    "fetched_at_utc": "2026-10-18T17:02:16.715488+00:00"
+  },
+  {
+    "repo": "temporalio/temporal",
+    "name": "temporal",
+    "category": "Workflow-as-Code Durable Execution Engine (Go)",
+    "stars": 23801,
+    "forks": 2016,
+    "open_issues": 1070,
+    "language": "Go",
+    "license": "MIT",
+    "description": "Temporal service",
+    "url": "https://github.com/temporalio/temporal",
+    "pushed_at": "2026-10-18T12:10:36Z",
+    "fetched_at_utc": "2026-10-18T17:02:16.473623+00:00"
+  },
+  {
+    "repo": "windmill-labs/windmill",
+    "name": "windmill",
+    "category": "Blazing-Fast Developer Platform & Workflow Engine (Rust)",
+    "stars": 18216,
+    "forks": 1124,
+    "open_issues": 863,
+    "language": "Rust",
+    "license": "NOASSERTION",
+    "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
+    "url": "https://github.com/windmill-labs/windmill",
+    "pushed_at": "2026-10-18T16:22:48Z",
+    "fetched_at_utc": "2026-10-18T17:02:17.343550+00:00"
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "name": "dagster",
+    "category": "Asset-Centric Data & ML Pipeline Orchestrator",
+    "stars": 16293,
+    "forks": 2356,
+    "open_issues": 2596,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "description": "An orchestration platform for the development, production, and observation of data assets.",
+    "url": "https://github.com/dagster-io/dagster",
+    "pushed_at": "2026-10-18T01:25:51Z",
+    "fetched_at_utc": "2026-10-18T17:02:17.143354+00:00"
+  }
+]

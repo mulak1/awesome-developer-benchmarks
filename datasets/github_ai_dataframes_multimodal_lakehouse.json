@@ -1,0 +1,57 @@
+{
+  "category": "ai-dataframes-multimodal-lakehouse",
+  "captured_at": "2026-10-18T03:01:00Z",
+  "total_stars": 21995,
+  "repositories": [
+    {
+      "repo": "apache/datafusion",
+      "name": "Apache DataFusion",
+      "stars": 9488,
+      "forks": 2530,
+      "language": "Rust",
+      "license": "Apache-2.0",
+      "pulse_score": 97.9,
+      "description": "Extensible Rust Apache Arrow vectorized query engine powering next-gen analytical databases, dataframes, and AI lakehouses"
+    },
+    {
+      "repo": "Eventual-Inc/Daft",
+      "name": "Daft Distributed Multimodal Dataframe",
+      "stars": 5806,
+      "forks": 575,
+      "language": "Rust/Python",
+      "license": "Apache-2.0",
+      "pulse_score": 97.7,
+      "description": "Rust-powered distributed Python dataframe engine engineered for multimodal AI, images, video, embeddings, and Apache Iceberg/Delta"
+    },
+    {
+      "repo": "delta-io/delta-rs",
+      "name": "Delta Lake Rust (delta-rs)",
+      "stars": 3343,
+      "forks": 686,
+      "language": "Rust/Python",
+      "license": "Apache-2.0",
+      "pulse_score": 97.3,
+      "description": "Native Rust & Python library for low-overhead ACID Delta Lake table reads/writes with Polars, DataFusion, and DuckDB without JVM Spark"
+    },
+    {
+      "repo": "pixeltable/pixeltable",
+      "name": "Pixeltable Declarative Multimodal AI",
+      "stars": 1640,
+      "forks": 228,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pulse_score": 96.9,
+      "description": "Declarative Python table interface unifying incremental video/image/audio chunking, embedding indexes, and LLM tool calls"
+    },
+    {
+      "repo": "stanford-futuredata/lotus",
+      "name": "Stanford LOTUS Semantic Operators",
+      "stars": 1718,
+      "forks": 164,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 96.6,
+      "description": "Declarative pandas-like semantic query engine (`sem_filter`, `sem_join`, `sem_topk`, `sem_agg`) optimizing LLM reasoning over tables"
+    }
+  ]
+}

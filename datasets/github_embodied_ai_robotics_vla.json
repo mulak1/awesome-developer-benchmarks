@@ -1,0 +1,57 @@
+{
+  "category": "embodied-ai-robotics-vla",
+  "captured_at": "2026-10-18T02:01:00Z",
+  "total_stars": 88139,
+  "repositories": [
+    {
+      "repo": "genesis-embodied-ai/Genesis",
+      "name": "Genesis Physics & Embodied AI Engine",
+      "stars": 30071,
+      "forks": 2889,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pulse_score": 97.9,
+      "description": "Ultra-fast universal physics engine (43M FPS on RTX 4090, 80x faster than Isaac Gym) and generative 4D world simulator for robotics"
+    },
+    {
+      "repo": "huggingface/lerobot",
+      "name": "Hugging Face LeRobot",
+      "stars": 28255,
+      "forks": 5901,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pulse_score": 97.8,
+      "description": "PyTorch library for real-world robotics providing ACT, Diffusion Policy, and Pi0 VLA models with $250 SO-100/Koch bimanual arm kits"
+    },
+    {
+      "repo": "Physical-Intelligence/openpi",
+      "name": "Physical Intelligence openpi (Pi0 / Pi0-FAST)",
+      "stars": 14274,
+      "forks": 2566,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pulse_score": 97.6,
+      "description": "Official open-source Vision-Language-Action (VLA) flow-matching foundation models (Pi0 and Pi0-FAST) for dexterous manipulation"
+    },
+    {
+      "repo": "isaac-sim/IsaacLab",
+      "name": "NVIDIA Isaac Lab",
+      "stars": 8373,
+      "forks": 3959,
+      "language": "Python",
+      "license": "BSD-3-Clause",
+      "pulse_score": 97.2,
+      "description": "GPU-accelerated modular robot learning framework built on NVIDIA Isaac Sim for reinforcement and imitation learning at scale"
+    },
+    {
+      "repo": "openvla/openvla",
+      "name": "Stanford/Berkeley OpenVLA (7B)",
+      "stars": 7166,
+      "forks": 863,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 96.9,
+      "description": "Open-source 7B Vision-Language-Action model trained on 970k Open-X Embodiment robot episodes outperforming RT-2-X (55B)"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "benchmark_suite": "Iteration 17: Secure Agent Code Sandboxes & Headless Browser Runtimes (E2B vs Daytona vs Stagehand vs Steel)",
+  "total_combined_stars": 119408,
+  "repositories": [
+    {
+      "repo": "e2b-dev/E2B",
+      "category": "Firecracker MicroVM Code Sandbox",
+      "stars": 14371,
+      "forks": 1115,
+      "open_issues": 99,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "cold_start_ms": 150,
+      "cost_per_sec_usd": 0.00014,
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "pushed_at": "2026-10-14T23:38:59Z",
+      "fetched_at": "2026-10-15T23:01:09.950155+00:00"
+    },
+    {
+      "repo": "daytonaio/daytona",
+      "category": "Secure AI Agent Development & Execution Workspace",
+      "stars": 71537,
+      "forks": 5645,
+      "open_issues": 458,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "cold_start_ms": 210,
+      "cost_per_sec_usd": 0.00018,
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+      "pushed_at": "2026-07-24T07:12:07Z",
+      "fetched_at": "2026-10-15T23:01:10.205753+00:00"
+    },
+    {
+      "repo": "browserbase/stagehand",
+      "category": "Deterministic + AI Browser Automation SDK",
+      "stars": 25687,
+      "forks": 1758,
+      "open_issues": 387,
+      "language": "TypeScript",
+      "license": "MIT",
+      "cold_start_ms": 340,
+      "cost_per_sec_usd": 0.00025,
+      "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
+      "pushed_at": "2026-10-15T20:55:15Z",
+      "fetched_at": "2026-10-15T23:01:10.439556+00:00"
+    },
+    {
+      "repo": "steel-dev/steel-browser",
+      "category": "Self-Hosted Open-Source Headless Browser API for Agents",
+      "stars": 7813,
+      "forks": 997,
+      "open_issues": 74,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "cold_start_ms": 190,
+      "cost_per_sec_usd": 8e-05,
+      "description": "\ud83d\udd25 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.",
+      "pushed_at": "2026-10-13T15:37:05Z",
+      "fetched_at": "2026-10-15T23:01:10.668553+00:00"
+    }
+  ]
+}

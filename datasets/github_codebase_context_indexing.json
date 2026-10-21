@@ -1,0 +1,85 @@
+{
+  "category": "Open-Source Codebase Context Packing, AST Repo Indexing & Self-Hosted AI Autocomplete Engines",
+  "captured_at": "2026-10-16T23:02:00Z",
+  "combined_stars": 134395,
+  "repositories": [
+    {
+      "slug": "continue",
+      "name": "Continue.dev",
+      "repo": "continuedev/continue",
+      "stars": 36234,
+      "forks": 5479,
+      "license": "Apache-2.0",
+      "language": "TypeScript",
+      "pulse_score": 96.4,
+      "context_compression_pct": 62.0,
+      "indexing_speed_files_per_sec": 420,
+      "highlight": "36.2k+ star Apache-2.0 VS Code & JetBrains coding agent with local Tree-sitter AST indexing, MCP context providers, and BYOK/Ollama autocomplete"
+    },
+    {
+      "slug": "tabby",
+      "name": "Tabby",
+      "repo": "TabbyML/tabby",
+      "stars": 33917,
+      "forks": 1794,
+      "license": "Apache-2.0",
+      "language": "Rust",
+      "pulse_score": 95.8,
+      "context_compression_pct": 58.0,
+      "indexing_speed_files_per_sec": 890,
+      "highlight": "33.9k+ star Rust-powered self-hosted GitHub Copilot alternative with consumer-GPU FIM autocomplete, repository RAG graph, and zero cloud telemetry"
+    },
+    {
+      "slug": "repomix",
+      "name": "Repomix",
+      "repo": "yamadashy/repomix",
+      "stars": 28868,
+      "forks": 1618,
+      "license": "MIT",
+      "language": "TypeScript",
+      "pulse_score": 96.2,
+      "context_compression_pct": 68.4,
+      "indexing_speed_files_per_sec": 1250,
+      "highlight": "28.8k+ star MIT repository packer that compresses entire codebases into single AI-friendly XML/Markdown files with Tree-sitter `--compress` signature extraction and Secretlint checks"
+    },
+    {
+      "slug": "gitingest",
+      "name": "Gitingest",
+      "repo": "coderamp-labs/gitingest",
+      "stars": 15936,
+      "forks": 1189,
+      "license": "MIT",
+      "language": "Python",
+      "pulse_score": 94.8,
+      "context_compression_pct": 54.0,
+      "indexing_speed_files_per_sec": 940,
+      "highlight": "15.9k+ star MIT CLI & URL swapper (`gitingest.com`) turning any GitHub repo or subdirectory into clean LLM-digestible directory trees and token-counted text"
+    },
+    {
+      "slug": "cocoindex",
+      "name": "CocoIndex",
+      "repo": "cocoindex-io/cocoindex",
+      "stars": 11711,
+      "forks": 920,
+      "license": "Apache-2.0",
+      "language": "Rust",
+      "pulse_score": 95.1,
+      "context_compression_pct": 71.5,
+      "indexing_speed_files_per_sec": 1480,
+      "highlight": "11.7k+ star Rust incremental data-flow & Tree-sitter AST indexing engine that recomputes only changed code/document chunks for long-horizon RAG agents"
+    },
+    {
+      "slug": "code2prompt",
+      "name": "code2prompt",
+      "repo": "mufeedvh/code2prompt",
+      "stars": 7729,
+      "forks": 458,
+      "license": "MIT",
+      "language": "Rust",
+      "pulse_score": 94.4,
+      "context_compression_pct": 64.0,
+      "indexing_speed_files_per_sec": 2100,
+      "highlight": "7.7k+ star blazing-fast Rust CLI & SDK converting codebases intoHandlebars-templated LLM prompts with tiktoken counts, Git diff filters, and glob exclusions"
+    }
+  ]
+}

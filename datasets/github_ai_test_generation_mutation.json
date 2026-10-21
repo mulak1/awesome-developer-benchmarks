@@ -1,0 +1,66 @@
+{
+  "category": "ai-test-generation-mutation-testing",
+  "benchmark_date": "2026-10-17",
+  "combined_stars": 40267,
+  "repositories": [
+    {
+      "name": "Keploy",
+      "repo": "keploy/keploy",
+      "stars": 18609,
+      "forks": 2413,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "score": 96.6,
+      "ebpf_replay_overhead_ms": 1.2,
+      "coverage_gain_pct": 42.0,
+      "description": "Open-source eBPF platform for recording network traffic into deterministic API/E2E tests and data mocks without code changes."
+    },
+    {
+      "name": "Hypothesis",
+      "repo": "HypothesisWorks/hypothesis",
+      "stars": 9088,
+      "forks": 690,
+      "language": "Python",
+      "license": "MPL-2.0",
+      "score": 96.4,
+      "shrinking_precision_pct": 99.4,
+      "edge_case_bug_catch_pct": 93.8,
+      "description": "Foundational property-based testing library for Python that generates adversarial edge cases and shrinks counterexamples to minimal reproducers."
+    },
+    {
+      "name": "Qodo-Cover",
+      "repo": "qodo-ai/qodo-cover",
+      "stars": 5664,
+      "forks": 567,
+      "language": "Python",
+      "license": "AGPL-3.0",
+      "score": 95.8,
+      "line_coverage_boost_pct": 38.4,
+      "cost_per_test_usd": 0.014,
+      "description": "Meta TestGen-LLM inspired autonomous agent that generates regression tests and only commits tests that compile, pass, and strictly increase Cobertura coverage."
+    },
+    {
+      "name": "Schemathesis",
+      "repo": "schemathesis/schemathesis",
+      "stars": 3671,
+      "forks": 226,
+      "language": "Python",
+      "license": "MIT",
+      "score": 95.5,
+      "openapi_fuzz_req_per_sec": 480,
+      "api_500_crash_detection_pct": 94.2,
+      "description": "Property-based OpenAPI and GraphQL schema fuzzer built on Hypothesis that catches 500 server crashes and schema contract drift."
+    },
+    {
+      "name": "StrykerJS",
+      "repo": "stryker-mutator/stryker-js",
+      "stars": 3235,
+      "forks": 297,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "score": 95.1,
+      "mutation_kill_score_pct": 88.6,
+      "description": "AST mutation testing engine for JavaScript and TypeScript that injects faults to verify whether AI-generated unit tests actually assert behavior."
+    }
+  ]
+}

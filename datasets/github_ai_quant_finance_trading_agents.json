@@ -1,0 +1,57 @@
+{
+  "category": "ai-quant-finance-trading-agents",
+  "captured_at": "2026-10-18T04:01:00Z",
+  "total_stars": 173401,
+  "repositories": [
+    {
+      "repo": "freqtrade/freqtrade",
+      "name": "Freqtrade (FreqAI)",
+      "stars": 55530,
+      "forks": 11491,
+      "language": "Python",
+      "license": "GPL-3.0",
+      "pulse_score": 97.6,
+      "description": "Open-source algorithmic trading engine with FreqAI adaptive LightGBM/PyTorch reinforcement learning and walk-forward backtesting"
+    },
+    {
+      "repo": "microsoft/qlib",
+      "name": "Microsoft Qlib",
+      "stars": 49457,
+      "forks": 7823,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 97.9,
+      "description": "AI-oriented quantitative investment platform by Microsoft Research for alpha factor mining, LightGBM/Transformer alpha models, and order execution"
+    },
+    {
+      "repo": "AI4Finance-Foundation/FinGPT",
+      "name": "FinGPT (AI4Finance)",
+      "stars": 21416,
+      "forks": 3035,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 97.4,
+      "description": "Open-source financial Large Language Model framework with real-time earnings/news sentiment RLHF and LoRA fine-tuning"
+    },
+    {
+      "repo": "AI4Finance-Foundation/FinRL",
+      "name": "FinRL Deep Reinforcement Learning",
+      "stars": 16728,
+      "forks": 3562,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 97.2,
+      "description": "Deep Reinforcement Learning framework (PPO, SAC, TD3, A2C) for automated stock trading, portfolio allocation, and execution"
+    },
+    {
+      "repo": "nautechsystems/nautilus_trader",
+      "name": "NautilusTrader (Rust Core)",
+      "stars": 30270,
+      "forks": 4052,
+      "language": "Rust/Python",
+      "license": "LGPL-3.0",
+      "pulse_score": 97.8,
+      "description": "High-performance Rust-core event-driven algorithmic trading and L2/L3 order-book backtesting platform with identical live execution parity"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "category": "Open-Source Durable AI Agent Workflow, Background Queue & Event-Driven Execution Engines",
+  "last_verified": "2026-10-16",
+  "combined_stars": 96626,
+  "repositories": [
+    {
+      "repo": "temporalio/temporal",
+      "name": "Temporal",
+      "stars": 23756,
+      "forks": 2016,
+      "license": "MIT",
+      "pulse_score": 96.7,
+      "step_transition_p50_ms": 4.2,
+      "crash_recovery_durability_pct": 99.999,
+      "duplicate_llm_retry_reduction_pct": 78.4,
+      "primary_strength": "Deterministic event-sourced replay engine with infinite timers, human-in-the-loop signals, and automatic LLM activity retries"
+    },
+    {
+      "repo": "PrefectHQ/prefect",
+      "name": "Prefect",
+      "stars": 24026,
+      "forks": 2586,
+      "license": "Apache-2.0",
+      "pulse_score": 96.1,
+      "step_transition_p50_ms": 8.5,
+      "crash_recovery_durability_pct": 99.95,
+      "duplicate_llm_retry_reduction_pct": 64.0,
+      "primary_strength": "Pythonic @flow and @task decorators with automatic content-addressed task caching so failed AI pipelines never re-bill completed LLM steps"
+    },
+    {
+      "repo": "windmill-labs/windmill",
+      "name": "Windmill",
+      "stars": 18206,
+      "forks": 1121,
+      "license": "AGPL-3.0",
+      "pulse_score": 95.6,
+      "step_transition_p50_ms": 14.0,
+      "crash_recovery_durability_pct": 99.95,
+      "duplicate_llm_retry_reduction_pct": 68.0,
+      "primary_strength": "Rust-powered worker engine dispatching Python, TypeScript, and Go agent DAGs in 14ms with auto-generated internal approval UIs"
+    },
+    {
+      "repo": "triggerdotdev/trigger.dev",
+      "name": "Trigger.dev",
+      "stars": 16558,
+      "forks": 1501,
+      "license": "Apache-2.0",
+      "pulse_score": 95.2,
+      "step_transition_p50_ms": 6.4,
+      "crash_recovery_durability_pct": 99.99,
+      "duplicate_llm_retry_reduction_pct": 74.5,
+      "primary_strength": "TypeScript-native background AI agent runner with container checkpoint-resume that pauses billing while waiting on slow LLM completions"
+    },
+    {
+      "repo": "hatchet-dev/hatchet",
+      "name": "Hatchet",
+      "stars": 8130,
+      "forks": 521,
+      "license": "MIT",
+      "pulse_score": 94.7,
+      "step_transition_p50_ms": 1.8,
+      "crash_recovery_durability_pct": 99.99,
+      "duplicate_llm_retry_reduction_pct": 72.0,
+      "primary_strength": "Sub-2ms Postgres-backed fair-queue and DAG engine with native per-tenant LLM token rate limiting and concurrency keys"
+    },
+    {
+      "repo": "inngest/inngest",
+      "name": "Inngest",
+      "stars": 5950,
+      "forks": 376,
+      "license": "Apache-2.0",
+      "pulse_score": 94.3,
+      "step_transition_p50_ms": 5.1,
+      "crash_recovery_durability_pct": 99.99,
+      "duplicate_llm_retry_reduction_pct": 75.0,
+      "primary_strength": "Zero-infra event-driven step.run and step.ai.infer orchestration that offloads LLM HTTP network waits so serverless functions pay zero idle compute"
+    }
+  ]
+}

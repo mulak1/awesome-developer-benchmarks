@@ -1,0 +1,50 @@
+{
+  "synced_at": "2026-10-15T11:00:52.660343+00:00",
+  "category": "Multi-Agent Orchestration, Background Jobs & Memory Co-Marketing Ecosystem",
+  "repositories": [
+    {
+      "full_name": "crewAIInc/crewAI",
+      "name": "crewAI",
+      "stars": 59725,
+      "forks": 8732,
+      "open_issues": 717,
+      "language": "Python",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "html_url": "https://github.com/crewAIInc/crewAI",
+      "updated_at": "2026-10-15T10:52:06Z"
+    },
+    {
+      "full_name": "langchain-ai/langgraph",
+      "name": "langgraph",
+      "stars": 43304,
+      "forks": 7365,
+      "open_issues": 812,
+      "language": "Python",
+      "description": "Build resilient agents.",
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "updated_at": "2026-10-15T10:14:02Z"
+    },
+    {
+      "full_name": "triggerdotdev/trigger.dev",
+      "name": "trigger.dev",
+      "stars": 16545,
+      "forks": 1500,
+      "open_issues": 235,
+      "language": "TypeScript",
+      "description": "Trigger.dev \u2013 build and deploy durable AI agents and workflows",
+      "html_url": "https://github.com/triggerdotdev/trigger.dev",
+      "updated_at": "2026-10-15T10:10:39Z"
+    },
+    {
+      "full_name": "mem0ai/mem0",
+      "name": "mem0",
+      "stars": 67223,
+      "forks": 7914,
+      "open_issues": 837,
+      "language": "Python",
+      "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+      "html_url": "https://github.com/mem0ai/mem0",
+      "updated_at": "2026-10-15T10:56:23Z"
+    }
+  ]
+}

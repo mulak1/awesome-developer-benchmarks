@@ -1,0 +1,79 @@
+{
+  "category": "Open-Source AI Workspaces, RAG Chat UIs & Visual Workflow Builders (2026)",
+  "updated_at": "2026-10-16T12:00:00Z",
+  "combined_stars": 828345,
+  "repositories": [
+    {
+      "repo": "n8n-io/n8n",
+      "name": "n8n",
+      "stars": 207626,
+      "forks": 61152,
+      "open_issues": 1183,
+      "language": "TypeScript",
+      "idle_ram_mb": 480,
+      "seat_cost_per_user_usd": 0.0,
+      "pulse_score": 95.1,
+      "core_advantage": "Visual workflow + LangChain AI agent automation across 400+ enterprise SaaS integrations with execution-based self-hosting instead of per-task Zapier fees"
+    },
+    {
+      "repo": "langgenius/dify",
+      "name": "Dify",
+      "stars": 158638,
+      "forks": 25069,
+      "open_issues": 1131,
+      "language": "Python",
+      "idle_ram_mb": 1450,
+      "seat_cost_per_user_usd": 0.0,
+      "pulse_score": 94.7,
+      "core_advantage": "End-to-end LLMOps visual workflow builder combining hybrid RAG ingestion, prompt IDE, MCP tool orchestration, and REST API publishing"
+    },
+    {
+      "repo": "open-webui/open-webui",
+      "name": "Open WebUI",
+      "stars": 155882,
+      "forks": 22687,
+      "open_issues": 149,
+      "language": "Python",
+      "idle_ram_mb": 620,
+      "seat_cost_per_user_usd": 0.0,
+      "pulse_score": 94.6,
+      "core_advantage": "Self-hosted multi-user ChatGPT Team/Enterprise replacement with native Ollama + OpenAI/LiteLLM routing, RBAC, pipelines, and local voice/RAG"
+    },
+    {
+      "repo": "langflow-ai/langflow",
+      "name": "Langflow",
+      "stars": 155741,
+      "forks": 10236,
+      "open_issues": 1157,
+      "language": "Python",
+      "idle_ram_mb": 890,
+      "seat_cost_per_user_usd": 0.0,
+      "pulse_score": 93.8,
+      "core_advantage": "MIT-licensed Python visual DAG canvas for rapid multi-agent RAG prototyping with 1-click export to FastAPI and MCP servers"
+    },
+    {
+      "repo": "lobehub/lobe-chat",
+      "name": "LobeChat",
+      "stars": 83270,
+      "forks": 15985,
+      "open_issues": 1087,
+      "language": "TypeScript",
+      "idle_ram_mb": 410,
+      "seat_cost_per_user_usd": 0.0,
+      "pulse_score": 92.9,
+      "core_advantage": "Next.js multi-agent workspace with MCP plugin marketplace, Artifacts UI rendering, and client-side PGlite/IndexedDB or server PostgreSQL sync"
+    },
+    {
+      "repo": "Mintplex-Labs/anything-llm",
+      "name": "AnythingLLM",
+      "stars": 67188,
+      "forks": 7506,
+      "open_issues": 326,
+      "language": "JavaScript",
+      "idle_ram_mb": 340,
+      "seat_cost_per_user_usd": 0.0,
+      "pulse_score": 93.2,
+      "core_advantage": "Zero-config desktop (Mac/Win/Linux) and Docker all-in-one local RAG workspace with built-in LanceDB vector storage and custom agent skills"
+    }
+  ]
+}

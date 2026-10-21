@@ -1,0 +1,54 @@
+{
+  "benchmark_suite": "Iteration 15: Multi-Agent Orchestration & Graph State Runtimes (CrewAI vs LangGraph vs AutoGen vs AutoGPT)",
+  "total_combined_stars": 352092,
+  "repositories": [
+    {
+      "repo": "Significant-Gravitas/AutoGPT",
+      "category": "Autonomous Multi-Agent Platform",
+      "stars": 187601,
+      "forks": 45921,
+      "open_issues": 681,
+      "language": "Python",
+      "license": "NOASSERTION",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "pushed_at": "2026-10-15T21:00:38Z",
+      "fetched_at": "2026-10-15T21:01:05.214121+00:00"
+    },
+    {
+      "repo": "crewAIInc/crewAI",
+      "category": "Role-Playing Multi-Agent Orchestration",
+      "stars": 59744,
+      "forks": 8739,
+      "open_issues": 722,
+      "language": "Python",
+      "license": "MIT",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "pushed_at": "2026-10-15T19:42:18Z",
+      "fetched_at": "2026-10-15T21:01:05.518585+00:00"
+    },
+    {
+      "repo": "microsoft/autogen",
+      "category": "Event-Driven Multi-Agent Framework",
+      "stars": 61426,
+      "forks": 9289,
+      "open_issues": 1115,
+      "language": "Python",
+      "license": "CC-BY-4.0",
+      "description": "A programming framework for agentic AI",
+      "pushed_at": "2026-04-15T11:59:09Z",
+      "fetched_at": "2026-10-15T21:01:05.777296+00:00"
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "category": "Stateful Graph-Based Agent Runtime",
+      "stars": 43321,
+      "forks": 7367,
+      "open_issues": 810,
+      "language": "Python",
+      "license": "MIT",
+      "description": "Build resilient agents.",
+      "pushed_at": "2026-10-15T20:14:04Z",
+      "fetched_at": "2026-10-15T21:01:06.022886+00:00"
+    }
+  ]
+}

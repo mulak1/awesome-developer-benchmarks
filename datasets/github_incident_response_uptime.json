@@ -1,0 +1,57 @@
+{
+  "category": "Open-Source Incident Response, On-Call & Uptime Monitoring",
+  "generated_at": "2026-10-20T20:00:00Z",
+  "total_stars": 118417,
+  "repositories": [
+    {
+      "repo": "louislam/uptime-kuma",
+      "name": "Uptime Kuma",
+      "stars": 92679,
+      "forks": 6300,
+      "license": "MIT",
+      "description": "Leading self-hosted monitoring tool with status pages, ping, HTTP(s), DNS, Docker container checks, and 90+ notification services",
+      "primary_language": "JavaScript",
+      "pulse_score": 98.6
+    },
+    {
+      "repo": "keephq/keep",
+      "name": "Keep",
+      "stars": 12424,
+      "forks": 790,
+      "license": "Apache-2.0",
+      "description": "The open-source AIOps and alert management platform for incident management, alert deduplication, and workflow automations",
+      "primary_language": "Python",
+      "pulse_score": 98.2
+    },
+    {
+      "repo": "openstatusHQ/openstatus",
+      "name": "OpenStatus",
+      "stars": 9206,
+      "forks": 540,
+      "license": "AGPL-3.0",
+      "description": "Modern open-source synthetic monitoring, edge latency tracking, incident response, and hosted status page platform",
+      "primary_language": "TypeScript",
+      "pulse_score": 97.8
+    },
+    {
+      "repo": "target/goalert",
+      "name": "GoAlert",
+      "stars": 2850,
+      "forks": 420,
+      "license": "Apache-2.0",
+      "description": "Open source on-call scheduling, automated multi-tier escalations, SMS, and voice notifications by Target enterprise engineering",
+      "primary_language": "Go",
+      "pulse_score": 97.4
+    },
+    {
+      "repo": "linkedin/oncall",
+      "name": "LinkedIn OnCall",
+      "stars": 1258,
+      "forks": 270,
+      "license": "Apache-2.0",
+      "description": "Enterprise-grade on-call calendar and schedule management system battle-tested at LinkedIn scale",
+      "primary_language": "Python",
+      "pulse_score": 96.9
+    }
+  ]
+}

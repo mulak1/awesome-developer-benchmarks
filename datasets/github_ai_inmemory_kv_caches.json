@@ -1,0 +1,57 @@
+{
+  "fetched_at": "2026-10-18T20:01:25.837248+00:00",
+  "category": "ai-in-memory-kv-caches-redis-alternatives",
+  "repositories": [
+    {
+      "repo": "redis/redis",
+      "name": "redis",
+      "stars": 76936,
+      "forks": 24874,
+      "open_issues": 3046,
+      "language": "C",
+      "license": "NOASSERTION",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
+    },
+    {
+      "repo": "valkey-io/valkey",
+      "name": "valkey",
+      "stars": 27453,
+      "forks": 1381,
+      "open_issues": 955,
+      "language": "C",
+      "license": "BSD-3-Clause",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads."
+    },
+    {
+      "repo": "dragonflydb/dragonfly",
+      "name": "dragonfly",
+      "stars": 31794,
+      "forks": 1282,
+      "open_issues": 288,
+      "language": "C++",
+      "license": "NOASSERTION",
+      "description": "A modern replacement for Redis and Memcached"
+    },
+    {
+      "repo": "Snapchat/KeyDB",
+      "name": "KeyDB",
+      "stars": 12501,
+      "forks": 679,
+      "open_issues": 292,
+      "language": "C++",
+      "license": "BSD-3-Clause",
+      "description": "A Multithreaded Fork of Redis"
+    },
+    {
+      "repo": "microsoft/garnet",
+      "name": "garnet",
+      "stars": 12053,
+      "forks": 715,
+      "open_issues": 73,
+      "language": "C#",
+      "license": "MIT",
+      "description": "Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients."
+    }
+  ],
+  "combined_stars": 160737
+}

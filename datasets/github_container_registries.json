@@ -1,0 +1,45 @@
+{
+  "category": "open-source-container-registries-artifact-repositories",
+  "name": "Open-Source Container Registries & OCI Artifact Repositories",
+  "description": "OCI compliance, vulnerability scanning, P2P distribution, and commercial licensing benchmark across open-source Docker Hub and JFrog Artifactory alternatives.",
+  "captured_at": "2026-10-21T06:50:00Z",
+  "combined_stars": 35826,
+  "tools": [
+    {
+      "name": "Harbor",
+      "repo": "goharbor/harbor",
+      "stars": 29580,
+      "forks": 4900,
+      "license": "Apache-2.0 (CNCF Graduated)",
+      "score": 98.4,
+      "registry_architecture": "Enterprise OCI Registry & Artifact Management (Trivy + Notary)",
+      "resource_footprint": "Multi-Service Helm Chart (~2GB RAM)",
+      "commercial_alternative": "Docker Hub Team/Business ($24/user/mo)",
+      "monthly_savings_est": 1200.00
+    },
+    {
+      "name": "Zot",
+      "repo": "project-zot/zot",
+      "stars": 2893,
+      "forks": 290,
+      "license": "Apache-2.0",
+      "score": 97.2,
+      "registry_architecture": "Pure OCI Image & Artifact Registry (Single Go Binary)",
+      "resource_footprint": "Ultra-Lightweight (<50MB RAM, zero external DB)",
+      "commercial_alternative": "JFrog Artifactory Enterprise ($3,000/mo base)",
+      "monthly_savings_est": 2800.00
+    },
+    {
+      "name": "Dragonfly",
+      "repo": "dragonflyoss/Dragonfly2",
+      "stars": 3353,
+      "forks": 680,
+      "license": "Apache-2.0 (CNCF Incubating)",
+      "score": 96.5,
+      "registry_architecture": "P2P Image & Artifact Distribution Acceleration System",
+      "resource_footprint": "Distributed P2P Supernode + Peer Agent",
+      "commercial_alternative": "AWS CloudFront / Akamai Image CDN ($1,500/mo)",
+      "monthly_savings_est": 1400.00
+    }
+  ]
+}

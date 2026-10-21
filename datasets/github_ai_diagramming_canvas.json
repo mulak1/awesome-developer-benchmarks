@@ -1,0 +1,67 @@
+{
+  "benchmark_category": "ai-diagramming-visual-canvas-agents",
+  "captured_at": "2026-10-18T09:00:00Z",
+  "total_stars": 375020,
+  "repositories": [
+    {
+      "repo": "excalidraw/excalidraw",
+      "name": "Excalidraw",
+      "stars": 134084,
+      "forks": 15713,
+      "open_issues": 3327,
+      "license": "MIT",
+      "canvas_render_fps_5k_nodes": 120.0,
+      "mermaid_to_canvas_latency_ms": 14.2,
+      "crdt_sync_overhead_kb": 18.4,
+      "verdict": "Best MIT hand-drawn whiteboard & Mermaid-to-Excalidraw AI diagram canvas"
+    },
+    {
+      "repo": "mermaid-js/mermaid",
+      "name": "Mermaid.js",
+      "stars": 90727,
+      "forks": 9357,
+      "open_issues": 1906,
+      "license": "MIT",
+      "canvas_render_fps_5k_nodes": 60.0,
+      "mermaid_to_canvas_latency_ms": 8.5,
+      "crdt_sync_overhead_kb": 4.2,
+      "verdict": "Canonical Markdown-native text-to-diagram DSL supported across GitHub, Notion & LLMs"
+    },
+    {
+      "repo": "toeverything/AFFiNE",
+      "name": "AFFiNE Edgeless",
+      "stars": 73619,
+      "forks": 5367,
+      "open_issues": 777,
+      "license": "MPL-2.0 / Custom",
+      "canvas_render_fps_5k_nodes": 105.0,
+      "mermaid_to_canvas_latency_ms": 22.0,
+      "crdt_sync_overhead_kb": 34.0,
+      "verdict": "Best local-first Rust OctoBase CRDT workspace combining Notion docs + Miro canvas"
+    },
+    {
+      "repo": "tldraw/tldraw",
+      "name": "tldraw SDK",
+      "stars": 50965,
+      "forks": 3570,
+      "open_issues": 580,
+      "license": "tldraw License",
+      "canvas_render_fps_5k_nodes": 120.0,
+      "mermaid_to_canvas_latency_ms": 19.6,
+      "crdt_sync_overhead_kb": 21.0,
+      "verdict": "Best embeddable React infinite canvas SDK for Make-Real & computer-use AI agents"
+    },
+    {
+      "repo": "terrastruct/d2",
+      "name": "D2 (Terrastruct)",
+      "stars": 25625,
+      "forks": 769,
+      "open_issues": 537,
+      "license": "MPL-2.0",
+      "canvas_render_fps_5k_nodes": 60.0,
+      "mermaid_to_canvas_latency_ms": 11.4,
+      "crdt_sync_overhead_kb": 3.8,
+      "verdict": "Best Go declarative architecture diagram scripting engine with ELK & TALA auto-layout"
+    }
+  ]
+}

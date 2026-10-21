@@ -1,0 +1,50 @@
+{
+  "synced_at": "2026-10-15T13:00:54.681528+00:00",
+  "category": "Local-First & High-Throughput Open-Source LLM Inference Runtimes",
+  "repositories": [
+    {
+      "full_name": "ollama/ollama",
+      "name": "ollama",
+      "stars": 183243,
+      "forks": 18291,
+      "open_issues": 4294,
+      "language": "Go",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "html_url": "https://github.com/ollama/ollama",
+      "updated_at": "2026-10-15T12:50:54Z"
+    },
+    {
+      "full_name": "ggml-org/llama.cpp",
+      "name": "llama.cpp",
+      "stars": 131250,
+      "forks": 24421,
+      "open_issues": 2567,
+      "language": "C++",
+      "description": "LLM inference in C/C++",
+      "html_url": "https://github.com/ggml-org/llama.cpp",
+      "updated_at": "2026-10-15T12:40:04Z"
+    },
+    {
+      "full_name": "vllm-project/vllm",
+      "name": "vllm",
+      "stars": 93851,
+      "forks": 23416,
+      "open_issues": 8898,
+      "language": "Python",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "html_url": "https://github.com/vllm-project/vllm",
+      "updated_at": "2026-10-15T12:59:31Z"
+    },
+    {
+      "full_name": "exo-explore/exo",
+      "name": "exo",
+      "stars": 47901,
+      "forks": 3564,
+      "open_issues": 387,
+      "language": "Python",
+      "description": "Run frontier AI locally.",
+      "html_url": "https://github.com/exo-explore/exo",
+      "updated_at": "2026-10-15T12:49:30Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "category": "open-source-self-hosted-git-devops-gitea-gitlab",
+  "name": "Open-Source Self-Hosted Git Services & DevOps Forges",
+  "description": "Resource consumption, CI/CD pipeline capabilities, and commercial seat cost comparison across open-source self-hosted Git repositories.",
+  "captured_at": "2026-10-21T05:00:00Z",
+  "combined_stars": 105718,
+  "tools": [
+    {
+      "name": "Gitea",
+      "repo": "go-gitea/gitea",
+      "stars": 58595,
+      "forks": 7310,
+      "license": "MIT",
+      "score": 98.4,
+      "memory_footprint_mb": 95,
+      "ci_cd_engine": "Gitea Actions (Act runner)",
+      "commercial_alternative": "GitHub Enterprise ($21/user/mo)",
+      "monthly_savings_est": 1050.00
+    },
+    {
+      "name": "GitLab CE",
+      "repo": "gitlabhq/gitlabhq",
+      "stars": 24536,
+      "forks": 5949,
+      "license": "MIT / Core",
+      "score": 96.8,
+      "memory_footprint_mb": 4096,
+      "ci_cd_engine": "GitLab CI/CD & Auto DevOps",
+      "commercial_alternative": "GitLab Ultimate ($99/user/mo)",
+      "monthly_savings_est": 4950.00
+    },
+    {
+      "name": "OneDev",
+      "repo": "theonedev/onedev",
+      "stars": 15319,
+      "forks": 989,
+      "license": "MIT",
+      "score": 95.2,
+      "memory_footprint_mb": 512,
+      "ci_cd_engine": "Visual GUI Pipeline Builder",
+      "commercial_alternative": "Bitbucket Data Center ($4,200/yr)",
+      "monthly_savings_est": 2500.00
+    },
+    {
+      "name": "Soft Serve",
+      "repo": "charmbracelet/soft-serve",
+      "stars": 7268,
+      "forks": 250,
+      "license": "MIT",
+      "score": 93.6,
+      "memory_footprint_mb": 35,
+      "ci_cd_engine": "SSH Git Hooks",
+      "commercial_alternative": "AWS CodeCommit Enterprise",
+      "monthly_savings_est": 300.00
+    }
+  ]
+}

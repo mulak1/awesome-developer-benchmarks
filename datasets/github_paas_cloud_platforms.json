@@ -1,0 +1,57 @@
+{
+  "category": "open-source-paas-cloud-application-platforms-coolify-dokku",
+  "generated_at": "2026-10-20T23:00:00Z",
+  "total_combined_stars": 131947,
+  "platforms": [
+    {
+      "name": "Coolify",
+      "repo": "coollabsio/coolify",
+      "stars": 63296,
+      "forks": 3580,
+      "language": "PHP / Svelte",
+      "license": "Apache-2.0",
+      "score": 98.6,
+      "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative."
+    },
+    {
+      "name": "Dokku",
+      "repo": "dokku/dokku",
+      "stars": 32195,
+      "forks": 1960,
+      "language": "Shell / Go",
+      "license": "MIT",
+      "score": 98.2,
+      "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications."
+    },
+    {
+      "name": "CapRover",
+      "repo": "caprover/caprover",
+      "stars": 15189,
+      "forks": 1280,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "score": 97.8,
+      "description": "Scalable, automated PaaS with Let's Encrypt SSL, Docker Swarm clustering and web UI."
+    },
+    {
+      "name": "Kamal",
+      "repo": "basecamp/kamal",
+      "stars": 14664,
+      "forks": 790,
+      "language": "Ruby",
+      "license": "MIT",
+      "score": 97.7,
+      "description": "Deploy web apps anywhere from bare metal to cloud VMs using Docker with zero downtime."
+    },
+    {
+      "name": "Piku",
+      "repo": "piku/piku",
+      "stars": 6603,
+      "forks": 420,
+      "language": "Python",
+      "license": "MIT",
+      "score": 97.3,
+      "description": "The smallest PaaS you've ever seen: simple git-push deployments to any server."
+    }
+  ]
+}

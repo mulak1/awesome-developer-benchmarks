@@ -1,0 +1,60 @@
+{
+  "fetched_at": "2026-10-18T11:00:25.525382+00:00",
+  "repositories": [
+    {
+      "repo": "novuhq/novu",
+      "name": "novu",
+      "stars": 40165,
+      "forks": 4512,
+      "open_issues": 108,
+      "language": "TypeScript",
+      "license": "NOASSERTION",
+      "description": "The open-source communication infrastructure for agents and products",
+      "updated_at": "2026-10-18T10:35:46Z"
+    },
+    {
+      "repo": "knadh/listmonk",
+      "name": "listmonk",
+      "stars": 23830,
+      "forks": 2688,
+      "open_issues": 79,
+      "language": "Go",
+      "license": "AGPL-3.0",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "updated_at": "2026-10-18T10:43:36Z"
+    },
+    {
+      "repo": "dittofeed/dittofeed",
+      "name": "dittofeed",
+      "stars": 3009,
+      "forks": 416,
+      "open_issues": 70,
+      "language": "TypeScript",
+      "license": "MIT",
+      "description": "Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more \ud83d\udce8",
+      "updated_at": "2026-10-17T23:32:43Z"
+    },
+    {
+      "repo": "mautic/mautic",
+      "name": "mautic",
+      "stars": 10789,
+      "forks": 3497,
+      "open_issues": 301,
+      "language": "PHP",
+      "license": "NOASSERTION",
+      "description": "Mautic: Open Source Marketing Automation Software.",
+      "updated_at": "2026-10-18T10:37:27Z"
+    },
+    {
+      "repo": "postalserver/postal",
+      "name": "postal",
+      "stars": 16871,
+      "forks": 1308,
+      "open_issues": 95,
+      "language": "Ruby",
+      "license": "MIT",
+      "description": "\ud83d\udcee A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+      "updated_at": "2026-10-18T07:05:32Z"
+    }
+  ]
+}

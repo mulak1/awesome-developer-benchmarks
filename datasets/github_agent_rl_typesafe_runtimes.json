@@ -1,0 +1,54 @@
+{
+  "benchmark_suite": "Iteration 14: Agent RL Training, Type-Safe Schema & Ultra-Low-Footprint Runtimes",
+  "total_combined_stars": 90810,
+  "repositories": [
+    {
+      "repo": "OpenPipe/ART",
+      "category": "Agent Reinforcement Trainer (GRPO)",
+      "stars": 10802,
+      "forks": 1005,
+      "open_issues": 167,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!",
+      "pushed_at": "2026-10-12T20:55:34Z",
+      "fetched_at": "2026-10-15T19:01:37.032183+00:00"
+    },
+    {
+      "repo": "pydantic/pydantic-ai",
+      "category": "Type-Safe Agent Framework",
+      "stars": 20640,
+      "forks": 2926,
+      "open_issues": 1421,
+      "language": "Python",
+      "license": "MIT",
+      "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+      "pushed_at": "2026-10-15T18:58:26Z",
+      "fetched_at": "2026-10-15T19:01:37.270898+00:00"
+    },
+    {
+      "repo": "browser-use/web-ui",
+      "category": "Self-Hosted Browser Agent UI",
+      "stars": 16614,
+      "forks": 2771,
+      "open_issues": 326,
+      "language": "Python",
+      "license": "MIT",
+      "description": "\ud83d\udda5\ufe0f Run AI Agent in your browser.",
+      "pushed_at": "2026-09-25T03:56:21Z",
+      "fetched_at": "2026-10-15T19:01:37.524231+00:00"
+    },
+    {
+      "repo": "agno-agi/agno",
+      "category": "Ultra-Low-Footprint Multi-Agent Runtime",
+      "stars": 42754,
+      "forks": 6138,
+      "open_issues": 1898,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "Build, run, and manage agent platforms.",
+      "pushed_at": "2026-10-15T18:52:58Z",
+      "fetched_at": "2026-10-15T19:01:37.754824+00:00"
+    }
+  ]
+}

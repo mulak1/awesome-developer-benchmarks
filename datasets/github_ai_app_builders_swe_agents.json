@@ -1,0 +1,91 @@
+{
+  "category": "Open-Source AI App Builders & Autonomous SWE Agents",
+  "captured_at": "2026-10-16T15:00:00Z",
+  "combined_stars": 235483,
+  "repositories": [
+    {
+      "repo": "OpenHands/OpenHands",
+      "name": "OpenHands",
+      "stars": 91058,
+      "forks": 12072,
+      "open_issues": 1052,
+      "language": "TypeScript/Python",
+      "license": "MIT",
+      "swebench_verified_pct": 65.8,
+      "avg_cost_per_pr_usd": 0.84,
+      "sandbox_runtime": "Docker / E2B / Kubernetes Runtime Sandbox",
+      "primary_strength": "65.8% SWE-bench Verified resolution with full bash, browser, and multi-file PR autonomy under MIT license",
+      "primary_tradeoff": "Docker container sandbox startup adds ~4.5s cold boot and ~1.8GB RAM overhead locally"
+    },
+    {
+      "repo": "AntonOsika/gpt-engineer",
+      "name": "gpt-engineer",
+      "stars": 55025,
+      "forks": 7279,
+      "open_issues": 70,
+      "language": "Python",
+      "license": "MIT",
+      "swebench_verified_pct": 48.2,
+      "avg_cost_per_pr_usd": 0.42,
+      "sandbox_runtime": "Local Python CLI & Pre-Prompt Specification",
+      "primary_strength": "55.0k+ star open-source CLI codegen pioneer (precursor to Lovable) for rapid greenfield repo scaffolding",
+      "primary_tradeoff": "Optimized for initial repository generation rather than iterative multi-PR maintenance"
+    },
+    {
+      "repo": "onlook-dev/onlook",
+      "name": "Onlook",
+      "stars": 26924,
+      "forks": 2267,
+      "open_issues": 382,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "swebench_verified_pct": 54.0,
+      "avg_cost_per_pr_usd": 0.31,
+      "sandbox_runtime": "Visual DOM-to-AST React & Tailwind Live Canvas",
+      "primary_strength": "Visual 'Cursor for Designers' that maps live browser DOM edits directly back to React/Next.js + Tailwind AST code",
+      "primary_tradeoff": "Specialized for React/Next.js and Tailwind frontend codebases rather than backend microservices"
+    },
+    {
+      "repo": "dyad-sh/dyad",
+      "name": "Dyad",
+      "stars": 21946,
+      "forks": 2778,
+      "open_issues": 333,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "swebench_verified_pct": 56.4,
+      "avg_cost_per_pr_usd": 0.35,
+      "sandbox_runtime": "Local Desktop Native App Builder (Mac/Win/Linux)",
+      "primary_strength": "Local open-source Lovable/v0/Bolt alternative with BYOK API keys, Supabase integration, and zero monthly credit caps",
+      "primary_tradeoff": "Local Node/Vite preview server requires local dev dependencies installed on host machine"
+    },
+    {
+      "repo": "SWE-agent/SWE-agent",
+      "name": "SWE-agent",
+      "stars": 20578,
+      "forks": 2278,
+      "open_issues": 156,
+      "language": "Python",
+      "license": "MIT",
+      "swebench_verified_pct": 64.2,
+      "avg_cost_per_pr_usd": 0.76,
+      "sandbox_runtime": "Agent-Computer Interface (ACI) +SWE-ReX Docker/AWS",
+      "primary_strength": "Princeton/Stanford NeurIPS Agent-Computer Interface (ACI) with lint-guarded file editing and cybersecurity auditing",
+      "primary_tradeoff": "CLI-first research architecture without a built-in visual web app preview canvas"
+    },
+    {
+      "repo": "stackblitz-labs/bolt.diy",
+      "name": "bolt.diy",
+      "stars": 19952,
+      "forks": 10605,
+      "open_issues": 19,
+      "language": "TypeScript",
+      "license": "MIT",
+      "swebench_verified_pct": 52.5,
+      "avg_cost_per_pr_usd": 0.28,
+      "sandbox_runtime": "In-Browser WebContainers + 19+ BYOK LLM Providers",
+      "primary_strength": "100% MIT open-source fork of Bolt.new supporting Ollama, OpenRouter, Claude, and DeepSeek with zero $20-$50/mo token subscription lock-in",
+      "primary_tradeoff": "Browser WebContainers cannot run native C++/Docker backend binaries directly in the tab"
+    }
+  ]
+}

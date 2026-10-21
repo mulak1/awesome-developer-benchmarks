@@ -1,0 +1,79 @@
+{
+  "category": "LLM Gateways, Semantic Caching & AI Observability (2026)",
+  "updated_at": "2026-10-16T10:00:00Z",
+  "combined_stars": 161639,
+  "repositories": [
+    {
+      "repo": "BerriAI/litellm",
+      "name": "LiteLLM",
+      "stars": 61370,
+      "forks": 12404,
+      "open_issues": 5494,
+      "language": "Python",
+      "p50_proxy_overhead_ms": 2.4,
+      "semantic_cache_hit_rate_pct": 38.5,
+      "pulse_score": 94.6,
+      "core_advantage": "Unified OpenAI-format AI Gateway with Rust core + Python SDK for 100+ LLM APIs, automatic fallback routing, and per-key budget enforcement"
+    },
+    {
+      "repo": "langfuse/langfuse",
+      "name": "Langfuse",
+      "stars": 35903,
+      "forks": 3996,
+      "open_issues": 1056,
+      "language": "TypeScript",
+      "p50_proxy_overhead_ms": 0.4,
+      "semantic_cache_hit_rate_pct": 0.0,
+      "pulse_score": 94.1,
+      "core_advantage": "Async OpenTelemetry LLM tracing, prompt version management, dataset experiments, and LLM-as-a-judge evaluation with zero request-path latency"
+    },
+    {
+      "repo": "promptfoo/promptfoo",
+      "name": "Promptfoo",
+      "stars": 26042,
+      "forks": 2490,
+      "open_issues": 746,
+      "language": "TypeScript",
+      "p50_proxy_overhead_ms": 0.0,
+      "semantic_cache_hit_rate_pct": 0.0,
+      "pulse_score": 93.4,
+      "core_advantage": "Declarative YAML CI/CD red-teaming, OWASP LLM Top-10 vulnerability scanning, and side-by-side matrix evaluations across GPT, Claude, Gemini, and DeepSeek"
+    },
+    {
+      "repo": "confident-ai/deepeval",
+      "name": "DeepEval",
+      "stars": 18901,
+      "forks": 2078,
+      "open_issues": 737,
+      "language": "Python",
+      "p50_proxy_overhead_ms": 0.0,
+      "semantic_cache_hit_rate_pct": 0.0,
+      "pulse_score": 91.5,
+      "core_advantage": "Pytest-native Python evaluation suite with 40+ RAG and agentic metrics (G-Eval, faithfulness, contextual recall, tool correctness)"
+    },
+    {
+      "repo": "Portkey-AI/gateway",
+      "name": "Portkey AI Gateway",
+      "stars": 13197,
+      "forks": 1358,
+      "open_issues": 300,
+      "language": "TypeScript",
+      "p50_proxy_overhead_ms": 0.9,
+      "semantic_cache_hit_rate_pct": 41.0,
+      "pulse_score": 92.2,
+      "core_advantage": "Sub-1ms TypeScript edge gateway routing to 1,600+ LLMs with 50+ inline PII/jailbreak guardrails and semantic caching"
+    },
+    {
+      "repo": "Helicone/helicone",
+      "name": "Helicone",
+      "stars": 6226,
+      "forks": 684,
+      "open_issues": 170,
+      "language": "TypeScript",
+      "p50_proxy_overhead_ms": 1.1,
+      "semantic_cache_hit_rate_pct": 42.0,
+      "pulse_score": 91.2,
+      "core_advantage": "1-line Cloudflare/Rust edge proxy with native semantic caching, prompt threat detection, and per-user cost attribution"
+    }
+  ]
+}

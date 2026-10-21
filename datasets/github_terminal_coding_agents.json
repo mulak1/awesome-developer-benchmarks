@@ -1,0 +1,49 @@
+{
+  "category": "Open-Source Terminal & IDE Coding Agent Harnesses",
+  "repos": [
+    {
+      "repo": "anomalyco/opencode",
+      "stars": 213999,
+      "forks": 28720,
+      "open_issues": 4318,
+      "language": "TypeScript",
+      "license": "MIT",
+      "description": "The open source coding agent.",
+      "pushed_at": "2026-10-16T04:58:44Z",
+      "fetched_at": "2026-10-16T05:01:10.316879+00:00"
+    },
+    {
+      "repo": "aaif-goose/goose",
+      "stars": 55328,
+      "forks": 6450,
+      "open_issues": 491,
+      "language": "Rust",
+      "license": "Apache-2.0",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "pushed_at": "2026-10-16T04:46:21Z",
+      "fetched_at": "2026-10-16T05:01:10.669911+00:00"
+    },
+    {
+      "repo": "Aider-AI/aider",
+      "stars": 49576,
+      "forks": 5062,
+      "open_issues": 1923,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "aider is AI pair programming in your terminal",
+      "pushed_at": "2026-05-22T14:02:20Z",
+      "fetched_at": "2026-10-16T05:01:10.885351+00:00"
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 70382,
+      "forks": 7672,
+      "open_issues": 1667,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "pushed_at": "2026-10-16T04:02:41Z",
+      "fetched_at": "2026-10-16T05:01:11.128416+00:00"
+    }
+  ]
+}

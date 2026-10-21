@@ -1,0 +1,67 @@
+[
+  {
+    "repo": "hoppscotch/hoppscotch",
+    "name": "Hoppscotch",
+    "stars": 68250,
+    "forks": 4620,
+    "open_issues": 310,
+    "license": "MIT",
+    "description": "Open source API development ecosystem - Web, Desktop & CLI for REST, GraphQL, WebSocket, SSE & MQTT",
+    "offline_first": true,
+    "protocols": ["REST", "GraphQL", "WebSocket", "SSE", "MQTT", "gRPC"],
+    "cloud_mandatory": false,
+    "commercial_savings_pct": 93.8
+  },
+  {
+    "repo": "usebruno/bruno",
+    "name": "Bruno",
+    "stars": 32540,
+    "forks": 1580,
+    "open_issues": 485,
+    "license": "MIT",
+    "description": "Fast and Git-friendly open-source API client storing collections in plain-text Bru files directly in your repo",
+    "offline_first": true,
+    "protocols": ["REST", "GraphQL"],
+    "cloud_mandatory": false,
+    "commercial_savings_pct": 94.6
+  },
+  {
+    "repo": "mockoon/mockoon",
+    "name": "Mockoon",
+    "stars": 7240,
+    "forks": 420,
+    "open_issues": 45,
+    "license": "MIT",
+    "description": "The easiest and quickest way to run local mock APIs with zero cloud dependencies",
+    "offline_first": true,
+    "protocols": ["REST", "HTTPS"],
+    "cloud_mandatory": false,
+    "commercial_savings_pct": 95.0
+  },
+  {
+    "repo": "yaakapp/yaak",
+    "name": "Yaak",
+    "stars": 6510,
+    "forks": 280,
+    "open_issues": 62,
+    "license": "GPL-3.0",
+    "description": "Desktop API client for REST, GraphQL, and gRPC built with Rust and Tauri",
+    "offline_first": true,
+    "protocols": ["REST", "GraphQL", "gRPC"],
+    "cloud_mandatory": false,
+    "commercial_savings_pct": 93.5
+  },
+  {
+    "repo": "wiremock/wiremock",
+    "name": "WireMock",
+    "stars": 6420,
+    "forks": 1690,
+    "open_issues": 115,
+    "license": "Apache-2.0",
+    "description": "Flexible API mocking tool for unit and integration testing with fault injection and stateful behavior",
+    "offline_first": true,
+    "protocols": ["HTTP", "REST"],
+    "cloud_mandatory": false,
+    "commercial_savings_pct": 92.8
+  }
+]

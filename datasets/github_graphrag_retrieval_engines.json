@@ -1,0 +1,91 @@
+{
+  "category": "GraphRAG, Hybrid Knowledge Graphs & Agentic Retrieval Engines",
+  "captured_at": "2026-10-16T14:00:00Z",
+  "combined_stars": 252904,
+  "repositories": [
+    {
+      "repo": "infiniflow/ragflow",
+      "name": "RAGFlow",
+      "stars": 92323,
+      "forks": 11004,
+      "open_issues": 1341,
+      "language": "Go/Python",
+      "license": "Apache-2.0",
+      "indexing_tokens_per_doc": 2850,
+      "query_latency_ms": 145,
+      "multi_hop_recall_pct": 94.8,
+      "primary_strength": "Deep document layout recognition (DeepDoc) fused with hybrid BM25 + vector + GraphRAG retrieval",
+      "primary_tradeoff": "Full Elasticsearch/Infinity + MySQL + MinIO Docker stack uses ~4.2GB baseline RAM"
+    },
+    {
+      "repo": "run-llama/llama_index",
+      "name": "LlamaIndex",
+      "stars": 52521,
+      "forks": 8361,
+      "open_issues": 949,
+      "language": "Python",
+      "license": "MIT",
+      "indexing_tokens_per_doc": 2100,
+      "query_latency_ms": 118,
+      "multi_hop_recall_pct": 93.4,
+      "primary_strength": "300+ LlamaHub data connectors, event-driven Workflows, and PropertyGraphIndex for structured RAG",
+      "primary_tradeoff": "Rapid minor-version API evolution across llama-index-core and integration sub-packages"
+    },
+    {
+      "repo": "HKUDS/LightRAG",
+      "name": "LightRAG",
+      "stars": 40167,
+      "forks": 5705,
+      "open_issues": 385,
+      "language": "Python",
+      "license": "MIT",
+      "indexing_tokens_per_doc": 1450,
+      "query_latency_ms": 92,
+      "multi_hop_recall_pct": 93.9,
+      "primary_strength": "Dual-level (low/high) entity-relation graph retrieval that cuts GraphRAG indexing tokens by 90.9% and query API calls to 1",
+      "primary_tradeoff": "Requires an entity-extraction LLM pass during initial document ingestion"
+    },
+    {
+      "repo": "microsoft/graphrag",
+      "name": "Microsoft GraphRAG",
+      "stars": 36358,
+      "forks": 3850,
+      "open_issues": 57,
+      "language": "Python",
+      "license": "MIT",
+      "indexing_tokens_per_doc": 16000,
+      "query_latency_ms": 680,
+      "multi_hop_recall_pct": 95.6,
+      "primary_strength": "Hierarchical Leiden community summaries for global sensemaking across massive private corpora",
+      "primary_tradeoff": "Heavy Leiden community indexing amplifies ingestion token spend 11x vs LightRAG and requires full rebuilds on updates"
+    },
+    {
+      "repo": "deepset-ai/haystack",
+      "name": "Haystack",
+      "stars": 26745,
+      "forks": 3295,
+      "open_issues": 141,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "indexing_tokens_per_doc": 1800,
+      "query_latency_ms": 105,
+      "multi_hop_recall_pct": 92.8,
+      "primary_strength": "Explicit DAG pipeline orchestration with serializable YAML components, hybrid rankers, and production tracing",
+      "primary_tradeoff": "Fewer pre-built no-code UI templates than RAGFlow"
+    },
+    {
+      "repo": "chonkie-inc/chonkie",
+      "name": "Chonkie",
+      "stars": 4790,
+      "forks": 364,
+      "open_issues": 49,
+      "language": "Python",
+      "license": "MIT",
+      "indexing_tokens_per_doc": 320,
+      "query_latency_ms": 14,
+      "multi_hop_recall_pct": 91.2,
+      "primary_strength": "Zero-bloat semantic, token, and recursive RAG chunking library (33x faster and 95% smaller install than heavy frameworks)",
+      "primary_tradeoff": "Focused purely on high-speed chunking; pairs with Qdrant/LanceDB for retrieval"
+    }
+  ]
+}

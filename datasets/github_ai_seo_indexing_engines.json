@@ -1,0 +1,63 @@
+{
+  "benchmark_category": "AI Search, AEO/GEO Citation & Web Indexing Engines",
+  "captured_at": "2026-10-16T07:42:00Z",
+  "combined_stars": 233995,
+  "repos": [
+    {
+      "repo": "firecrawl/firecrawl",
+      "stars": 191993,
+      "forks": 10151,
+      "language": "TypeScript",
+      "protocol": "Accept: text/markdown & LLM-Ready Web Extraction",
+      "citation_impact": "Bypasses noisy DOM parsing when servers expose direct Markdown representations via Accept: text/markdown or .md sibling routes"
+    },
+    {
+      "repo": "AgriciDaniel/claude-seo",
+      "stars": 19025,
+      "forks": 2772,
+      "language": "Python",
+      "protocol": "26-Skill Technical SEO, GEO/AEO, E-E-A-T, WebMCP & IndexNow",
+      "citation_impact": "Combines IndexNow push indexing, multi-entity @graph JSON-LD, and 40-60 word GEO direct-answer blocks for +37-40% AI visibility"
+    },
+    {
+      "repo": "jina-ai/reader",
+      "stars": 12153,
+      "forks": 906,
+      "language": "TypeScript",
+      "protocol": "r.jina.ai LLM Reader & HTTP Link Header Discovery",
+      "citation_impact": "Extracts semantic <main>, <article>, and <table> elements and discovers /llms.txt + /llms-full.txt via HTTP Link headers"
+    },
+    {
+      "repo": "GoogleCloudPlatform/knowledge-catalog",
+      "stars": 9481,
+      "forks": 803,
+      "language": "Python",
+      "protocol": "Open Knowledge Format (OKF v0.2) /okf/index.md Bundle",
+      "citation_impact": "Provides attested computations, YAML provenance frontmatter, and cross-linked concept graphs for agentic discovery"
+    },
+    {
+      "repo": "schemaorg/schemaorg",
+      "stars": 6276,
+      "forks": 965,
+      "language": "Python",
+      "protocol": "Schema.org @graph (TechArticle + Dataset + SoftwareApplication + FAQPage)",
+      "citation_impact": "Increases non-Google AI engine (Perplexity, ChatGPT Search, Copilot) structured entity extraction by 30-40%"
+    },
+    {
+      "repo": "AnswerDotAI/llms-txt",
+      "stars": 2661,
+      "forks": 171,
+      "language": "Python",
+      "protocol": "/llms.txt & /llms-full.txt Specification",
+      "citation_impact": "Delivers zero-hop single-request RAG ingestion of all site benchmarks, pricing (/pricing.md), andhead-to-head shootouts"
+    },
+    {
+      "repo": "harlan-zw/nuxt-seo",
+      "stars": 1457,
+      "forks": 94,
+      "language": "TypeScript",
+      "protocol": "Automated Technical SEO, Sitemap & Canonical Graph",
+      "citation_impact": "Eliminates orphan pages and enforces self-referencing canonicals, X-Robots-Tag max-snippet:-1, and XML sitemaps"
+    }
+  ]
+}

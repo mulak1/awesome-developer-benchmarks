@@ -1,0 +1,62 @@
+{
+  "category": "ai-web-scraping-crawler-markdown-extraction-engines",
+  "fetched_at": "2026-10-20T13:02:00.000000+00:00",
+  "total_stars": 103700,
+  "repositories": [
+    {
+      "repo": "unclecode/crawl4ai",
+      "name": "Crawl4AI (Async Playwright)",
+      "stars": 38500,
+      "forks": 3950,
+      "open_issues": 180,
+      "language": "Python",
+      "primary_metric": "Async Playwright LLM web crawler with BM25 Fit-Markdown stripping 96% of boilerplate DOM tokens",
+      "production_tradeoff": "Headless Chromium browser pool requires dedicated CPU cores and 1.5GB RAM per concurrent worker",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "mendableai/firecrawl",
+      "name": "Firecrawl (LLM Scraper & Crawler)",
+      "stars": 26200,
+      "forks": 2400,
+      "open_issues": 130,
+      "language": "TypeScript",
+      "primary_metric": "Turnkey /scrape, /crawl, /map, and LLM schema extraction API converting websites to clean Markdown",
+      "production_tradeoff": "Cloud managed API credits or self-hosted multi-container Docker cluster with Redis & Playwright",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "ScrapeGraphAI/Scrapegraph-ai",
+      "name": "ScrapeGraphAI (LLM Graph Scraper)",
+      "stars": 17800,
+      "forks": 1650,
+      "open_issues": 85,
+      "language": "Python",
+      "primary_metric": "Direct graph-based LLM scraping pipeline using local Ollama or cloud models for zero-CSS extraction",
+      "production_tradeoff": "LLM inference cost and token latency on every page extraction without cached CSS selectors",
+      "license": "MIT"
+    },
+    {
+      "repo": "jina-ai/reader",
+      "name": "Jina Reader (Prefix Proxy)",
+      "stars": 14800,
+      "forks": 1100,
+      "open_issues": 60,
+      "language": "TypeScript",
+      "primary_metric": "Converts any URL to clean LLM-friendly markdown by simply prepending r.jina.ai/ with zero setup",
+      "production_tradeoff": "Public endpoint rate limits or self-hosted Node.js Puppeteer proxy deployment",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "spider-rs/spider",
+      "name": "Spider (Rust Multi-Threaded)",
+      "stars": 6400,
+      "forks": 420,
+      "open_issues": 35,
+      "language": "Rust",
+      "primary_metric": "Ultra-fast multi-threaded Rust web crawler and scraper indexing 10,000+ pages/second with tiny RAM usage",
+      "production_tradeoff": "Dynamic JavaScript SPAs require optional headless browser bridge rather than native HTTP parsing",
+      "license": "MIT"
+    }
+  ]
+}

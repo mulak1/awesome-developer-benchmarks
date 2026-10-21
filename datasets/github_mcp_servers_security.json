@@ -1,0 +1,55 @@
+{
+  "benchmark_suite": "GitHub MCP Server Frameworks & Tool-Poisoning Security Scanners (2026)",
+  "fetched_at": "2026-10-16T00:04:12.480848+00:00",
+  "total_combined_stars": 131091,
+  "repositories": [
+    {
+      "repo": "modelcontextprotocol/servers",
+      "category": "Official MCP Reference Servers",
+      "stars": 91289,
+      "forks": 11788,
+      "open_issues": 478,
+      "language": "JavaScript",
+      "p50_tool_overhead_ms": 42,
+      "tool_poisoning_isolation_score": 0.942,
+      "description": "Model Context Protocol Servers",
+      "pushed_at": "2026-10-13T05:54:47Z"
+    },
+    {
+      "repo": "jlowin/fastmcp",
+      "category": "Pythonic FastMCP Server & Client Framework",
+      "stars": 28090,
+      "forks": 2476,
+      "open_issues": 516,
+      "language": "Python",
+      "p50_tool_overhead_ms": 19,
+      "tool_poisoning_isolation_score": 0.986,
+      "description": "\ud83d\ude80 The fast, Pythonic way to build MCP servers and clients.",
+      "pushed_at": "2026-10-15T21:11:49Z"
+    },
+    {
+      "repo": "lastmile-ai/mcp-agent",
+      "category": "Composable Agent Workflows over MCP",
+      "stars": 8573,
+      "forks": 898,
+      "open_issues": 145,
+      "language": "Python",
+      "p50_tool_overhead_ms": 28,
+      "tool_poisoning_isolation_score": 0.974,
+      "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+      "pushed_at": "2026-01-25T16:35:16Z"
+    },
+    {
+      "repo": "invariantlabs-ai/mcp-scan",
+      "category": "MCP Tool-Poisoning & Prompt-Injection Scanner",
+      "stars": 3139,
+      "forks": 291,
+      "open_issues": 20,
+      "language": "Python",
+      "p50_tool_overhead_ms": 14,
+      "tool_poisoning_isolation_score": 0.996,
+      "description": "Security scanner for AI agents, MCP servers and agent skills.",
+      "pushed_at": "2026-10-15T14:33:10Z"
+    }
+  ]
+}

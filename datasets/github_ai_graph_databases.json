@@ -1,0 +1,62 @@
+{
+  "category": "ai-graph-databases-knowledge-graph-engines",
+  "fetched_at": "2026-10-18T21:08:01.010156+00:00",
+  "total_stars": 42167,
+  "repositories": [
+    {
+      "repo": "neo4j/neo4j",
+      "name": "Neo4j Community Edition",
+      "stars": 17337,
+      "forks": 2610,
+      "open_issues": 412,
+      "language": "Java",
+      "primary_metric": "14.2ms 3-hop Cypher traversal + native HNSW vector index",
+      "production_tradeoff": "JVM heap requires ~4GB+ RAM; multi-DB clustering gated in Enterprise",
+      "license": "GPL-3.0 / AuraDB"
+    },
+    {
+      "repo": "vesoft-inc/nebula",
+      "name": "NebulaGraph",
+      "stars": 11840,
+      "forks": 1290,
+      "open_issues": 285,
+      "language": "C++",
+      "primary_metric": "8.6ms distributed C++ RocksDB shared-nothing property graph",
+      "production_tradeoff": "Multi-service metad/graphd/storaged cluster ops overhead",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "kuzudb/kuzu",
+      "name": "K\u00f9zuDB (Embedded Graph)",
+      "stars": 5420,
+      "forks": 245,
+      "open_issues": 78,
+      "language": "C++",
+      "primary_metric": "1.9ms embedded C++ CSR columnar Cypher + vector/FTS in-process",
+      "production_tradeoff": "Single-writer embedded engine vs multi-writer client-server",
+      "license": "MIT"
+    },
+    {
+      "repo": "FalkorDB/FalkorDB",
+      "name": "FalkorDB (GraphBLAS)",
+      "stars": 3890,
+      "forks": 210,
+      "open_issues": 44,
+      "language": "C",
+      "primary_metric": "1.4ms GraphBLAS sparse-matrix linear algebra Cypher + GraphRAG",
+      "production_tradeoff": "In-memory Redis/Valkey module requires RAM sizing for large graphs",
+      "license": "SSPLv1 / Free Self-Hosted"
+    },
+    {
+      "repo": "apache/age",
+      "name": "Apache AGE (PostgreSQL)",
+      "stars": 3680,
+      "forks": 395,
+      "open_issues": 92,
+      "language": "C",
+      "primary_metric": "4.8ms openCypher extension inside PostgreSQL + pgvector joins",
+      "production_tradeoff": "Deep 6+ hop traversals trail native GraphBLAS/CSR engines",
+      "license": "Apache-2.0"
+    }
+  ]
+}

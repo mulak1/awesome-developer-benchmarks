@@ -1,0 +1,62 @@
+{
+  "category": "ai-answer-engines-perplexity-search-agents",
+  "fetched_at": "2026-10-20T12:03:00.000000+00:00",
+  "total_stars": 106263,
+  "repositories": [
+    {
+      "repo": "searxng/searxng",
+      "name": "SearXNG (Private Metasearch)",
+      "stars": 38639,
+      "forks": 3200,
+      "open_issues": 160,
+      "language": "Python",
+      "primary_metric": "Privacy-respecting metasearch proxying 70+ engines with zero user tracking or ad profiling",
+      "production_tradeoff": "Requires upstream engine IP rate-limit rotation or dedicated residential egress proxies",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "ItzCrazyKns/Vane",
+      "name": "Perplexica / Vane (AI Answer Engine)",
+      "stars": 37486,
+      "forks": 3850,
+      "open_issues": 140,
+      "language": "TypeScript",
+      "primary_metric": "Self-hosted AI search agent with SearXNG integration and local Ollama/vLLM LLM inference",
+      "production_tradeoff": "Multi-container Docker setup requires local SearXNG instance and embedding model runtime",
+      "license": "MIT"
+    },
+    {
+      "repo": "browseros-ai/BrowserOS",
+      "name": "BrowserOS (Agentic Search Browser)",
+      "stars": 14007,
+      "forks": 980,
+      "open_issues": 95,
+      "language": "TypeScript",
+      "primary_metric": "Open-source agentic browser and search alternative to ChatGPT Atlas and Perplexity Comet",
+      "production_tradeoff": "Active tab agent execution consumes local system RAM and headless browser cycles",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "miurla/morphic",
+      "name": "Morphic (Generative UI Search)",
+      "stars": 9184,
+      "forks": 1520,
+      "open_issues": 65,
+      "language": "TypeScript",
+      "primary_metric": "AI search engine with generative UI components, interactive charts, and real-time citation cards",
+      "production_tradeoff": "Default configuration uses cloud search APIs (Tavily/SearXNG) and OpenAI-compatible endpoints",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "InternLM/MindSearch",
+      "name": "MindSearch (Multi-Agent Research)",
+      "stars": 6947,
+      "forks": 620,
+      "open_issues": 40,
+      "language": "Python",
+      "primary_metric": "Graph-based multi-agent search framework executing 300+ parallel web queries for complex deep research",
+      "production_tradeoff": "Multi-agent tree search incurs 10-25s response latency for exhaustive multi-hop synthesis",
+      "license": "Apache-2.0"
+    }
+  ]
+}

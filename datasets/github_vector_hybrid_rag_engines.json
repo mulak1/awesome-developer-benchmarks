@@ -1,0 +1,55 @@
+{
+  "benchmark_suite": "GitHub Vector Databases & Hybrid RAG Retrieval Engines (2026)",
+  "fetched_at": "2026-10-16T02:01:49.936641+00:00",
+  "total_combined_stars": 122675,
+  "repositories": [
+    {
+      "repo": "milvus-io/milvus",
+      "category": "Distributed Cloud-Native Vector Database",
+      "stars": 46390,
+      "forks": 4300,
+      "open_issues": 1444,
+      "language": "Go",
+      "p50_query_ms": 11.2,
+      "ram_per_1m_vectors_mb": 1850,
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "pushed_at": "2026-10-16T01:45:50Z"
+    },
+    {
+      "repo": "qdrant/qdrant",
+      "category": "Rust High-Throughput Vector & Sparse Hybrid Engine",
+      "stars": 35091,
+      "forks": 2750,
+      "open_issues": 781,
+      "language": "Rust",
+      "p50_query_ms": 3.4,
+      "ram_per_1m_vectors_mb": 420,
+      "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdran",
+      "pushed_at": "2026-10-15T21:20:00Z"
+    },
+    {
+      "repo": "chroma-core/chroma",
+      "category": "Embedded Local-First AI Application Vector Store",
+      "stars": 29512,
+      "forks": 2565,
+      "open_issues": 946,
+      "language": "Rust",
+      "p50_query_ms": 6.8,
+      "ram_per_1m_vectors_mb": 310,
+      "description": "Search infrastructure for AI",
+      "pushed_at": "2026-10-15T17:26:41Z"
+    },
+    {
+      "repo": "lancedb/lancedb",
+      "category": "Serverless Lance/Arrow Columnar Multimodal Vector DB",
+      "stars": 11682,
+      "forks": 1115,
+      "open_issues": 735,
+      "language": "Rust",
+      "p50_query_ms": 2.1,
+      "ram_per_1m_vectors_mb": 145,
+      "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+      "pushed_at": "2026-10-16T01:44:54Z"
+    }
+  ]
+}

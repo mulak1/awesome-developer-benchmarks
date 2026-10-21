@@ -1,0 +1,57 @@
+{
+  "category": "Open-Source APM, Error Tracking & Distributed Tracing",
+  "generated_at": "2026-10-20T21:00:00Z",
+  "total_stars": 119811,
+  "repositories": [
+    {
+      "repo": "getsentry/sentry",
+      "name": "Sentry",
+      "stars": 45615,
+      "forks": 4400,
+      "license": "FSL-1.1-Apache-2.0 / BSL",
+      "description": "Developer-first error tracking and performance monitoring with deep stack traces, breadcrumbs, and release health",
+      "primary_language": "Python",
+      "pulse_score": 98.7
+    },
+    {
+      "repo": "signoz/signoz",
+      "name": "SigNoz",
+      "stars": 32408,
+      "forks": 2700,
+      "license": "Apache-2.0",
+      "description": "Open-source OpenTelemetry-native APM, distributed tracing, metrics, and logs with ClickHouse high-efficiency columnar storage",
+      "primary_language": "TypeScript",
+      "pulse_score": 98.5
+    },
+    {
+      "repo": "openobserve/openobserve",
+      "name": "OpenObserve",
+      "stars": 22444,
+      "forks": 1100,
+      "license": "AGPL-3.0",
+      "description": "Cloud-native 10x lower cost observability platform written in Rust for logs, metrics, and traces with direct S3 parquet storage",
+      "primary_language": "Rust",
+      "pulse_score": 98.1
+    },
+    {
+      "repo": "hyperdxio/hyperdx",
+      "name": "HyperDX",
+      "stars": 9960,
+      "forks": 510,
+      "license": "MIT",
+      "description": "Developer-friendly open source observability platform connecting distributed traces, logs, and session replays seamlessly",
+      "primary_language": "TypeScript",
+      "pulse_score": 97.6
+    },
+    {
+      "repo": "highlight/highlight",
+      "name": "Highlight.io",
+      "stars": 9384,
+      "forks": 580,
+      "license": "Apache-2.0",
+      "description": "Open source full-stack monitoring with session replay, error logging, and OpenTelemetry trace correlation",
+      "primary_language": "TypeScript",
+      "pulse_score": 97.4
+    }
+  ]
+}

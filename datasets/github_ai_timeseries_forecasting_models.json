@@ -1,0 +1,57 @@
+{
+  "category": "ai-timeseries-forecasting-models",
+  "captured_at": "2026-10-17T23:01:00Z",
+  "total_stars": 74977,
+  "repositories": [
+    {
+      "repo": "facebook/prophet",
+      "name": "Meta Prophet",
+      "stars": 20440,
+      "forks": 4638,
+      "language": "Python",
+      "license": "MIT",
+      "pulse_score": 96.4,
+      "description": "Decomposable additive/multiplicative time-series forecasting library handling seasonality, holidays, and trend changepoints"
+    },
+    {
+      "repo": "unit8co/darts",
+      "name": "Unit8 Darts",
+      "stars": 9552,
+      "forks": 1059,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pulse_score": 97.3,
+      "description": "Unified Python library for user-friendly forecasting and anomaly detection across ARIMA, LightGBM, TiDE, TFT, and Chronos"
+    },
+    {
+      "repo": "google-research/timesfm",
+      "name": "Google TimesFM 2.0",
+      "stars": 34572,
+      "forks": 3341,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pulse_score": 97.7,
+      "description": "Google Research 500M decoder-only time-series foundation model for zero-shot univariate and covariate horizon forecasting"
+    },
+    {
+      "repo": "amazon-science/chronos-forecasting",
+      "name": "Amazon Chronos-Bolt",
+      "stars": 6126,
+      "forks": 756,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pulse_score": 97.9,
+      "description": "Amazon Science pretrained probabilistic time-series foundation model (250x faster patch-based Chronos-Bolt) with zero-shot WQL"
+    },
+    {
+      "repo": "Nixtla/neuralforecast",
+      "name": "Nixtla NeuralForecast",
+      "stars": 4287,
+      "forks": 511,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "pulse_score": 97.1,
+      "description": "Scalable PyTorch collection of 30+ neural forecasting models (NHITS, NBEATSx, PatchTST, iTransformer, TimeLLM) with Exogenous variables"
+    }
+  ]
+}

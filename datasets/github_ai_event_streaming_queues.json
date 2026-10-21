@@ -1,0 +1,56 @@
+{
+  "category": "ai-event-streaming-message-queues-kafka-alternatives",
+  "fetched_at": "2026-10-18T16:00:30Z",
+  "repositories": [
+    {
+      "repo": "redpanda-data/redpanda",
+      "name": "redpanda",
+      "stars": 12622,
+      "forks": 795,
+      "language": "C++",
+      "license": "Apache-2.0",
+      "description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+      "highlight": "C++ Seastar thread-per-core Kafka-compatible streaming platform with built-in Raft consensus, zero JVM/ZooKeeper & Wasm transforms"
+    },
+    {
+      "repo": "nats-io/nats-server",
+      "name": "nats-server",
+      "stars": 20892,
+      "forks": 2012,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "highlight": "CNCF single-binary Go cloud-native messaging & JetStream persistence engine running in 20MB RAM with sub-millisecond pub/sub & KV"
+    },
+    {
+      "repo": "apache/pulsar",
+      "name": "pulsar",
+      "stars": 15349,
+      "forks": 3773,
+      "language": "Java",
+      "license": "Apache-2.0",
+      "description": "Apache Pulsar - distributed pub-sub messaging system",
+      "highlight": "Distributed cloud-native pub-sub messaging & event streaming platform with tiered Apache BookKeeper + S3 storage separation"
+    },
+    {
+      "repo": "AutoMQ/automq",
+      "name": "automq",
+      "stars": 10917,
+      "forks": 799,
+      "language": "Java",
+      "license": "Apache-2.0",
+      "description": "Diskless Kafka\u00ae on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
+      "highlight": "100% Kafka-compatible cloud-native stateless streaming engine built on S3/object storage cutting AWS MSK & Confluent bills by 90%"
+    },
+    {
+      "repo": "taskforcesh/bullmq",
+      "name": "bullmq",
+      "stars": 9517,
+      "forks": 726,
+      "language": "TypeScript",
+      "license": "MIT",
+      "description": "BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL",
+      "highlight": "High-throughput Redis/Dragonfly-backed distributed message queue, DAG workflow & cron job engine for Node.js/TypeScript AI agents"
+    }
+  ]
+}

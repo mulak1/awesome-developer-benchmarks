@@ -1,0 +1,57 @@
+{
+  "category": "open-source-internal-tools-admin-panel-low-code-builders",
+  "generated_at": "2026-10-21T01:00:00Z",
+  "total_combined_stars": 158788,
+  "platforms": [
+    {
+      "name": "Appsmith",
+      "repo": "appsmithorg/appsmith",
+      "stars": 41097,
+      "forks": 3950,
+      "language": "Java / JavaScript",
+      "license": "Apache-2.0",
+      "score": 98.7,
+      "description": "Powerful open-source internal tool builder to develop dashboards, admin panels, and CRUD apps."
+    },
+    {
+      "name": "ToolJet",
+      "repo": "tooljet/tooljet",
+      "stars": 41111,
+      "forks": 4620,
+      "language": "JavaScript / TypeScript",
+      "license": "AGPL-3.0",
+      "score": 98.6,
+      "description": "Low-code framework to build & deploy internal tools, workflows, and integrations with Python and JS."
+    },
+    {
+      "name": "Refine",
+      "repo": "refinedev/refine",
+      "stars": 35913,
+      "forks": 2720,
+      "language": "TypeScript",
+      "license": "MIT",
+      "score": 98.4,
+      "description": "A React Framework for building internal tools, admin panels, dashboards & B2B apps with 100% control."
+    },
+    {
+      "name": "Budibase",
+      "repo": "Budibase/budibase",
+      "stars": 28335,
+      "forks": 1940,
+      "language": "TypeScript",
+      "license": "GPL-3.0",
+      "score": 98.1,
+      "description": "Low code platform for building internal tools, client portals, and approval workflows in minutes."
+    },
+    {
+      "name": "ILLA Builder",
+      "repo": "illa-family/illa-builder",
+      "stars": 12332,
+      "forks": 1150,
+      "language": "Go / TypeScript",
+      "license": "Apache-2.0",
+      "score": 97.4,
+      "description": "An open-source low-code platform for developers with AI agent integrations and rich widget libraries."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "category": "Zero-Trust Mesh VPNs, WireGuard Overlay Networks & Tailscale Alternatives",
+  "generated_at": "2026-10-20T18:00:00Z",
+  "total_stars": 60400,
+  "repositories": [
+    {
+      "repo": "juanfont/headscale",
+      "name": "Headscale",
+      "stars": 29500,
+      "forks": 1850,
+      "license": "BSD-3-Clause",
+      "description": "An open source, self-hosted implementation of the Tailscale control server with MagicDNS, DERP relays & OIDC SSO",
+      "primary_language": "Go",
+      "pulse_score": 98.4
+    },
+    {
+      "repo": "gravitl/netmaker",
+      "name": "Netmaker",
+      "stars": 11200,
+      "forks": 890,
+      "license": "SSPL",
+      "description": "High-performance virtual networking engine built on WireGuard with automated multi-cloud VPC peering & dynamic routing",
+      "primary_language": "Go",
+      "pulse_score": 98.1
+    },
+    {
+      "repo": "slackhq/nebula",
+      "name": "Slack Nebula",
+      "stars": 14800,
+      "forks": 980,
+      "license": "MIT",
+      "description": "Mutually authenticated peer-to-peer overlay mesh network with certificate-based firewall & lighthouses",
+      "primary_language": "Go",
+      "pulse_score": 97.9
+    },
+    {
+      "repo": "tonarino/innernet",
+      "name": "Innernet",
+      "stars": 4500,
+      "forks": 240,
+      "license": "MIT",
+      "description": "A private network system that uses WireGuard and Rust to create peer-to-peer networks with CIDR-based subnets",
+      "primary_language": "Rust",
+      "pulse_score": 97.5
+    },
+    {
+      "repo": "WireGuard/wireguard-monolithic",
+      "name": "WireGuard",
+      "stars": 400,
+      "forks": 120,
+      "license": "GPL-2.0",
+      "description": "Fast, modern, secure kernel-level cryptographic VPN tunnel protocol replacing IPSec and OpenVPN",
+      "primary_language": "C",
+      "pulse_score": 97.4
+    }
+  ]
+}

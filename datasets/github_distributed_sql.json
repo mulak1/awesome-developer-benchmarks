@@ -1,0 +1,45 @@
+{
+  "category": "open-source-distributed-sql-newsql-databases",
+  "name": "Open-Source Distributed SQL & Cloud-Native Relational Databases",
+  "description": "Throughput, multi-region replication latency, and cloud cluster cost comparison across open-source CockroachDB and Cloud Spanner alternatives.",
+  "captured_at": "2026-10-21T06:00:00Z",
+  "combined_stars": 61620,
+  "tools": [
+    {
+      "name": "TiDB",
+      "repo": "pingcap/tidb",
+      "stars": 40663,
+      "forks": 6274,
+      "license": "Apache-2.0",
+      "score": 98.2,
+      "sql_compatibility": "MySQL 8.0 Protocol & Syntax",
+      "htap_analytics_engine": "TiFlash Columnar Engine",
+      "commercial_alternative": "Google Cloud Spanner ($0.90/node/hr)",
+      "monthly_savings_est": 2800.00
+    },
+    {
+      "name": "YugabyteDB",
+      "repo": "yugabyte/yugabyte-db",
+      "stars": 10612,
+      "forks": 1372,
+      "license": "Apache-2.0 / Core",
+      "score": 97.6,
+      "sql_compatibility": "PostgreSQL 15 Wire Protocol & Extensions",
+      "htap_analytics_engine": "Native DocDB Distributed LSM",
+      "commercial_alternative": "CockroachDB Enterprise ($1.50/vCPU/hr)",
+      "monthly_savings_est": 2160.00
+    },
+    {
+      "name": "OceanBase",
+      "repo": "oceanbase/oceanbase",
+      "stars": 10345,
+      "forks": 1929,
+      "license": "Apache-2.0",
+      "score": 96.8,
+      "sql_compatibility": "MySQL & Oracle Mode Compatibility",
+      "htap_analytics_engine": "Integrated In-Memory Chunk Engine",
+      "commercial_alternative": "Oracle Real Application Clusters (RAC)",
+      "monthly_savings_est": 5000.00
+    }
+  ]
+}

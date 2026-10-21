@@ -1,0 +1,41 @@
+{
+  "category": "ai-search-engines-full-text-hybrid-vector",
+  "fetched_at": "2026-10-18T14:00:00Z",
+  "repositories": [
+    {
+      "repo": "meilisearch/meilisearch",
+      "stars": 59595,
+      "forks": 2743,
+      "license": "MIT",
+      "language": "Rust"
+    },
+    {
+      "repo": "typesense/typesense",
+      "stars": 27000,
+      "forks": 1021,
+      "license": "GPL-3.0",
+      "language": "C++"
+    },
+    {
+      "repo": "vespa-engine/vespa",
+      "stars": 7128,
+      "forks": 745,
+      "license": "Apache-2.0",
+      "language": "Java"
+    },
+    {
+      "repo": "paradedb/paradedb",
+      "stars": 9407,
+      "forks": 481,
+      "license": "AGPL-3.0",
+      "language": "Rust"
+    },
+    {
+      "repo": "quickwit-oss/quickwit",
+      "stars": 11724,
+      "forks": 615,
+      "license": "Apache-2.0",
+      "language": "Rust"
+    }
+  ]
+}

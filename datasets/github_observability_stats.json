@@ -1,0 +1,50 @@
+{
+  "synced_at": "2026-10-15T09:05:06.490424+00:00",
+  "category": "AI Observability, OpenTelemetry & Holistic Evaluation Benchmarks",
+  "repositories": [
+    {
+      "full_name": "Arize-ai/phoenix",
+      "name": "phoenix",
+      "stars": 11842,
+      "forks": 1205,
+      "open_issues": 1147,
+      "language": "Python",
+      "description": "AI Observability & Evaluation",
+      "html_url": "https://github.com/Arize-ai/phoenix",
+      "updated_at": "2026-10-15T08:12:27Z"
+    },
+    {
+      "full_name": "traceloop/openllmetry",
+      "name": "openllmetry",
+      "stars": 7495,
+      "forks": 1158,
+      "open_issues": 786,
+      "language": "Python",
+      "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+      "html_url": "https://github.com/traceloop/openllmetry",
+      "updated_at": "2026-10-15T06:04:45Z"
+    },
+    {
+      "full_name": "truera/trulens",
+      "name": "trulens",
+      "stars": 3602,
+      "forks": 364,
+      "open_issues": 96,
+      "language": "Python",
+      "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+      "html_url": "https://github.com/truera/trulens",
+      "updated_at": "2026-10-15T03:45:10Z"
+    },
+    {
+      "full_name": "stanford-crfm/helm",
+      "name": "helm",
+      "stars": 2944,
+      "forks": 423,
+      "open_issues": 114,
+      "language": "Python",
+      "description": "Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent evaluation of foundation models, including large language models (LLMs) and multimodal models.",
+      "html_url": "https://github.com/stanford-crfm/helm",
+      "updated_at": "2026-10-15T00:20:15Z"
+    }
+  ]
+}

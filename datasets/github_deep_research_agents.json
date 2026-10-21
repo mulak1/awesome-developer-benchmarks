@@ -1,0 +1,49 @@
+{
+  "category": "deep-research-agents",
+  "fetched_at": "2026-10-16T18:02:00-07:00",
+  "total_stars": 183449,
+  "repositories": [
+    {
+      "repo": "assafelovic/gpt-researcher",
+      "stars": 30130,
+      "forks": 4170,
+      "license": "Apache-2.0",
+      "description": "An autonomous agent that conducts deep research on any data using any LLM providers"
+    },
+    {
+      "repo": "stanford-oval/storm",
+      "stars": 31651,
+      "forks": 2984,
+      "license": "MIT",
+      "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations."
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "stars": 83962,
+      "forks": 11706,
+      "license": "MIT",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of..."
+    },
+    {
+      "repo": "dzhng/deep-research",
+      "stars": 19790,
+      "forks": 2002,
+      "license": "MIT",
+      "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the s..."
+    },
+    {
+      "repo": "langchain-ai/open_deep_research",
+      "stars": 12680,
+      "forks": 1860,
+      "license": "MIT",
+      "description": "Contribute to langchain-ai/open_deep_research development by creating an account on GitHub."
+    },
+    {
+      "repo": "jina-ai/node-DeepResearch",
+      "stars": 5236,
+      "forks": 464,
+      "license": "Apache-2.0",
+      "description": "Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)"
+    }
+  ]
+}

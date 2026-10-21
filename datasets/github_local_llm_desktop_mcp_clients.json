@@ -1,0 +1,57 @@
+{
+  "category": "local-llm-desktop-mcp-clients",
+  "captured_at": "2026-10-17T21:01:00Z",
+  "total_stars": 193895,
+  "repositories": [
+    {
+      "repo": "CherryHQ/cherry-studio",
+      "name": "Cherry Studio",
+      "stars": 52716,
+      "forks": 5079,
+      "language": "TypeScript",
+      "license": "AGPL-3.0",
+      "pulse_score": 97.6,
+      "description": "Multi-provider desktop AI & MCP workstation with 300+ assistants, local Knowledge Base RAG, and multi-model side-by-side comparison"
+    },
+    {
+      "repo": "danny-avila/LibreChat",
+      "name": "LibreChat",
+      "stars": 45883,
+      "forks": 9431,
+      "language": "TypeScript",
+      "license": "MIT",
+      "pulse_score": 97.3,
+      "description": "Self-hosted multi-user enterprise ChatGPT/Claude clone with Code Interpreter API, React Artifacts, Agents, and native MCP server routing"
+    },
+    {
+      "repo": "janhq/jan",
+      "name": "Jan Local AI Desktop",
+      "stars": 44982,
+      "forks": 3099,
+      "language": "TypeScript",
+      "license": "AGPL-3.0",
+      "pulse_score": 96.8,
+      "description": "100% offline local-first desktop ChatGPT alternative powered by Cortex C++/llama.cpp engine with OpenAI-compatible localhost:1337 API"
+    },
+    {
+      "repo": "chatboxai/chatbox",
+      "name": "Chatbox AI",
+      "stars": 42051,
+      "forks": 4279,
+      "language": "TypeScript",
+      "license": "GPL-3.0",
+      "pulse_score": 96.2,
+      "description": "Lightweight cross-platform desktop & mobile BYOK LLM client with local prompt templates, DALL-E/vision rendering, and document chat"
+    },
+    {
+      "repo": "n4ze3m/page-assist",
+      "name": "Page Assist",
+      "stars": 8263,
+      "forks": 798,
+      "language": "TypeScript",
+      "license": "MIT",
+      "pulse_score": 95.6,
+      "description": "Open-source browser sidebar & web UI for local Ollama, LM Studio, and OpenAI-compatible endpoints with instant webpage RAG"
+    }
+  ]
+}

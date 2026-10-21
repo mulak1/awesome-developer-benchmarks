@@ -1,0 +1,85 @@
+{
+  "benchmark_category": "open_source_text_to_sql_and_agentic_bi",
+  "captured_at_utc": "2026-10-16T18:03:00Z",
+  "total_stars": 153855,
+  "repositories": [
+    {
+      "rank": 1,
+      "name": "MindsDB",
+      "repo": "mindsdb/mindsdb",
+      "stars": 39801,
+      "forks": 6240,
+      "open_issues": 7,
+      "language": "Python",
+      "license": "MIT",
+      "bird_sql_accuracy_pct": 85.6,
+      "query_latency_ms": 620,
+      "description": "Federated AI-SQL query engine connecting 200+ databases, data warehouses, and SaaS APIs to LLM agents."
+    },
+    {
+      "rank": 2,
+      "name": "Chat2DB",
+      "repo": "OtterMind/Chat2DB",
+      "stars": 28320,
+      "forks": 3070,
+      "open_issues": 242,
+      "language": "Java / TypeScript",
+      "license": "Apache-2.0 / Custom",
+      "bird_sql_accuracy_pct": 84.2,
+      "query_latency_ms": 480,
+      "description": "Local-first AI SQL client and MCP-ready database workspace supporting 40+ relational and NoSQL engines."
+    },
+    {
+      "rank": 3,
+      "name": "PandasAI",
+      "repo": "sinaptik-ai/pandas-ai",
+      "stars": 23880,
+      "forks": 2340,
+      "open_issues": 23,
+      "language": "Python",
+      "license": "MIT",
+      "bird_sql_accuracy_pct": 86.5,
+      "query_latency_ms": 540,
+      "description": "Conversational Python DataFrame, CSV, Parquet, and SQL data analyst generating executable Python and charts."
+    },
+    {
+      "rank": 4,
+      "name": "Vanna AI",
+      "repo": "vanna-ai/vanna",
+      "stars": 23817,
+      "forks": 2538,
+      "open_issues": 289,
+      "language": "Python",
+      "license": "MIT",
+      "bird_sql_accuracy_pct": 88.4,
+      "query_latency_ms": 390,
+      "description": "MIT-licensed RAG Text-to-SQL Python library that indexes DDL schemas, docs, and golden SQL queries in vector stores."
+    },
+    {
+      "rank": 5,
+      "name": "DB-GPT",
+      "repo": "eosphoros-ai/DB-GPT",
+      "stars": 20156,
+      "forks": 2969,
+      "open_issues": 458,
+      "language": "Python",
+      "license": "MIT",
+      "bird_sql_accuracy_pct": 87.1,
+      "query_latency_ms": 590,
+      "description": "Open-source agentic data warehouse framework with AWEL workflows, GBI chat, and Text-to-SQL LoRA fine-tuning."
+    },
+    {
+      "rank": 6,
+      "name": "WrenAI",
+      "repo": "Canner/WrenAI",
+      "stars": 17881,
+      "forks": 2086,
+      "open_issues": 271,
+      "language": "Python / TypeScript",
+      "license": "AGPL-3.0 / Open Source",
+      "bird_sql_accuracy_pct": 91.2,
+      "query_latency_ms": 430,
+      "description": "Governed Generative BI (GenBI) engine using Modeling Definition Language (MDL) semantic layers across 20+ data warehouses."
+    }
+  ]
+}

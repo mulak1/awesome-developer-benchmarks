@@ -1,0 +1,57 @@
+{
+  "category": "Open-Source Backend-as-a-Service (BaaS) & Firebase Alternatives",
+  "generated_at": "2026-10-20T22:00:00Z",
+  "total_stars": 274251,
+  "repositories": [
+    {
+      "repo": "supabase/supabase",
+      "name": "Supabase",
+      "stars": 112422,
+      "forks": 10500,
+      "license": "Apache-2.0",
+      "description": "The open source Firebase alternative with dedicated PostgreSQL, pgvector, realtime subscriptions, authentication, and instant REST/GraphQL APIs",
+      "primary_language": "TypeScript",
+      "pulse_score": 98.9
+    },
+    {
+      "repo": "pocketbase/pocketbase",
+      "name": "PocketBase",
+      "stars": 61512,
+      "forks": 3200,
+      "license": "MIT",
+      "description": "Open source realtime backend in a single Go binary with embedded SQLite, user management, file storage, and visual admin dashboard",
+      "primary_language": "Go",
+      "pulse_score": 98.7
+    },
+    {
+      "repo": "appwrite/appwrite",
+      "name": "Appwrite",
+      "stars": 57738,
+      "forks": 5100,
+      "license": "BSD-3-Clause",
+      "description": "Self-hosted secure end-to-end backend server for web, mobile, and agent developers with authentication, databases, storage, and serverless functions",
+      "primary_language": "TypeScript",
+      "pulse_score": 98.4
+    },
+    {
+      "repo": "surrealdb/surrealdb",
+      "name": "SurrealDB",
+      "stars": 33215,
+      "forks": 1400,
+      "license": "BSL-1.1",
+      "description": "Scalable, distributed, collaborative document-graph database supporting realtime live queries, permissions, and embedded client SDKs",
+      "primary_language": "Rust",
+      "pulse_score": 98.0
+    },
+    {
+      "repo": "nhost/nhost",
+      "name": "Nhost",
+      "stars": 9364,
+      "forks": 580,
+      "license": "MIT",
+      "description": "The open source Firebase alternative with Hasura GraphQL, PostgreSQL, authentication, and file storage for modern web and mobile apps",
+      "primary_language": "TypeScript",
+      "pulse_score": 97.5
+    }
+  ]
+}

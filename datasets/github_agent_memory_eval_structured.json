@@ -1,0 +1,66 @@
+{
+  "benchmark_suite": "PulseForge Agent Memory, Eval & Structured-Output Hardening Benchmark (2026)",
+  "updated_at": "2026-10-15T17:04:00Z",
+  "frameworks": [
+    {
+      "id": "mem0",
+      "repo": "mem0ai/mem0",
+      "name": "Mem0 (Agent Memory Layer)",
+      "stars": 67234,
+      "forks": 7918,
+      "open_issues": 837,
+      "language": "Python",
+      "latest_release": "ts-v3.3.1",
+      "category": "Agent Memory & Context Compression",
+      "token_compression_pct": 68.4,
+      "p50_retrieval_latency_ms": 42,
+      "hallucination_reduction_pct": 31.0,
+      "best_for": "Persistent multi-session user/repo memory without blowing up 128k context windows"
+    },
+    {
+      "id": "deepeval",
+      "repo": "confident-ai/deepeval",
+      "name": "DeepEval (Pytest for LLMs)",
+      "stars": 18889,
+      "forks": 2074,
+      "open_issues": 734,
+      "language": "Python",
+      "latest_release": "python-v4.2.4",
+      "category": "CI/CD LLM & Agent Evaluation",
+      "token_compression_pct": 24.0,
+      "p50_retrieval_latency_ms": 115,
+      "hallucination_reduction_pct": 64.5,
+      "best_for": "Automated G-Eval, RAGAS, and tool-calling regression gates in GitHub Actions"
+    },
+    {
+      "id": "instructor",
+      "repo": "jxnl/instructor",
+      "name": "Instructor (Pydantic Structured Outputs)",
+      "stars": 14018,
+      "forks": 1311,
+      "open_issues": 195,
+      "language": "Python",
+      "latest_release": "v1.17.0",
+      "category": "Structured Output Validation",
+      "token_compression_pct": 35.0,
+      "p50_retrieval_latency_ms": 28,
+      "hallucination_reduction_pct": 52.0,
+      "best_for": "Zero-boilerplate Pydantic schema enforcement with automatic validation retries"
+    },
+    {
+      "id": "baml",
+      "repo": "BoundaryML/baml",
+      "name": "BAML (Typed Agent Prompt Compiler)",
+      "stars": 9410,
+      "forks": 500,
+      "open_issues": 404,
+      "language": "Rust",
+      "latest_release": "baml-language-0.22.3-nightly.20261014.a",
+      "category": "Compiled Schema & Prompt Engineering",
+      "token_compression_pct": 54.2,
+      "p50_retrieval_latency_ms": 14,
+      "hallucination_reduction_pct": 59.8,
+      "best_for": "Rust-compiled schema parsing that tolerates malformed LLM JSON with 54% fewer schema tokens"
+    }
+  ]
+}

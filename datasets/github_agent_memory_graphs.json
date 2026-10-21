@@ -1,0 +1,49 @@
+{
+  "category": "Agent Memory, Episodic Context & Temporal Knowledge Graphs",
+  "repos": [
+    {
+      "repo": "mem0ai/mem0",
+      "stars": 67259,
+      "forks": 7921,
+      "open_issues": 838,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+      "pushed_at": "2026-10-16T05:41:46Z",
+      "fetched_at": "2026-10-16T06:00:40.208586+00:00"
+    },
+    {
+      "repo": "getzep/graphiti",
+      "stars": 31803,
+      "forks": 3273,
+      "open_issues": 478,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "Build Real-Time Knowledge Graphs for AI Agents",
+      "pushed_at": "2026-10-15T19:00:08Z",
+      "fetched_at": "2026-10-16T06:00:40.443132+00:00"
+    },
+    {
+      "repo": "letta-ai/letta",
+      "stars": 25157,
+      "forks": 2648,
+      "open_issues": 0,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+      "pushed_at": "2026-09-10T17:59:08Z",
+      "fetched_at": "2026-10-16T06:00:40.678458+00:00"
+    },
+    {
+      "repo": "topoteretes/cognee",
+      "stars": 32378,
+      "forks": 3378,
+      "open_issues": 807,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
+      "pushed_at": "2026-10-16T02:42:01Z",
+      "fetched_at": "2026-10-16T06:00:40.897032+00:00"
+    }
+  ]
+}
