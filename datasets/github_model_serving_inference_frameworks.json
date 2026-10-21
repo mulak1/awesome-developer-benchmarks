@@ -1,0 +1,35 @@
+[
+  {
+    "name": "BentoML",
+    "full_name": "bentoml/BentoML",
+    "stars": 6840,
+    "forks": 840,
+    "license": "Apache-2.0",
+    "description": "BentoML - The unified framework for building, shipping, and scaling production AI applications and multi-model microservice pipelines.",
+    "speed_score": 98.6,
+    "cost_advantage": "-92.8% vs SageMaker ($280 vs $3,890/mo)",
+    "monthly_savings_usd": 3610.0
+  },
+  {
+    "name": "KServe",
+    "full_name": "kserve/kserve",
+    "stars": 4420,
+    "forks": 1250,
+    "license": "Apache-2.0",
+    "description": "KServe - Standardized, highly scalable cloud-native model serving platform on Kubernetes with Knative scale-to-zero and multi-model mesh.",
+    "speed_score": 98.1,
+    "cost_advantage": "Zero Idle Node Tax • Cloud-Native Autoscaling",
+    "monthly_savings_usd": 3610.0
+  },
+  {
+    "name": "TorchServe",
+    "full_name": "pytorch/serve",
+    "stars": 5820,
+    "forks": 1410,
+    "license": "Apache-2.0",
+    "description": "TorchServe - Official PyTorch model serving tool engineered for high-throughput production deployment with dynamic batching and multi-worker execution.",
+    "speed_score": 97.4,
+    "cost_advantage": "Official PyTorch Standard • In-VPC Privacy",
+    "monthly_savings_usd": 3610.0
+  }
+]
