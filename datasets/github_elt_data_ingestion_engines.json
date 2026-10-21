@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Airbyte",
+    "full_name": "airbytehq/airbyte",
+    "stars": 18520,
+    "forks": 3810,
+    "license": "ELv2 / MIT",
+    "description": "Airbyte - The leading open-source data integration platform with 350+ pre-built connectors for ELT data pipelines.",
+    "speed_score": 98.6,
+    "cost_advantage": "-92.4% vs Fivetran ($180 vs $2,370/mo)",
+    "monthly_savings_usd": 2190.0
+  },
+  {
+    "name": "Meltano",
+    "full_name": "meltano/meltano",
+    "stars": 5830,
+    "forks": 520,
+    "license": "MIT",
+    "description": "Meltano - GitOps data engineering platform enabling code-first ELT pipelines powered by the open Singer standard.",
+    "speed_score": 97.9,
+    "cost_advantage": "Code-First GitOps • Zero Row Overage Taxes",
+    "monthly_savings_usd": 2190.0
+  }
+]

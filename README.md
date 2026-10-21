@@ -25,6 +25,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Real-Time Voice AI Agents](https://exactbaseline.com/benchmarks/voice-ai-agents)** — Pipecat vs LiveKit Agents vs Daily (sub-300ms audio turnaround and WebRTC streaming).
 - **[ML Experiment Tracking & Model Registries](https://exactbaseline.com/benchmarks/open-source-ml-experiment-tracking-model-registry)** — MLflow vs ClearML vs Aim (Weights & Biases and Neptune.ai per-seat license & artifact egress replacement).
 - **[Feature Stores & Real-Time ML Platforms](https://exactbaseline.com/benchmarks/open-source-feature-store-ml-platforms)** — Feast vs Hopsworks (Tecton and AWS SageMaker Feature Store metered ingestion & skew replacement).
+- **[ELT Data Pipelines & Ingestion Engines](https://exactbaseline.com/benchmarks/open-source-elt-data-pipeline-ingestion-engines)** — Airbyte vs Meltano (Fivetran and Stitch Data metered MAR charges & data residency replacement).
 
 ### Cloud Infrastructure & Self-Hosted DevOps
 - **[Serverless & FaaS Compute Platforms](https://exactbaseline.com/benchmarks/open-source-serverless-faas-compute-platforms)** — OpenFaaS vs Knative Serving vs Cloudflare workerd (AWS Lambda and Google Cloud Run metered compute & cold start replacement).
