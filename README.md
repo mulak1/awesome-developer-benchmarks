@@ -55,6 +55,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Secret Detection & Credential Scanning](https://exactbaseline.com/benchmarks/open-source-secret-detection-credential-scanning)** — TruffleHog vs Gitleaks vs detect-secrets (GitGuardian Enterprise and Nightfall AI DLP per-developer seat tax replacement).
 - **[Secure Tunnels, Reverse Proxies & NAT Traversal](https://exactbaseline.com/benchmarks/open-source-secure-tunnels-reverse-proxies-nat-traversal)** — FRP vs Cloudflared vs Rathole (Ngrok Enterprise and Packetriot per-user seat tax and bandwidth metering replacement).
 - **[Load Testing, Stress Testing & Performance Simulation](https://exactbaseline.com/benchmarks/open-source-load-testing-performance-stress-testing)** — k6 vs Locust vs Vegeta (BlazeMeter Enterprise and LoadRunner Cloud virtual user concurrency tax replacement).
+- **[Documentation Site Generators & Knowledge Bases](https://exactbaseline.com/benchmarks/open-source-documentation-site-generators-knowledge-base)** — Docusaurus vs Astro vs VitePress (GitBook Enterprise and ReadMe Enterprise per-seat contributor tax replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators

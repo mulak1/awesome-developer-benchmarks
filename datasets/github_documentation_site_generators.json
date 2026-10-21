@@ -1,0 +1,57 @@
+{
+  "category": "Open-Source Documentation Site Generators, Technical Knowledge Bases & Developer Portals",
+  "category_slug": "open-source-documentation-site-generators-knowledge-base",
+  "updated_at": "2026-10-21T23:00:00Z",
+  "incumbents": [
+    {"name": "GitBook Enterprise", "cost_usd_month": 1250.0, "notes": "Per-seat user markups ($15-$25/seat/mo), custom domain fees & proprietary block editor lock-in"},
+    {"name": "ReadMe.com Enterprise", "cost_usd_month": 1450.0, "notes": "$99-$2,000+/mo per project API hub taxes & metered interactive API call tolls"}
+  ],
+  "self_hosted_stack": {
+    "compute_usd_month": 25.0,
+    "bandwidth_usd_month": 0.0,
+    "total_self_hosted_usd_month": 25.0,
+    "net_monthly_savings_usd": 1425.0,
+    "savings_pct": 98.3
+  },
+  "repositories": [
+    {
+      "repo": "facebook/docusaurus",
+      "name": "Docusaurus",
+      "stars": 66551,
+      "forks": 10095,
+      "license": "MIT",
+      "language": "TypeScript / React",
+      "description": "Easy to maintain open source documentation websites built on React, MDX, versioning, localization, and Algolia DocSearch.",
+      "score": 99.4,
+      "metric": "66.5k+ stars • The enterprise standard for React & MDX documentation with multi-versioning & i18n",
+      "efficiency": "-98.3% vs GitBook • 100% Free MIT",
+      "commercial_alternative_to": "GitBook Enterprise & ReadMe.com"
+    },
+    {
+      "repo": "withastro/astro",
+      "name": "Astro (+ Starlight)",
+      "stars": 63369,
+      "forks": 3863,
+      "license": "MIT",
+      "language": "TypeScript",
+      "description": "The web framework for content-driven websites. Zero-JS by default Islands architecture powering Starlight documentation sites.",
+      "score": 99.2,
+      "metric": "63.3k+ stars • Zero-JS Islands architecture with Starlight documentation engine and lightning build speed",
+      "efficiency": "Sub-100ms page loads • Zero seat tax",
+      "commercial_alternative_to": "GitBook Enterprise & Mintlify SaaS"
+    },
+    {
+      "repo": "vuejs/vitepress",
+      "name": "VitePress",
+      "stars": 18428,
+      "forks": 2752,
+      "license": "MIT",
+      "language": "TypeScript / Vue",
+      "description": "Vite & Vue Powered Static Site Generator. Modern successor to VuePress delivering instant hot reloads and ultra-lightweight output.",
+      "score": 98.6,
+      "metric": "18.4k+ stars • Vite & Vue 3 powered static site generator with instant dev server startup and zero bloat",
+      "efficiency": "100% Free MIT • Instant HMR",
+      "commercial_alternative_to": "Proprietary SaaS Knowledge Bases"
+    }
+  ]
+}
