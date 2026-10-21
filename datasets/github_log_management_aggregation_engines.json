@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Grafana Loki",
+    "full_name": "grafana/loki",
+    "stars": 29048,
+    "forks": 3720,
+    "license": "AGPL-3.0",
+    "description": "Grafana Loki - Like Prometheus, but for logs. Horizontally scalable, highly available, multi-tenant log aggregation system indexing metadata only.",
+    "speed_score": 98.9,
+    "cost_advantage": "-89.5% vs Datadog Logs ($250 vs $2,400/mo)",
+    "monthly_savings_usd": 2150.0
+  },
+  {
+    "name": "Vector",
+    "full_name": "vectordotdev/vector",
+    "stars": 22747,
+    "forks": 1780,
+    "license": "MPL-2.0",
+    "description": "Vector - Ultra-high performance, memory-efficient observability data pipeline built in Rust for collecting, transforming, and routing logs and metrics.",
+    "speed_score": 99.4,
+    "cost_advantage": "Zero Agent RAM Leaks • Rust Speed • End-to-End Buffering",
+    "monthly_savings_usd": 2150.0
+  },
+  {
+    "name": "OpenSearch",
+    "full_name": "opensearch-project/OpenSearch",
+    "stars": 13891,
+    "forks": 1940,
+    "license": "Apache-2.0",
+    "description": "OpenSearch - Apache 2.0 open-source distributed search and analytics suite offering full-text search, observability, and distributed log querying.",
+    "speed_score": 97.6,
+    "cost_advantage": "Full-Text Inverted Indexing • Zero Vendor Lock-in",
+    "monthly_savings_usd": 2150.0
+  }
+]
