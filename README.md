@@ -44,6 +44,8 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[CI/CD Workflow & Task Runners](https://exactbaseline.com/benchmarks/open-source-cicd-workflow-runners)** — Dagger vs Drone CI vs Woodpecker (CircleCI and Travis CI per-seat credit & concurrency tax replacement).
 - **[Data Quality & Schema Testing](https://exactbaseline.com/benchmarks/open-source-data-quality-testing-frameworks)** — Great Expectations vs Soda Core vs Elementary (Monte Carlo and Bigeye enterprise licensing tax & per-table replacement).
 - **[Distributed Caching & In-Memory Data Grids](https://exactbaseline.com/benchmarks/open-source-distributed-caching-data-grids)** — Hazelcast vs Apache Ignite vs Infinispan (Redis Enterprise and Oracle Coherence RAM tier markup replacement).
+- **[Embedded SQL & Mobile Edge Databases](https://exactbaseline.com/benchmarks/open-source-embedded-sql-edge-databases)** — DuckDB vs libSQL vs PGlite (MongoDB Realm and DynamoDB Local cloud sync metering replacement).
+
 
 
 

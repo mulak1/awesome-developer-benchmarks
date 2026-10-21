@@ -1,0 +1,35 @@
+[
+  {
+    "name": "DuckDB",
+    "full_name": "duckdb/duckdb",
+    "stars": 26140,
+    "forks": 2180,
+    "license": "MIT",
+    "description": "DuckDB - An in-process SQL OLAP database management system with columnar vectorized execution, native Parquet reading, and zero-dependency embedding.",
+    "speed_score": 98.8,
+    "cost_advantage": "-94.2% vs Commercial Sync ($85 vs $1,450/mo)",
+    "monthly_savings_usd": 1365.0
+  },
+  {
+    "name": "libSQL (Turso)",
+    "full_name": "tursodatabase/libsql",
+    "stars": 14220,
+    "forks": 635,
+    "license": "MIT",
+    "description": "libSQL - An open-source, open-contribution fork of SQLite modernized for distributed edge replication, HRANA over HTTP/WebSockets, and serverless architectures.",
+    "speed_score": 98.2,
+    "cost_advantage": "Zero Atlas Sync Fees • Distributed SQLite Edge",
+    "monthly_savings_usd": 1365.0
+  },
+  {
+    "name": "PGlite",
+    "full_name": "electric-sql/pglite",
+    "stars": 6540,
+    "forks": 320,
+    "license": "Apache-2.0",
+    "description": "PGlite - Lightweight WASM and Node.js build of PostgreSQL packaged as an embeddable client library with reactive live queries and full relational SQL.",
+    "speed_score": 97.5,
+    "cost_advantage": "Full In-Memory Postgres • Single WASM Binary",
+    "monthly_savings_usd": 1365.0
+  }
+]
