@@ -1,0 +1,57 @@
+{
+  "category": "Open-Source Load Testing, Performance Stress Testing & Traffic Simulation",
+  "category_slug": "open-source-load-testing-performance-stress-testing",
+  "updated_at": "2026-10-21T22:00:00Z",
+  "incumbents": [
+    {"name": "BlazeMeter Enterprise", "cost_usd_month": 1850.0, "notes": "Punitive 10,000 virtual user limits & metered test hour concurrency tolls"},
+    {"name": "LoadRunner Cloud", "cost_usd_month": 2400.0, "notes": "Legacy per-VUser hour licensing, cloud lock-in & proprietary script lock"}
+  ],
+  "self_hosted_stack": {
+    "compute_usd_month": 45.0,
+    "bandwidth_usd_month": 0.0,
+    "total_self_hosted_usd_month": 45.0,
+    "net_monthly_savings_usd": 1805.0,
+    "savings_pct": 97.6
+  },
+  "repositories": [
+    {
+      "repo": "grafana/k6",
+      "name": "k6",
+      "stars": 31997,
+      "forks": 1692,
+      "license": "AGPL-3.0",
+      "language": "Go / JavaScript",
+      "description": "Like unit testing, for performance. Modern developer-centric load testing tool in Go and JavaScript with threshold assertions and Prometheus/Grafana export.",
+      "score": 99.4,
+      "metric": "32.0k+ stars • Developer-centric JS test scripts running on compiled Go engine with threshold assertions",
+      "efficiency": "Zero per-VUser fee • Up to 50k+ RPS",
+      "commercial_alternative_to": "BlazeMeter Enterprise & Gatling Cloud"
+    },
+    {
+      "repo": "locustio/locust",
+      "name": "Locust",
+      "stars": 28232,
+      "forks": 3261,
+      "license": "MIT",
+      "language": "Python",
+      "description": "Scalable user load testing tool written in Python. Define complex user behavior workflows purely in regular Python code with real-time web UI.",
+      "score": 99.1,
+      "metric": "28.2k+ stars • Distributed user behavior simulation written purely in Python with real-time web dashboard",
+      "efficiency": "100% Free MIT • Millions of simulated users",
+      "commercial_alternative_to": "Micro Focus / OpenText LoadRunner Cloud"
+    },
+    {
+      "repo": "tsenart/vegeta",
+      "name": "Vegeta",
+      "stars": 25227,
+      "forks": 1428,
+      "license": "MIT",
+      "language": "Go",
+      "description": "Versatile HTTP load testing tool and library. Built for constant request rate stress testing under sustained heavy load with zero jitter.",
+      "score": 98.7,
+      "metric": "25.2k+ stars • Constant request-rate HTTP stress testing CLI and Go library engineered for zero jitter",
+      "efficiency": "100% Free MIT • Sub-millisecond timing precision",
+      "commercial_alternative_to": "LoadNinja & Commercial Ingress Testers"
+    }
+  ]
+}
