@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Hazelcast",
+    "full_name": "hazelcast/hazelcast",
+    "stars": 6623,
+    "forks": 1780,
+    "license": "Apache-2.0",
+    "description": "Hazelcast - Unified real-time stream processing and distributed in-memory computing platform combining low-latency state with event streams.",
+    "speed_score": 98.7,
+    "cost_advantage": "-91.6% vs Redis Enterprise ($260 vs $3,100/mo)",
+    "monthly_savings_usd": 2840.0
+  },
+  {
+    "name": "Apache Ignite",
+    "full_name": "apache/ignite",
+    "stars": 5086,
+    "forks": 2420,
+    "license": "Apache-2.0",
+    "description": "Apache Ignite - Distributed database and in-memory computing platform with ANSI SQL-99 support, ACID transactions, and persistent native storage.",
+    "speed_score": 98.1,
+    "cost_advantage": "Zero Per-GB RAM Markups • Distributed ANSI SQL",
+    "monthly_savings_usd": 2840.0
+  },
+  {
+    "name": "Infinispan",
+    "full_name": "infinispan/infinispan",
+    "stars": 1357,
+    "forks": 840,
+    "license": "Apache-2.0",
+    "description": "Infinispan - Distributed in-memory key-value data grid and cache platform with cross-site replication and Kubernetes operators.",
+    "speed_score": 97.2,
+    "cost_advantage": "Red Hat Battle-Tested • JCache JSR-107 Parity",
+    "monthly_savings_usd": 2840.0
+  }
+]
