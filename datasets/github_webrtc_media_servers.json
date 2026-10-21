@@ -1,0 +1,35 @@
+[
+  {
+    "name": "LiveKit",
+    "full_name": "livekit/livekit",
+    "stars": 21714,
+    "forks": 1920,
+    "license": "Apache-2.0",
+    "description": "LiveKit - End-to-end realtime stack for connecting humans and AI with scalable WebRTC SFU, spatial audio, and agent protocol.",
+    "speed_score": 99.2,
+    "cost_advantage": "-92.1% vs Agora/Twilio ($280 vs $3,550/mo)",
+    "monthly_savings_usd": 3270.0
+  },
+  {
+    "name": "Pion WebRTC",
+    "full_name": "pion/webrtc",
+    "stars": 16852,
+    "forks": 1980,
+    "license": "MIT",
+    "description": "Pion - Pure Go implementation of the WebRTC API for low-latency audio, video, and data channels with zero C++ dependencies.",
+    "speed_score": 98.7,
+    "cost_advantage": "Pure Go Simplicity • Zero CGO Dependencies",
+    "monthly_savings_usd": 3270.0
+  },
+  {
+    "name": "Mediasoup",
+    "full_name": "versatica/mediasoup",
+    "stars": 7400,
+    "forks": 1280,
+    "license": "IBC",
+    "description": "Mediasoup - Cutting-edge WebRTC video conferencing SFU for Node.js and Rust with extreme per-worker stream concurrency.",
+    "speed_score": 98.4,
+    "cost_advantage": "Ultra-Low Memory C++ Worker Model",
+    "monthly_savings_usd": 3270.0
+  }
+]

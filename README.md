@@ -47,6 +47,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Distributed Caching & In-Memory Data Grids](https://exactbaseline.com/benchmarks/open-source-distributed-caching-data-grids)** — Hazelcast vs Apache Ignite vs Infinispan (Redis Enterprise and Oracle Coherence RAM tier markup replacement).
 - **[Embedded SQL & Mobile Edge Databases](https://exactbaseline.com/benchmarks/open-source-embedded-sql-edge-databases)** — DuckDB vs libSQL vs PGlite (MongoDB Realm and DynamoDB Local cloud sync metering replacement).
 - **[Log Management & Aggregation Engines](https://exactbaseline.com/benchmarks/open-source-log-management-aggregation-engines)** — Grafana Loki vs Vector vs OpenSearch (Datadog Log Management and Splunk Cloud per-GB ingest fee replacement).
+- **[WebRTC & Real-Time Media Servers](https://exactbaseline.com/benchmarks/open-source-webrtc-realtime-communication-media-servers)** — LiveKit vs Pion vs Mediasoup (Agora.io and Twilio Video per-minute participant toll replacement).
 
 
 
