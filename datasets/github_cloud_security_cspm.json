@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Prowler",
+    "full_name": "prowler-cloud/prowler",
+    "stars": 15081,
+    "forks": 2449,
+    "license": "Apache-2.0",
+    "description": "Prowler - Open source security tool for AWS, Azure, GCP and Kubernetes security assessments, compliance audits, and CSPM.",
+    "speed_score": 99.2,
+    "cost_advantage": "-91.8% vs Wiz & Prisma Cloud ($285 vs $3,500/mo)",
+    "monthly_savings_usd": 3215.0
+  },
+  {
+    "name": "Checkov",
+    "full_name": "bridgecrewio/checkov",
+    "stars": 9089,
+    "forks": 1445,
+    "license": "Apache-2.0",
+    "description": "Checkov - Prevent cloud misconfigurations and vulnerabilities during build-time for Terraform, CloudFormation, Kubernetes, and Helm.",
+    "speed_score": 98.6,
+    "cost_advantage": "Zero Per-Resource Tax • Shift-Left IaC",
+    "monthly_savings_usd": 3215.0
+  },
+  {
+    "name": "Cloud Custodian",
+    "full_name": "cloud-custodian/cloud-custodian",
+    "stars": 6091,
+    "forks": 1669,
+    "license": "Apache-2.0",
+    "description": "Cloud Custodian - Rules engine for cloud security, compliance, cost management, and real-time automated policy enforcement.",
+    "speed_score": 97.9,
+    "cost_advantage": "100% Free Apache-2.0 • CNCF Incubating",
+    "monthly_savings_usd": 3215.0
+  }
+]

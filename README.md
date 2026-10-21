@@ -51,6 +51,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Continuous Profiling & Performance Telemetry](https://exactbaseline.com/benchmarks/open-source-continuous-profiling-performance-telemetry)** — Grafana Pyroscope vs Parca vs Pixie (Datadog Continuous Profiler and AWS CodeGuru per-host markup replacement).
 - **[Kubernetes FinOps & Cloud Cost Management](https://exactbaseline.com/benchmarks/open-source-kubernetes-finops-cloud-cost-management)** — OpenCost vs Infracost vs CloudQuery (VMware CloudHealth and Vantage SaaS 3% cloud-spend markup replacement).
 - **[MQTT & Distributed IoT Message Brokers](https://exactbaseline.com/benchmarks/open-source-mqtt-iot-message-brokers)** — EMQX vs Eclipse Mosquitto vs NanoMQ (AWS IoT Core and HiveMQ Enterprise per-message and per-connection-minute toll replacement).
+- **[Cloud Security Posture Management (CSPM) & Compliance](https://exactbaseline.com/benchmarks/open-source-cloud-security-posture-management-cspm)** — Prowler vs Checkov vs Cloud Custodian (Wiz and Prisma Cloud per-workload and per-resource markup replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators
