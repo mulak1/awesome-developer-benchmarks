@@ -1,0 +1,35 @@
+[
+  {
+    "name": "MLflow",
+    "full_name": "mlflow/mlflow",
+    "stars": 28476,
+    "forks": 6494,
+    "license": "Apache-2.0",
+    "description": "MLflow - Open source platform for the machine learning lifecycle, including experiment tracking, model registry, and evaluation.",
+    "speed_score": 98.6,
+    "cost_advantage": "-93.3% vs Weights & Biases ($250 vs $3,750/mo)",
+    "monthly_savings_usd": 3500.0
+  },
+  {
+    "name": "ClearML",
+    "full_name": "allegroai/clearml",
+    "stars": 6912,
+    "forks": 806,
+    "license": "Apache-2.0",
+    "description": "ClearML - Auto-magical suite of tools to streamline your ML workflow. Experiment Manager, MLOps, Data-Management and Orchestration.",
+    "speed_score": 97.9,
+    "cost_advantage": "Zero Per-Seat Tax • Remote GPU Scheduling",
+    "monthly_savings_usd": 3500.0
+  },
+  {
+    "name": "Aim",
+    "full_name": "aimhubio/aim",
+    "stars": 6288,
+    "forks": 413,
+    "license": "Apache-2.0",
+    "description": "Aim - An easy-to-use, ultra-fast 50x open-source AI experiment tracker with deep metric comparison UI.",
+    "speed_score": 97.2,
+    "cost_advantage": "Sub-Second Metric Comparison • 100% Open Source",
+    "monthly_savings_usd": 3500.0
+  }
+]
