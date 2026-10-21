@@ -1,0 +1,45 @@
+{
+  "category": "open-source-olap-lakehouse-sql-query-engines",
+  "name": "Open-Source OLAP Lakehouse & SQL Query Engines",
+  "description": "Federated SQL query latency, vector execution speed, parquet lakehouse scan efficiency, and commercial data cloud cost benchmark.",
+  "captured_at": "2026-10-21T08:50:00Z",
+  "combined_stars": 34800,
+  "repositories": [
+    {
+      "name": "Trino",
+      "repo": "trinodb/trino",
+      "stars": 11520,
+      "forks": 3200,
+      "license": "Apache-2.0 (Java)",
+      "score": 98.6,
+      "query_engine": "Distributed MPP In-Memory SQL Execution",
+      "scan_speed_gb_sec": 42.5,
+      "commercial_alternative": "Snowflake Data Cloud ($3,800/mo)",
+      "monthly_savings_est": 3350.00
+    },
+    {
+      "name": "Apache Doris",
+      "repo": "apache/doris",
+      "stars": 13240,
+      "forks": 3500,
+      "license": "Apache-2.0 (C++/Java)",
+      "score": 98.4,
+      "query_engine": "Real-time Vectorized MPP Analytical Engine",
+      "scan_speed_gb_sec": 58.2,
+      "commercial_alternative": "AWS Athena / Google BigQuery ($3,200/mo)",
+      "monthly_savings_est": 2750.00
+    },
+    {
+      "name": "StarRocks",
+      "repo": "StarRocks/starrocks",
+      "stars": 10040,
+      "forks": 2100,
+      "license": "Apache-2.0 (C++)",
+      "score": 97.9,
+      "query_engine": "SIMD Vectorized Real-Time Lakehouse Engine",
+      "scan_speed_gb_sec": 64.0,
+      "commercial_alternative": "Databricks SQL Serverless ($3,600/mo)",
+      "monthly_savings_est": 3100.00
+    }
+  ]
+}
