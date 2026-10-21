@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Great Expectations",
+    "full_name": "great-expectations/great_expectations",
+    "stars": 11889,
+    "forks": 1510,
+    "license": "Apache-2.0",
+    "description": "Great Expectations - The open-source standard for data quality assertions, automated data profiling, and pipeline testing in Python and SQL.",
+    "speed_score": 98.6,
+    "cost_advantage": "-93.7% vs Monte Carlo ($220 vs $3,500/mo)",
+    "monthly_savings_usd": 3280.0
+  },
+  {
+    "name": "Soda Core",
+    "full_name": "sodadata/soda-core",
+    "stars": 2438,
+    "forks": 330,
+    "license": "Apache-2.0",
+    "description": "Soda Core - Data contracts and schema testing engine for the modern data stack using declarative SodaCL yaml checks and SQL profiling.",
+    "speed_score": 97.8,
+    "cost_advantage": "Zero Enterprise Per-Table Tax • Declarative SodaCL",
+    "monthly_savings_usd": 3280.0
+  },
+  {
+    "name": "Elementary",
+    "full_name": "elementary-data/elementary",
+    "stars": 2427,
+    "forks": 280,
+    "license": "Apache-2.0",
+    "description": "Elementary - The dbt-native data observability and automated anomaly detection platform for data and analytics engineering teams.",
+    "speed_score": 97.4,
+    "cost_advantage": "Native dbt Integration • In-Warehouse Anomaly Detection",
+    "monthly_savings_usd": 3280.0
+  }
+]

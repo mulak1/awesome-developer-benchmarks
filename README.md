@@ -42,6 +42,8 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Web & Product Analytics](https://exactbaseline.com/benchmarks/open-source-web-analytics-privacy-product-analytics)** — Plausible vs Umami vs Matomo (Google Analytics 360 and Mixpanel data sovereignty benchmark).
 - **[Internal Tool Builders](https://exactbaseline.com/benchmarks/open-source-internal-tools-admin-panel-low-code-builders)** — Appsmith vs ToolJet vs Refine (Retool and Superblocks enterprise seat tax replacement).
 - **[CI/CD Workflow & Task Runners](https://exactbaseline.com/benchmarks/open-source-cicd-workflow-runners)** — Dagger vs Drone CI vs Woodpecker (CircleCI and Travis CI per-seat credit & concurrency tax replacement).
+- **[Data Quality & Schema Testing](https://exactbaseline.com/benchmarks/open-source-data-quality-testing-frameworks)** — Great Expectations vs Soda Core vs Elementary (Monte Carlo and Bigeye enterprise licensing tax & per-table replacement).
+
 
 ---
 
