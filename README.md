@@ -48,10 +48,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Embedded SQL & Mobile Edge Databases](https://exactbaseline.com/benchmarks/open-source-embedded-sql-edge-databases)** — DuckDB vs libSQL vs PGlite (MongoDB Realm and DynamoDB Local cloud sync metering replacement).
 - **[Log Management & Aggregation Engines](https://exactbaseline.com/benchmarks/open-source-log-management-aggregation-engines)** — Grafana Loki vs Vector vs OpenSearch (Datadog Log Management and Splunk Cloud per-GB ingest fee replacement).
 - **[WebRTC & Real-Time Media Servers](https://exactbaseline.com/benchmarks/open-source-webrtc-realtime-communication-media-servers)** — LiveKit vs Pion vs Mediasoup (Agora.io and Twilio Video per-minute participant toll replacement).
-
-
-
-
+- **[Continuous Profiling & Performance Telemetry](https://exactbaseline.com/benchmarks/open-source-continuous-profiling-performance-telemetry)** — Grafana Pyroscope vs Parca vs Pixie (Datadog Continuous Profiler and AWS CodeGuru per-host markup replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators

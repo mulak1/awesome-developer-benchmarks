@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Grafana Pyroscope",
+    "full_name": "grafana/pyroscope",
+    "stars": 10420,
+    "forks": 780,
+    "license": "AGPL-3.0",
+    "description": "Grafana Pyroscope - Continuous profiling platform for analyzing CPU, memory, and lock contention across production services.",
+    "speed_score": 98.7,
+    "cost_advantage": "-93.5% vs Datadog Profiler ($260 vs $4,000/mo)",
+    "monthly_savings_usd": 3817.5
+  },
+  {
+    "name": "Parca",
+    "full_name": "parca-dev/parca",
+    "stars": 4510,
+    "forks": 320,
+    "license": "Apache-2.0",
+    "description": "Parca - Continuous profiling for Linux and Kubernetes using eBPF with FrostDB columnar storage and zero instrumentation.",
+    "speed_score": 98.2,
+    "cost_advantage": "Zero-Overhead Linux eBPF • CNCF Ecosystem",
+    "monthly_savings_usd": 3817.5
+  },
+  {
+    "name": "Pixie",
+    "full_name": "pixie-io/pixie",
+    "stars": 5830,
+    "forks": 590,
+    "license": "Apache-2.0",
+    "description": "Pixie - CNCF in-cluster eBPF observability and continuous performance tracing platform with instant CPU flamegraphs.",
+    "speed_score": 97.6,
+    "cost_advantage": "Automatic eBPF Tracing • CNCF Sandbox",
+    "monthly_savings_usd": 3817.5
+  }
+]
