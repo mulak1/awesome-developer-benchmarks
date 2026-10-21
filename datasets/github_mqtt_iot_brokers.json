@@ -1,0 +1,35 @@
+[
+  {
+    "name": "EMQX",
+    "full_name": "emqx/emqx",
+    "stars": 14320,
+    "forks": 2250,
+    "license": "Apache-2.0",
+    "description": "EMQX - The world's most scalable distributed MQTT broker for IoT, IIoT, and connected vehicles with 100M+ concurrent connections.",
+    "speed_score": 99.1,
+    "cost_advantage": "-92.6% vs AWS IoT Core ($210 vs $2,850/mo)",
+    "monthly_savings_usd": 2640.0
+  },
+  {
+    "name": "Eclipse Mosquitto",
+    "full_name": "eclipse-mosquitto",
+    "stars": 9140,
+    "forks": 2410,
+    "license": "EPL-2.0",
+    "description": "Eclipse Mosquitto - Ultra-lightweight C implementation of MQTT broker for embedded edge devices and gateways.",
+    "speed_score": 98.3,
+    "cost_advantage": "Single C Binary • <5MB RAM Footprint",
+    "monthly_savings_usd": 2640.0
+  },
+  {
+    "name": "NanoMQ",
+    "full_name": "emqx/nanomq",
+    "stars": 2120,
+    "forks": 340,
+    "license": "MIT",
+    "description": "NanoMQ - Lightweight and blazingly fast edge MQTT broker for robotics, ROS2, and IoT sensors.",
+    "speed_score": 97.5,
+    "cost_advantage": "Pure C Edge Broker • POSIX & FreeRTOS",
+    "monthly_savings_usd": 2640.0
+  }
+]

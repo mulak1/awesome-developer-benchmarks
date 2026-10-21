@@ -50,6 +50,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[WebRTC & Real-Time Media Servers](https://exactbaseline.com/benchmarks/open-source-webrtc-realtime-communication-media-servers)** — LiveKit vs Pion vs Mediasoup (Agora.io and Twilio Video per-minute participant toll replacement).
 - **[Continuous Profiling & Performance Telemetry](https://exactbaseline.com/benchmarks/open-source-continuous-profiling-performance-telemetry)** — Grafana Pyroscope vs Parca vs Pixie (Datadog Continuous Profiler and AWS CodeGuru per-host markup replacement).
 - **[Kubernetes FinOps & Cloud Cost Management](https://exactbaseline.com/benchmarks/open-source-kubernetes-finops-cloud-cost-management)** — OpenCost vs Infracost vs CloudQuery (VMware CloudHealth and Vantage SaaS 3% cloud-spend markup replacement).
+- **[MQTT & Distributed IoT Message Brokers](https://exactbaseline.com/benchmarks/open-source-mqtt-iot-message-brokers)** — EMQX vs Eclipse Mosquitto vs NanoMQ (AWS IoT Core and HiveMQ Enterprise per-message and per-connection-minute toll replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators
