@@ -1,0 +1,57 @@
+{
+  "category": "Open-Source Infrastructure Monitoring, Server Metrics & Real-Time Performance Observability",
+  "hub_slug": "open-source-infrastructure-monitoring-real-time-performance",
+  "generated_at": "2026-10-21T19:01:00Z",
+  "repos": [
+    {
+      "repo": "netdata/netdata",
+      "name": "Netdata",
+      "stars": 81083,
+      "forks": 6697,
+      "license": "GPL-3.0",
+      "language": "C / Go",
+      "description": "Real-time, low-latency infrastructure metrics collector and automated health monitoring agent with per-second granularity",
+      "highlights": [
+        "Per-second metric resolution with zero-configuration auto-detection of 800+ hardware and software targets",
+        "Ultra-low CPU overhead (<1% single core) and efficient circular buffer in-memory architecture",
+        "Out-of-the-box ML-based anomaly detection running locally on the monitored node"
+      ]
+    },
+    {
+      "repo": "prometheus/prometheus",
+      "name": "Prometheus",
+      "stars": 66689,
+      "forks": 10911,
+      "license": "Apache-2.0",
+      "language": "Go",
+      "description": "Cloud-native computing foundation monitoring system and time-series database with expressive PromQL query engine",
+      "highlights": [
+        "Industry standard pull-model metrics scraper with service discovery across Kubernetes and cloud providers",
+        "Expressive PromQL query language for dimensional slice-and-dice aggregations and alerting rules",
+        "Autonomous single-node reliability with local TSDB storage and zero external clustering dependencies"
+      ]
+    },
+    {
+      "repo": "nicolargo/glances",
+      "name": "Glances",
+      "stars": 33825,
+      "forks": 1837,
+      "license": "LGPL-3.0",
+      "language": "Python",
+      "description": "Cross-platform system monitoring tool with CLI curses UI, RESTful JSON API, and Web interface",
+      "highlights": [
+        "Unified cross-platform monitoring across Linux, macOS, Windows, and BSD operating systems",
+        "Embedded bottle-based web UI and REST API exporting metrics to InfluxDB, Prometheus, or Grafana",
+        "Client/server mode allowing centralized remote monitoring of hundreds of server nodes"
+      ]
+    }
+  ],
+  "benchmarks": {
+    "combined_stars": 181597,
+    "combined_forks": 19445,
+    "commercial_baseline_monthly": 3150.00,
+    "self_hosted_monthly": 310.00,
+    "monthly_net_savings_usd": 2840.00,
+    "savings_percentage": 90.2
+  }
+}

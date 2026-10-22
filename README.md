@@ -58,6 +58,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Documentation Site Generators & Knowledge Bases](https://exactbaseline.com/benchmarks/open-source-documentation-site-generators-knowledge-base)** — Docusaurus vs Astro vs VitePress (GitBook Enterprise and ReadMe Enterprise per-seat contributor tax replacement).
 - **[Form Builders & In-App User Surveys](https://exactbaseline.com/benchmarks/open-source-form-builders-user-surveys-product-feedback)** — Formbricks vs Typebot vs HeyForm (Typeform Enterprise and SurveyMonkey metered response overage tax replacement).
 - **[Backup, Disaster Recovery & Snapshot Replication](https://exactbaseline.com/benchmarks/open-source-backup-disaster-recovery-snapshot-replication)** — Restic vs Kopia vs BorgBackup (Veeam Enterprise and Commvault Cloud per-TB data protection markup replacement).
+- **[Infrastructure Monitoring & Server Metrics](https://exactbaseline.com/benchmarks/open-source-infrastructure-monitoring-real-time-performance)** — Netdata vs Prometheus vs Glances (Datadog Infrastructure and New Relic per-host agent licensing tax replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators
