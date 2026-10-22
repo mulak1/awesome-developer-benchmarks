@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Aqua Trivy",
+    "slug": "trivy",
+    "repo": "aquasecurity/trivy",
+    "stars": 38609,
+    "forks": 4500,
+    "license": "Apache-2.0",
+    "language": "Go",
+    "primary_use_case": "All-in-one vulnerability, misconfiguration, secret, and SBOM scanner for containers, Git repos, and Kubernetes",
+    "benchmark_score": 99.6
+  },
+  {
+    "name": "Anchore Grype",
+    "slug": "grype",
+    "repo": "anchore/grype",
+    "stars": 13080,
+    "forks": 620,
+    "license": "Apache-2.0",
+    "language": "Go",
+    "primary_use_case": "Ultra-fast vulnerability scanner for container images and filesystems with Syft SBOM integration",
+    "benchmark_score": 99.1
+  },
+  {
+    "name": "Anchore Syft",
+    "slug": "syft",
+    "repo": "anchore/syft",
+    "stars": 9718,
+    "forks": 680,
+    "license": "Apache-2.0",
+    "language": "Go",
+    "primary_use_case": "Turnkey CLI tool and Go library for generating Software Bill of Materials (SBOM) in SPDX and CycloneDX",
+    "benchmark_score": 98.8
+  },
+  {
+    "name": "Quay Clair",
+    "slug": "clair",
+    "repo": "quay/clair",
+    "stars": 11083,
+    "forks": 1750,
+    "license": "Apache-2.0",
+    "language": "Go",
+    "primary_use_case": "Vulnerability static analysis for container images with layer-by-layer CVE inspection",
+    "benchmark_score": 98.6
+  }
+]
