@@ -60,6 +60,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Backup, Disaster Recovery & Snapshot Replication](https://exactbaseline.com/benchmarks/open-source-backup-disaster-recovery-snapshot-replication)** — Restic vs Kopia vs BorgBackup (Veeam Enterprise and Commvault Cloud per-TB data protection markup replacement).
 - **[Infrastructure Monitoring & Server Metrics](https://exactbaseline.com/benchmarks/open-source-infrastructure-monitoring-real-time-performance)** — Netdata vs Prometheus vs Glances (Datadog Infrastructure and New Relic per-host agent licensing tax replacement).
 - **[Headless Commerce & Composable Shopping APIs](https://exactbaseline.com/benchmarks/open-source-headless-commerce-composable-apis)** — Medusa vs Saleor vs Vendure (Shopify Plus and BigCommerce Enterprise GMV revenue share tax and catalog gating replacement).
+- **[Session Replay & Experience Intelligence](https://exactbaseline.com/benchmarks/open-source-session-replay-digital-experience-intelligence)** — PostHog vs OpenReplay vs Highlight.io (FullStory Enterprise and LogRocket per-session sampling and seat tax replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators

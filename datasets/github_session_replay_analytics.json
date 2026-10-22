@@ -1,0 +1,54 @@
+{
+  "category": "open-source-session-replay-digital-experience-intelligence",
+  "name": "Session Replay, Digital Experience & Product Analytics",
+  "generated_at": "2026-10-22T04:02:00Z",
+  "description": "Empirical benchmarks comparing open-source session recording, user journey telemetry, and product observability platforms against commercial SaaS toll providers (FullStory, LogRocket, Hotjar).",
+  "repositories": [
+    {
+      "repo": "PostHog/posthog",
+      "name": "PostHog",
+      "stars": 40378,
+      "forks": 3535,
+      "license": "MIT / Open-Core",
+      "language": "Python / TypeScript",
+      "highlight": "Complete Product OS unifying session replay, heatmaps, web analytics, feature flags, and LLM telemetry on ClickHouse."
+    },
+    {
+      "repo": "openreplay/openreplay",
+      "name": "OpenReplay",
+      "stars": 13026,
+      "forks": 868,
+      "license": "ELv2 / Open-Core",
+      "language": "TypeScript / Go",
+      "highlight": "Self-hosted developer-friendly session replay with network payload capture, Redux/Vuex state inspect, and canvas recording."
+    },
+    {
+      "repo": "highlight/highlight",
+      "name": "Highlight.io",
+      "stars": 9384,
+      "forks": 690,
+      "license": "Apache-2.0",
+      "language": "TypeScript / Go",
+      "highlight": "Full-stack observability platform correlating frontend session recording with backend OpenTelemetry traces and errors."
+    }
+  ],
+  "commercial_alternatives_replaced": [
+    {
+      "name": "FullStory Enterprise",
+      "typical_pricing": "$1,200 - $3,500+/mo based on monthly recorded sessions",
+      "pain_point": "Aggressive per-session capture limits, data retention paywalls, and external cloud PII leakage risks."
+    },
+    {
+      "name": "LogRocket Enterprise",
+      "typical_pricing": "$990 - $2,500+/mo based on seat count and monthly active sessions",
+      "pain_point": "Strict seat-tier gating, retention paywalls, and session overage penalty taxes."
+    }
+  ],
+  "finops_summary": {
+    "commercial_monthly_cost_usd": 2980.00,
+    "open_source_monthly_cost_usd": 180.00,
+    "monthly_net_savings_usd": 2800.00,
+    "annual_net_savings_usd": 33600.00,
+    "savings_percentage": 94.0
+  }
+}
