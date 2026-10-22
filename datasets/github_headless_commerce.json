@@ -1,0 +1,57 @@
+{
+  "category": "Open-Source Headless Commerce, Composable Shopping APIs & Checkout Engines",
+  "hub_slug": "open-source-headless-commerce-composable-apis",
+  "generated_at": "2026-10-21T20:01:00Z",
+  "repos": [
+    {
+      "repo": "medusajs/medusa",
+      "name": "Medusa",
+      "stars": 36846,
+      "forks": 5453,
+      "license": "MIT",
+      "language": "TypeScript / Node.js",
+      "description": "Modular headless commerce engine with multi-warehouse inventory, automated tax calculations, and customizable workflows",
+      "highlights": [
+        "Modular architecture allowing granular overrides of cart, payment, pricing, and fulfillment modules",
+        "Next.js commerce storefront starter with sub-50ms TTFB and server-side rendering",
+        "Zero transaction percentage fees and 100% data sovereignty under permissive MIT license"
+      ]
+    },
+    {
+      "repo": "saleor/saleor",
+      "name": "Saleor",
+      "stars": 23461,
+      "forks": 6153,
+      "license": "BSD-3-Clause",
+      "language": "Python / GraphQL",
+      "description": "High-performance composable GraphQL headless commerce platform with multi-channel and multi-currency support",
+      "highlights": [
+        "High-throughput GraphQL API designed for enterprise catalogs and omnichannel storefronts",
+        "Native multi-currency, multi-warehouse, and multi-channel internationalization out of the box",
+        "Event-driven webhook engine for asynchronous ERP, CRM, and fulfillment synchronizations"
+      ]
+    },
+    {
+      "repo": "vendure-ecommerce/vendure",
+      "name": "Vendure",
+      "stars": 8529,
+      "forks": 1530,
+      "license": "MIT",
+      "language": "TypeScript / NestJS",
+      "description": "Modern headless commerce framework built with TypeScript, NestJS, and GraphQL with plugin architecture",
+      "highlights": [
+        "Clean architectural design built on NestJS and TypeORM with full TypeScript end-to-end typing",
+        "Extensible plugin system enabling custom business logic without forking core dependencies",
+        "Admin UI dashboard with asset management, order fulfillment, and promotions engine"
+      ]
+    }
+  ],
+  "benchmarks": {
+    "combined_stars": 68836,
+    "combined_forks": 13136,
+    "commercial_baseline_monthly": 3150.00,
+    "self_hosted_monthly": 165.00,
+    "monthly_net_savings_usd": 2985.00,
+    "savings_percentage": 94.8
+  }
+}
