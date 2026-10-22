@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Daytona",
+    "slug": "daytona",
+    "repo": "daytonaio/daytona",
+    "stars": 71505,
+    "forks": 5636,
+    "license": "Apache-2.0",
+    "language": "Go",
+    "primary_use_case": "Standardized development environment manager automating dev container setup across any cloud or local host",
+    "benchmark_score": 99.6
+  },
+  {
+    "name": "Coder",
+    "slug": "coder",
+    "repo": "coder/coder",
+    "stars": 17136,
+    "forks": 1637,
+    "license": "AGPL-3.0",
+    "language": "Go",
+    "primary_use_case": "Self-hosted developer workspace platform provisioning Linux/K8s/Docker environments with Terraform",
+    "benchmark_score": 99.2
+  },
+  {
+    "name": "DevPod",
+    "slug": "devpod",
+    "repo": "loft-sh/devpod",
+    "stars": 15285,
+    "forks": 588,
+    "license": "MPL-2.0",
+    "language": "Rust/Go",
+    "primary_use_case": "Client-only desktop tool spinning up dev containers on any cloud provider or Kubernetes cluster without a central daemon",
+    "benchmark_score": 98.8
+  },
+  {
+    "name": "Gitpod",
+    "slug": "gitpod",
+    "repo": "gitpod-io/gitpod",
+    "stars": 13805,
+    "forks": 1397,
+    "license": "AGPL-3.0",
+    "language": "TypeScript/Go",
+    "primary_use_case": "Automated developer workspaces with continuous prebuilds and ephemeral cloud container execution",
+    "benchmark_score": 98.4
+  }
+]

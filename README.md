@@ -69,6 +69,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Kubernetes Cloud-Native Storage & CSI](https://exactbaseline.com/benchmarks/open-source-kubernetes-cloud-native-storage-longhorn-rook)** — Rook Ceph vs Longhorn vs OpenEBS (Portworx Enterprise and AWS EBS io2 Block Express per-node licensing and provisioned IOPS toll replacement).
 - **[API Gateways & Ingress Controllers](https://exactbaseline.com/benchmarks/open-source-api-gateways-ingress-controllers-kong-apisix)** — Traefik vs Kong vs Apache APISIX (Kong Gateway Enterprise and Google Cloud Apigee X per-node licensing and per-call metering replacement).
 - **[Distributed Task Queues & Background Workers](https://exactbaseline.com/benchmarks/open-source-distributed-task-queues-temporal-bullmq-celery)** — Temporal vs BullMQ vs Celery vs River (Amazon SQS FIFO and Google Cloud Tasks per-message metering and payload markup replacement).
+- **[Cloud Development Environments (CDE) & Workspaces](https://exactbaseline.com/benchmarks/open-source-cloud-development-environments-cde-coder-daytona)** — Daytona vs Coder vs DevPod vs Gitpod (GitHub Codespaces and AWS Cloud9 per-core hour runtime metering and inactivity toll replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators
