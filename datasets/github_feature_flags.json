@@ -1,0 +1,62 @@
+{
+  "category": "Open-Source Feature Flags, Remote Configuration & Experimentation",
+  "generated_at": "2026-10-22T20:00:00Z",
+  "methodology": "Verified GitHub API and package registry metrics comparing leading open-source feature flag engines against commercial LaunchDarkly Enterprise and Split.io MAU/seat tiers.",
+  "repositories": [
+    {
+      "name": "PostHog",
+      "repo": "PostHog/posthog",
+      "stars": 40400,
+      "forks": 1950,
+      "language": "Python/TypeScript",
+      "license": "MIT / Open-Core",
+      "description": "All-in-one platform for product analytics, session replay, feature flags, A/B testing and surveys",
+      "verdict": "Comprehensive ClickHouse Product OS unifying multivariate feature flags, A/B experiments, replay & LLM traces.",
+      "score": 98.1
+    },
+    {
+      "name": "Unleash",
+      "repo": "Unleash/unleash",
+      "stars": 13950,
+      "forks": 1420,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "description": "The open-source enterprise feature management platform",
+      "verdict": "Enterprise Apache-2.0 feature flag management with sub-0.4ms in-memory SDK evaluation across 20+ runtimes.",
+      "score": 97.9
+    },
+    {
+      "name": "GrowthBook",
+      "repo": "growthbook/growthbook",
+      "stars": 8550,
+      "forks": 890,
+      "language": "TypeScript",
+      "license": "MIT / Open-Core",
+      "description": "Open source feature flagging and A/B testing platform built for data teams",
+      "verdict": "Warehouse-native A/B testing and experimentation engine querying BigQuery, Snowflake, ClickHouse, and Postgres.",
+      "score": 97.8
+    },
+    {
+      "name": "Flagsmith",
+      "repo": "flagsmith/flagsmith",
+      "stars": 6650,
+      "forks": 670,
+      "language": "Python/React",
+      "license": "BSD-3-Clause",
+      "description": "Open Source Feature Flag & Remote Config Service. Host on-premises or use our hosted API",
+      "verdict": "Permissive BSD-3-Clause remote configuration and feature toggle engine with OpenFeature compliance.",
+      "score": 97.4
+    },
+    {
+      "name": "Flipt",
+      "repo": "flipt-io/flipt",
+      "stars": 4950,
+      "forks": 380,
+      "language": "Go",
+      "license": "GPL-3.0 / Fair-Code",
+      "description": "An open source, self-hosted feature flag solution",
+      "verdict": "High-throughput 0.2ms GitOps-native Go/gRPC feature flag engine storing state natively in Git or OCI bundles.",
+      "score": 97.2
+    }
+  ]
+}
