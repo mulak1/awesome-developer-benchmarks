@@ -1,0 +1,50 @@
+{
+  "category": "Open-Source Web Application Firewalls (WAF) & API Security Gateways",
+  "category_slug": "open-source-web-application-firewall-waf-api-security",
+  "updated_at": "2026-10-22T08:00:00Z",
+  "combined_stars": 24843,
+  "tools": [
+    {
+      "name": "BunkerWeb",
+      "repo": "bunkerity/bunkerweb",
+      "stars": 11094,
+      "forks": 655,
+      "license": "AGPL-3.0",
+      "language": "Python / C",
+      "description": "Next-generation open-source Web Application Firewall (WAF) and security gateway integrating OWASP CRS, fail2ban, bot detection, and automated TLS.",
+      "core_win": "11.1k-star turnkey Docker/K8s Next-Gen WAF",
+      "tradeoff": "Higher RAM overhead than single-binary C modules",
+      "pricing": "100% Free / AGPL-3.0",
+      "commercial_alternative": "Cloudflare WAF Enterprise ($2,500+/mo)",
+      "monthly_savings_usd": 2500.0
+    },
+    {
+      "name": "OWASP ModSecurity",
+      "repo": "owasp-modsecurity/ModSecurity",
+      "stars": 9823,
+      "forks": 1751,
+      "license": "Apache-2.0",
+      "language": "C / C++",
+      "description": "The industry-standard open-source web application firewall engine and OWASP Core Rule Set (CRS) enforcement library for Nginx and Apache.",
+      "core_win": "9.8k-star industry standard C++ WAF engine",
+      "tradeoff": "Legacy syntax complexity and manual compilation",
+      "pricing": "100% Free / Apache-2.0",
+      "commercial_alternative": "AWS WAF & Shield Advanced ($3,000+/mo)",
+      "monthly_savings_usd": 3000.0
+    },
+    {
+      "name": "Coraza WAF",
+      "repo": "corazawaf/coraza",
+      "stars": 3926,
+      "forks": 372,
+      "license": "Apache-2.0",
+      "language": "Go",
+      "description": "OWASP Coraza is a 100% pure Go Web Application Firewall with native support for the OWASP Core Rule Set (CRS), Envoy proxy, and Caddy.",
+      "core_win": "3.9k-star pure Go OWASP CRS WAF for Envoy/Caddy",
+      "tradeoff": "Go runtime garbage collection in ultra-high concurrency",
+      "pricing": "100% Free / Apache-2.0",
+      "commercial_alternative": "Akamai App & API Protector ($3,500+/mo)",
+      "monthly_savings_usd": 3500.0
+    }
+  ]
+}

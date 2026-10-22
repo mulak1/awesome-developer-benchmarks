@@ -63,6 +63,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Session Replay & Experience Intelligence](https://exactbaseline.com/benchmarks/open-source-session-replay-digital-experience-intelligence)** — PostHog vs OpenReplay vs Highlight.io (FullStory Enterprise and LogRocket per-session sampling and seat tax replacement).
 - **[Distributed Tracing & OpenTelemetry Backends](https://exactbaseline.com/benchmarks/open-source-distributed-tracing-opentelemetry-backends)** — Jaeger vs Grafana Tempo vs Zipkin (Dynatrace Enterprise and Honeycomb.io per-span ingest and host-unit tax replacement).
 - **[Geospatial Vector Tiles & Self-Hosted Map Servers](https://exactbaseline.com/benchmarks/open-source-geospatial-vector-tiles-map-servers)** — Leaflet vs MapLibre GL vs Martin (Mapbox and Google Maps Platform metered dynamic map load toll replacement).
+- **[Web Application Firewall (WAF) & API Security Gateways](https://exactbaseline.com/benchmarks/open-source-web-application-firewall-waf-api-security)** — BunkerWeb vs ModSecurity vs Coraza WAF (Cloudflare WAF Enterprise and AWS WAF Shield Advanced metered rule request fee replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators
