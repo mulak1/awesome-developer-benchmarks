@@ -1,0 +1,57 @@
+{
+  "category": "Open-Source Backup, Snapshot Deduplication & Disaster Recovery Engines",
+  "hub_slug": "open-source-backup-disaster-recovery-snapshot-replication",
+  "generated_at": "2026-10-21T18:01:00Z",
+  "repos": [
+    {
+      "repo": "restic/restic",
+      "name": "Restic",
+      "stars": 36715,
+      "forks": 1933,
+      "license": "BSD-2-Clause",
+      "language": "Go",
+      "description": "Fast, secure, efficient backup program using content-defined chunking deduplication and authenticated encryption",
+      "highlights": [
+        "Cryptographically secure end-to-end client-side encryption using AES-256 in CTR mode and Poly1305-AES",
+        "Direct native integration with cloud backends: AWS S3, MinIO, Wasabi, Backblaze B2, SFTP, and REST server",
+        "Single static Go binary requiring zero server daemons or database infrastructure"
+      ]
+    },
+    {
+      "repo": "kopia/kopia",
+      "name": "Kopia",
+      "stars": 14402,
+      "forks": 766,
+      "license": "Apache-2.0",
+      "language": "Go",
+      "description": "Cross-platform fast, incremental backups with client-side encryption, compression, and deduplication",
+      "highlights": [
+        "Built-in content-addressable storage with ZSTD compression and snapshot policy retention rules",
+        "Both high-velocity CLI and cross-platform native GUI for Windows, macOS, and Linux desktop fleets",
+        "Native multi-user repository server mode with TLS authentication and granular ACLs"
+      ]
+    },
+    {
+      "repo": "borgbackup/borg",
+      "name": "BorgBackup",
+      "stars": 13869,
+      "forks": 883,
+      "license": "BSD-3-Clause",
+      "language": "Python / C",
+      "description": "Deduplicating archiver with compression, authenticated encryption, and remote repository caching",
+      "highlights": [
+        "Gold standard chunk-based deduplication reducing storage footprints by 85-95%",
+        "Authenticated 256-bit encryption with optional LZ4, ZSTD, and LZMA compression algorithms",
+        "FUSE filesystem mounting allowing direct browsing of historical snapshots as standard directories"
+      ]
+    }
+  ],
+  "benchmarks": {
+    "combined_stars": 64986,
+    "combined_forks": 3582,
+    "commercial_baseline_monthly": 2450.00,
+    "self_hosted_monthly": 95.00,
+    "monthly_net_savings_usd": 2355.00,
+    "savings_percentage": 96.1
+  }
+}

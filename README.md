@@ -57,6 +57,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Load Testing, Stress Testing & Performance Simulation](https://exactbaseline.com/benchmarks/open-source-load-testing-performance-stress-testing)** — k6 vs Locust vs Vegeta (BlazeMeter Enterprise and LoadRunner Cloud virtual user concurrency tax replacement).
 - **[Documentation Site Generators & Knowledge Bases](https://exactbaseline.com/benchmarks/open-source-documentation-site-generators-knowledge-base)** — Docusaurus vs Astro vs VitePress (GitBook Enterprise and ReadMe Enterprise per-seat contributor tax replacement).
 - **[Form Builders & In-App User Surveys](https://exactbaseline.com/benchmarks/open-source-form-builders-user-surveys-product-feedback)** — Formbricks vs Typebot vs HeyForm (Typeform Enterprise and SurveyMonkey metered response overage tax replacement).
+- **[Backup, Disaster Recovery & Snapshot Replication](https://exactbaseline.com/benchmarks/open-source-backup-disaster-recovery-snapshot-replication)** — Restic vs Kopia vs BorgBackup (Veeam Enterprise and Commvault Cloud per-TB data protection markup replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators
