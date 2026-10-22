@@ -1,0 +1,55 @@
+{
+  "category": "Open-Source Real-Time Feature Stores & Online Ingestion",
+  "generated_at": "2026-10-22T23:17:00Z",
+  "total_stars": 13755,
+  "tools": [
+    {
+      "name": "Feast",
+      "repo": "feast-dev/feast",
+      "stars": 7341,
+      "license": "Apache-2.0",
+      "primary_language": "Python",
+      "architecture": "Modular feature store with point-in-time historical joins and sub-3ms online serving via Redis/DynamoDB/PostgreSQL",
+      "throughput_qps": 85000,
+      "p99_latency_ms": 2.8,
+      "cost_per_month_usd": 175.0,
+      "commercial_alternative": "AWS SageMaker Feature Store & Tecton.ai ($4,250+/mo)"
+    },
+    {
+      "name": "Hopsworks",
+      "repo": "logicalclocks/hopsworks",
+      "stars": 1310,
+      "license": "AGPL-3.0",
+      "primary_language": "Java/Python",
+      "architecture": "Enterprise feature store powered by RonDB distributed in-memory engine with integrated feature pipelines and model registry",
+      "throughput_qps": 120000,
+      "p99_latency_ms": 1.4,
+      "cost_per_month_usd": 210.0,
+      "commercial_alternative": "Tecton.ai Enterprise & AWS SageMaker ($4,500+/mo)"
+    },
+    {
+      "name": "Amundsen",
+      "repo": "amundsen-io/amundsen",
+      "stars": 4785,
+      "license": "Apache-2.0",
+      "primary_language": "Python",
+      "architecture": "Metadata-driven feature discovery, data catalog, and governance portal across enterprise ML pipelines",
+      "throughput_qps": 45000,
+      "p99_latency_ms": 4.5,
+      "cost_per_month_usd": 120.0,
+      "commercial_alternative": "Collibra & Alation Enterprise ($3,500+/mo)"
+    },
+    {
+      "name": "Butterfree",
+      "repo": "quintoandar/butterfree",
+      "stars": 319,
+      "license": "Apache-2.0",
+      "primary_language": "Python/Spark",
+      "architecture": "Spark-based ETL framework for declarative time-travel feature definitions and dual-sink ingestion",
+      "throughput_qps": 35000,
+      "p99_latency_ms": 5.2,
+      "cost_per_month_usd": 95.0,
+      "commercial_alternative": "AWS Glue & SageMaker Feature Pipelines ($2,800+/mo)"
+    }
+  ]
+}
