@@ -1,0 +1,68 @@
+{
+  "category": "Open-Source SIEM, Host XDR & Network Threat Detection Frameworks",
+  "generated_at": "2026-10-22T17:42:00Z",
+  "commercial_alternatives": [
+    {
+      "name": "Splunk Enterprise SIEM",
+      "pricing": "Commercial SaaS / Daily Ingest Volume",
+      "estimated_monthly_tax_usd": 2200.0,
+      "disadvantage": "Crippling daily ingest volume pricing ($1.20/GB/day) and aggressive index license caps"
+    },
+    {
+      "name": "CrowdStrike Falcon Insight XDR",
+      "pricing": "Commercial Enterprise / Per Endpoint",
+      "estimated_monthly_tax_usd": 3500.0,
+      "disadvantage": "Costly $180-$300/endpoint/yr agent subscriptions and vendor cloud data lock-in"
+    }
+  ],
+  "open_source_benchmarks": [
+    {
+      "rank": 1,
+      "name": "Wazuh",
+      "repo": "wazuh/wazuh",
+      "stars": 17363,
+      "forks": 2554,
+      "license": "GPL-2.0",
+      "primary_language": "C",
+      "core_win": "Unified endpoint security, SIEM analysis, file integrity monitoring & compliance",
+      "throughput_events_sec": 45000,
+      "memory_footprint_mb": 512
+    },
+    {
+      "rank": 2,
+      "name": "Suricata",
+      "repo": "OISF/suricata",
+      "stars": 6760,
+      "forks": 1780,
+      "license": "GPL-2.0",
+      "primary_language": "C",
+      "core_win": "Multi-gigabit multi-threaded network IDS, IPS and deep packet inspection engine",
+      "throughput_events_sec": 85000,
+      "memory_footprint_mb": 768
+    },
+    {
+      "rank": 3,
+      "name": "OSSEC",
+      "repo": "ossec/ossec-hids",
+      "stars": 5068,
+      "forks": 1076,
+      "license": "GPL-2.0",
+      "primary_language": "C",
+      "core_win": "Lightweight host-based intrusion detection with real-time rootkit and log analysis",
+      "throughput_events_sec": 28000,
+      "memory_footprint_mb": 128
+    },
+    {
+      "rank": 4,
+      "name": "Security Onion",
+      "repo": "Security-Onion-Solutions/securityonion",
+      "stars": 4938,
+      "forks": 682,
+      "license": "GPL-2.0",
+      "primary_language": "Linux/Bash",
+      "core_win": "Turnkey Linux distribution for enterprise threat hunting, NSM and log management",
+      "throughput_events_sec": 38000,
+      "memory_footprint_mb": 4096
+    }
+  ]
+}
