@@ -1,0 +1,57 @@
+{
+  "category": "open-source-metrics-time-series-databases-clickhouse-victoriametrics",
+  "benchmark_date": "2026-10-22",
+  "combined_stars": 116350,
+  "repositories": [
+    {
+      "repo": "ClickHouse/ClickHouse",
+      "name": "ClickHouse",
+      "stars": 50500,
+      "forks": 9135,
+      "open_issues": 8510,
+      "language": "C++",
+      "license": "Apache-2.0",
+      "description": "ClickHouse® is a high-performance, column-oriented SQL database management system for real-time analytical reporting and OTel observability"
+    },
+    {
+      "repo": "timescale/timescaledb",
+      "name": "TimescaleDB",
+      "stars": 23750,
+      "forks": 1175,
+      "open_issues": 435,
+      "language": "C",
+      "license": "Apache-2.0 / TSL",
+      "description": "An open-source time-series SQL database optimized for fast ingest and complex queries packaged as a PostgreSQL extension"
+    },
+    {
+      "repo": "VictoriaMetrics/VictoriaMetrics",
+      "name": "VictoriaMetrics",
+      "stars": 17900,
+      "forks": 1780,
+      "open_issues": 785,
+      "language": "Go",
+      "license": "Apache-2.0",
+      "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database with low RAM usage and high compression"
+    },
+    {
+      "repo": "questdb/questdb",
+      "name": "QuestDB",
+      "stars": 17450,
+      "forks": 1680,
+      "open_issues": 1235,
+      "language": "Java / C++",
+      "license": "Apache-2.0",
+      "description": "QuestDB is an open-source high-performance time-series database with SIMD-accelerated SQL and sub-millisecond ASOF JOIN"
+    },
+    {
+      "repo": "GreptimeTeam/greptimedb",
+      "name": "GreptimeDB",
+      "stars": 6750,
+      "forks": 570,
+      "open_issues": 298,
+      "language": "Rust",
+      "license": "Apache-2.0",
+      "description": "Cloud-native distributed time-series database for metrics, logs, and events with PromQL and SQL on object storage"
+    }
+  ]
+}
