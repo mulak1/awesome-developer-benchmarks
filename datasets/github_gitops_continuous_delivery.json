@@ -1,0 +1,56 @@
+{
+  "category": "open-source-gitops-continuous-delivery-argo-flux",
+  "name": "Open-Source GitOps & Kubernetes Continuous Delivery Engines",
+  "generated_at": "2026-10-22T09:00:00Z",
+  "commercial_alternatives": [
+    {
+      "name": "Harness Continuous Delivery Enterprise",
+      "slug": "harness-continuous-delivery-enterprise",
+      "model": "metered_service_and_target_licensing",
+      "annual_cost_floor_usd": 14400.0,
+      "metered_unit_usd": 120.0
+    },
+    {
+      "name": "Octopus Deploy Enterprise",
+      "slug": "octopus-deploy-enterprise",
+      "model": "per_target_and_tier_subscription",
+      "annual_cost_floor_usd": 9600.0,
+      "metered_unit_usd": 10.0
+    }
+  ],
+  "tools": [
+    {
+      "name": "Argo CD",
+      "slug": "argocd",
+      "repo": "argoproj/argo-cd",
+      "stars": 24448,
+      "forks": 7971,
+      "license": "Apache-2.0",
+      "language": "Go",
+      "primary_use_case": "Declarative multi-cluster GitOps continuous delivery with rich UI & progressive rollouts",
+      "benchmark_score": 96.8
+    },
+    {
+      "name": "Flux CD",
+      "slug": "flux",
+      "repo": "fluxcd/flux2",
+      "stars": 8456,
+      "forks": 808,
+      "license": "Apache-2.0",
+      "language": "Go",
+      "primary_use_case": "Modular CNCF graduated GitOps toolkit with fine-grained multi-tenancy & OCI artifact support",
+      "benchmark_score": 94.2
+    },
+    {
+      "name": "Spinnaker",
+      "slug": "spinnaker",
+      "repo": "spinnaker/spinnaker",
+      "stars": 9814,
+      "forks": 1279,
+      "license": "Apache-2.0",
+      "language": "Java/Go",
+      "primary_use_case": "Multi-cloud continuous delivery platform with canary analysis & complex pipeline stages",
+      "benchmark_score": 89.5
+    }
+  ]
+}
