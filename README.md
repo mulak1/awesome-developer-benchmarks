@@ -67,6 +67,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[GitOps & Kubernetes Continuous Delivery](https://exactbaseline.com/benchmarks/open-source-gitops-continuous-delivery-argo-flux)** — Argo CD vs Flux CD vs Spinnaker (Harness Continuous Delivery Enterprise and Octopus Deploy per-service licensing replacement).
 - **[Identity, SSO & Access Management](https://exactbaseline.com/benchmarks/open-source-identity-access-management-sso-keycloak-authentik)** — Keycloak vs Authentik vs Zitadel (Okta Workforce Identity Cloud and Auth0 Enterprise per-user and per-connection fee replacement).
 - **[Kubernetes Cloud-Native Storage & CSI](https://exactbaseline.com/benchmarks/open-source-kubernetes-cloud-native-storage-longhorn-rook)** — Rook Ceph vs Longhorn vs OpenEBS (Portworx Enterprise and AWS EBS io2 Block Express per-node licensing and provisioned IOPS toll replacement).
+- **[API Gateways & Ingress Controllers](https://exactbaseline.com/benchmarks/open-source-api-gateways-ingress-controllers-kong-apisix)** — Traefik vs Kong vs Apache APISIX (Kong Gateway Enterprise and Google Cloud Apigee X per-node licensing and per-call metering replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators

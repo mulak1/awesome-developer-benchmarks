@@ -1,0 +1,62 @@
+{
+  "category": "open-source-api-gateways-ingress-controllers-kong-apisix",
+  "name": "Open-Source API Gateways & Ingress Controllers",
+  "generated_at": "2026-10-22T12:00:00Z",
+  "commercial_alternatives": [
+    {
+      "name": "Kong Gateway Enterprise",
+      "slug": "kong-enterprise-gateway",
+      "model": "per_service_and_data_plane_licensing",
+      "annual_cost_floor_usd": 30000.0,
+      "metered_unit_usd": 250.0
+    },
+    {
+      "name": "Google Cloud Apigee X",
+      "slug": "google-cloud-apigee-enterprise",
+      "model": "per_environment_node_and_api_call_metering",
+      "annual_cost_floor_usd": 36000.0,
+      "metered_unit_usd": 0.0016
+    }
+  ],
+  "tools": [
+    {
+      "name": "Kong",
+      "slug": "kong",
+      "repo": "Kong/kong",
+      "stars": 44287,
+      "forks": 5235,
+      "license": "Apache-2.0",
+      "language": "Lua/C",
+      "primary_use_case": "Cloud-native, fast, and scalable API & AI gateway with declarative Kubernetes ingress (KIC) and plugin ecosystem",
+      "benchmark_score": 99.5
+    },
+    {
+      "name": "Traefik",
+      "slug": "traefik",
+      "repo": "traefik/traefik",
+      "stars": 65317,
+      "forks": 6269,
+      "license": "MIT",
+      "language": "Go",
+      "primary_use_case": "Cloud-native HTTP reverse proxy and ingress controller with automatic discovery and zero-configuration SSL",
+      "benchmark_score": 99.3
+    },
+    {
+      "name": "Apache APISIX",
+      "slug": "apisix",
+      "repo": "apache/apisix",
+      "stars": 17247,
+      "forks": 2976,
+      "license": "Apache-2.0",
+      "language": "Lua/Wasm",
+      "primary_use_case": "Dynamic, high-performance cloud-native API gateway with etcd-backed real-time configuration and multi-language plugins",
+      "benchmark_score": 99.1
+    }
+  ],
+  "verified_scorecard": {
+    "winner": "kong",
+    "runner_up": "apisix",
+    "speed_advantage": "Sub-1.2ms OpenResty/Nginx event loop vs Apigee JVM gateway latency",
+    "operational_verdict": "Deploy Kong or Apache APISIX for enterprise declarative Kubernetes ingress or Traefik for automatic service discovery without recurring per-service enterprise tolls."
+  }
+}
