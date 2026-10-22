@@ -1,0 +1,51 @@
+{
+  "category": "Open-Source Workflow Orchestration & Data Pipeline Automation",
+  "generated_at": "2026-10-22T19:50:00Z",
+  "methodology": "Verified GitHub API and package registry metrics comparing leading open-source workflow orchestrators against commercial Astronomer Cloud and AWS MWAA environments.",
+  "repositories": [
+    {
+      "name": "Apache Airflow",
+      "repo": "apache/airflow",
+      "stars": 39850,
+      "forks": 14720,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "verdict": "The definitive industry standard Python DAG orchestrator with the world's largest data provider ecosystem.",
+      "score": 99.1
+    },
+    {
+      "name": "Dagster",
+      "repo": "dagster-io/dagster",
+      "stars": 13920,
+      "forks": 1820,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "An orchestration platform for the development, production, and observation of data assets",
+      "verdict": "Next-generation software-defined asset (SDA) orchestrator with built-in lineage and rich local testing.",
+      "score": 98.7
+    },
+    {
+      "name": "Prefect",
+      "repo": "prefecthq/prefect",
+      "stars": 17740,
+      "forks": 1690,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "description": "Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines",
+      "verdict": "Developer-friendly Python-native decorator orchestration with dynamic workflows and sub-second task dispatch.",
+      "score": 98.2
+    },
+    {
+      "name": "Temporal",
+      "repo": "temporalio/temporal",
+      "stars": 23940,
+      "forks": 2210,
+      "language": "Go",
+      "license": "MIT",
+      "description": "Temporal service and SDK for durable execution and microservices workflow orchestration",
+      "verdict": "Stateful durable execution engine with event-sourced replay history for mission-critical distributed sagas.",
+      "score": 99.4
+    }
+  ]
+}
