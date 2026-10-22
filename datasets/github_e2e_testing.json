@@ -1,0 +1,61 @@
+{
+  "category": "open-source-e2e-browser-testing-automation-playwright-cypress",
+  "name": "Open-Source E2E Browser Testing, Visual Regression & QA Automation Frameworks",
+  "updated_at": "2026-10-22T15:01:00Z",
+  "tools": [
+    {
+      "name": "Playwright",
+      "repo": "microsoft/playwright",
+      "stars": 98282,
+      "forks": 6664,
+      "license": "Apache-2.0",
+      "description": "Fast and reliable end-to-end testing for modern web apps across Chromium, Firefox, and WebKit.",
+      "score": 99.8,
+      "best_for": "Multi-browser, multi-tab, trace viewer, network mocking, and parallel CI execution"
+    },
+    {
+      "name": "Puppeteer",
+      "repo": "puppeteer/puppeteer",
+      "stars": 95733,
+      "forks": 9570,
+      "license": "Apache-2.0",
+      "description": "Node.js library which provides a high-level API to control Chrome/Chromium over the DevTools Protocol.",
+      "score": 98.4,
+      "best_for": "Headless Chrome DevTools Protocol automation, PDF generation, and scraping"
+    },
+    {
+      "name": "Cypress",
+      "repo": "cypress-io/cypress",
+      "stars": 51011,
+      "forks": 3597,
+      "license": "MIT",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "score": 97.9,
+      "best_for": "Developer-friendly component & E2E testing with time-travel debugger"
+    },
+    {
+      "name": "Selenium",
+      "repo": "SeleniumHQ/selenium",
+      "stars": 34564,
+      "forks": 8727,
+      "license": "Apache-2.0",
+      "description": "A browser automation framework and ecosystem implementing the W3C WebDriver standard.",
+      "score": 96.5,
+      "best_for": "Legacy cross-browser W3C WebDriver compatibility across multiple enterprise languages"
+    }
+  ],
+  "commercial_alternatives": [
+    {
+      "name": "BrowserStack Enterprise",
+      "pricing": "$1,500 - $4,000+/mo parallel VM concurrency & minute metering"
+    },
+    {
+      "name": "Sauce Labs Enterprise",
+      "pricing": "$2,000 - $5,500+/mo automated cloud browser grid licensing"
+    },
+    {
+      "name": "Cypress Cloud Enterprise",
+      "pricing": "$750 - $2,500+/mo test run recording & parallelization seat tax"
+    }
+  ]
+}
