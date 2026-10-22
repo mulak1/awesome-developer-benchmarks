@@ -1,0 +1,57 @@
+{
+  "category": "Open-Source Form Builders, In-App Surveys & Product Feedback Engines",
+  "hub_slug": "open-source-form-builders-user-surveys-product-feedback",
+  "generated_at": "2026-10-21T17:02:00Z",
+  "repos": [
+    {
+      "repo": "formbricks/formbricks",
+      "name": "Formbricks",
+      "stars": 13133,
+      "forks": 2585,
+      "license": "AGPL-3.0 / Fair-Code",
+      "language": "TypeScript / Next.js",
+      "description": "Open Source Qualtrics & Typeform Alternative for targeted in-app user surveys and product feedback",
+      "highlights": [
+        "Privacy-first targeted in-app and link surveys without third-party tracking",
+        "Deep React and Next.js SDKs with pinpoint user segment triggers",
+        "Self-hosted Docker and Helm deployments eliminating per-response pricing"
+      ]
+    },
+    {
+      "repo": "baptisteArno/typebot.io",
+      "name": "Typebot.io",
+      "stars": 10570,
+      "forks": 3241,
+      "license": "FSL-1.1-Apache-2.0",
+      "language": "TypeScript",
+      "description": "Powerful conversational form and chatbot builder that you can self-host",
+      "highlights": [
+        "Visual drag-and-drop conversational funnel with rich native integrations",
+        "Ultra-lightweight 34KB web embed with branching logic and custom Webhooks",
+        "Zero per-conversation fees with BYOK AI capabilities"
+      ]
+    },
+    {
+      "repo": "heyform/heyform",
+      "name": "HeyForm",
+      "stars": 9047,
+      "forks": 723,
+      "license": "AGPL-3.0",
+      "language": "TypeScript",
+      "description": "Open-Source Form Builder for creating engaging online forms and questionnaires",
+      "highlights": [
+        "Clean, interactive single-question form experience matching Typeform aesthetic",
+        "Extensive question types, logic jumps, and real-time response analytics",
+        "100% self-hosted with zero monthly response paywalls"
+      ]
+    }
+  ],
+  "benchmarks": {
+    "combined_stars": 32750,
+    "combined_forks": 6549,
+    "commercial_baseline_monthly": 1650.00,
+    "self_hosted_monthly": 35.00,
+    "monthly_net_savings": 1615.00,
+    "savings_percentage": 97.9
+  }
+}
