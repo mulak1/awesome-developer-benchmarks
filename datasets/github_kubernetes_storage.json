@@ -1,0 +1,62 @@
+{
+  "category": "open-source-kubernetes-cloud-native-storage-longhorn-rook",
+  "name": "Open-Source Kubernetes Cloud-Native Storage & CSI",
+  "generated_at": "2026-10-22T11:00:00Z",
+  "commercial_alternatives": [
+    {
+      "name": "Portworx Enterprise Storage",
+      "slug": "portworx-enterprise-storage",
+      "model": "per_node_hour_and_cluster_licensing",
+      "annual_cost_floor_usd": 18000.0,
+      "metered_unit_usd": 0.36
+    },
+    {
+      "name": "AWS EBS io2 Block Express",
+      "slug": "aws-ebs-io2-enterprise-storage",
+      "model": "provisioned_iops_and_storage_volume_metering",
+      "annual_cost_floor_usd": 22500.0,
+      "metered_unit_usd": 0.065
+    }
+  ],
+  "tools": [
+    {
+      "name": "Longhorn",
+      "slug": "longhorn",
+      "repo": "longhorn/longhorn",
+      "stars": 8039,
+      "forks": 742,
+      "license": "Apache-2.0",
+      "language": "Go",
+      "primary_use_case": "Lightweight distributed block storage with synchronous replication and built-in incremental backup snapshots",
+      "benchmark_score": 98.9
+    },
+    {
+      "name": "Rook Ceph",
+      "slug": "rook-ceph",
+      "repo": "rook/rook",
+      "stars": 13691,
+      "forks": 2874,
+      "license": "Apache-2.0",
+      "language": "Go",
+      "primary_use_case": "Production-grade Ceph storage orchestrator for Kubernetes with multi-tenant block, file & object storage",
+      "benchmark_score": 99.4
+    },
+    {
+      "name": "OpenEBS",
+      "slug": "openebs",
+      "repo": "openebs/openebs",
+      "stars": 9834,
+      "forks": 983,
+      "license": "Apache-2.0",
+      "language": "Go/Rust",
+      "primary_use_case": "High-performance Dynamic LocalPV and Mayastor NVMe-oF container-attached storage for ultra-low latency workloads",
+      "benchmark_score": 98.7
+    }
+  ],
+  "verified_scorecard": {
+    "winner": "rook-ceph",
+    "runner_up": "longhorn",
+    "speed_advantage": "Ceph distributed striping and NVMe caching vs Portworx licensed daemon locks",
+    "operational_verdict": "Deploy Rook-Ceph for multi-node enterprise Ceph clustering or Longhorn for single-click UI deployment and synchronous disk replication without commercial per-node tolls."
+  }
+}

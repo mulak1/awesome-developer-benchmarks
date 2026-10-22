@@ -66,6 +66,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Web Application Firewall (WAF) & API Security Gateways](https://exactbaseline.com/benchmarks/open-source-web-application-firewall-waf-api-security)** — BunkerWeb vs ModSecurity vs Coraza WAF (Cloudflare WAF Enterprise and AWS WAF Shield Advanced metered rule request fee replacement).
 - **[GitOps & Kubernetes Continuous Delivery](https://exactbaseline.com/benchmarks/open-source-gitops-continuous-delivery-argo-flux)** — Argo CD vs Flux CD vs Spinnaker (Harness Continuous Delivery Enterprise and Octopus Deploy per-service licensing replacement).
 - **[Identity, SSO & Access Management](https://exactbaseline.com/benchmarks/open-source-identity-access-management-sso-keycloak-authentik)** — Keycloak vs Authentik vs Zitadel (Okta Workforce Identity Cloud and Auth0 Enterprise per-user and per-connection fee replacement).
+- **[Kubernetes Cloud-Native Storage & CSI](https://exactbaseline.com/benchmarks/open-source-kubernetes-cloud-native-storage-longhorn-rook)** — Rook Ceph vs Longhorn vs OpenEBS (Portworx Enterprise and AWS EBS io2 Block Express per-node licensing and provisioned IOPS toll replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators
