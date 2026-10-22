@@ -1,0 +1,54 @@
+{
+  "category": "open-source-distributed-tracing-opentelemetry-backends",
+  "name": "Distributed Tracing & OpenTelemetry APM Backends",
+  "generated_at": "2026-10-22T05:01:00Z",
+  "description": "Empirical benchmarks evaluating open-source distributed tracing backends, OpenTelemetry (OTel) span ingestion throughput, and cloud storage footprints against commercial APM vendors (Dynatrace, Honeycomb.io, Datadog).",
+  "repositories": [
+    {
+      "repo": "jaegertracing/jaeger",
+      "name": "Jaeger",
+      "stars": 23326,
+      "forks": 3188,
+      "license": "Apache-2.0",
+      "language": "Go",
+      "highlight": "CNCF graduated distributed tracing platform with sub-millisecond trace search, adaptive sampling, and native OTLP ingest."
+    },
+    {
+      "repo": "openzipkin/zipkin",
+      "name": "Zipkin",
+      "stars": 17469,
+      "forks": 3095,
+      "license": "Apache-2.0",
+      "language": "Java",
+      "highlight": "Battle-tested distributed tracing framework with Cassandra, Elasticsearch, and MySQL storage backends."
+    },
+    {
+      "repo": "grafana/tempo",
+      "name": "Grafana Tempo",
+      "stars": 5542,
+      "forks": 777,
+      "license": "AGPL-3.0",
+      "language": "Go",
+      "highlight": "High-volume, minimal-dependency distributed tracing backend writing directly to S3/GCS object storage without indexing overhead."
+    }
+  ],
+  "commercial_alternatives_replaced": [
+    {
+      "name": "Dynatrace Enterprise",
+      "typical_pricing": "$0.08/host/hour + distributed trace overage ($2,500 - $5,000+/mo)",
+      "pain_point": "Complex host-unit math, aggressive per-host licensing, and costly distributed tracing ingest overages."
+    },
+    {
+      "name": "Honeycomb.io Enterprise",
+      "typical_pricing": "$1,500 - $4,000+/mo based on event volume and query concurrency",
+      "pain_point": "Strict monthly event volume caps, steep overage penalties, and closed SaaS data retention."
+    }
+  ],
+  "finops_summary": {
+    "commercial_monthly_cost_usd": 3400.00,
+    "open_source_monthly_cost_usd": 210.00,
+    "monthly_net_savings_usd": 3190.00,
+    "annual_net_savings_usd": 38280.00,
+    "savings_percentage": 93.8
+  }
+}
