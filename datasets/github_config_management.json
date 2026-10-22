@@ -1,0 +1,61 @@
+{
+  "category": "open-source-configuration-management-fleet-automation-ansible-salt",
+  "name": "Open-Source Configuration Management & Fleet Infrastructure Automation",
+  "updated_at": "2026-10-22T16:01:00Z",
+  "tools": [
+    {
+      "name": "Ansible",
+      "repo": "ansible/ansible",
+      "stars": 71055,
+      "forks": 24312,
+      "license": "GPL-3.0",
+      "description": "Radically simple IT automation system handling configuration management, app deployment, and ad-hoc task execution.",
+      "score": 99.8,
+      "best_for": "Agentless SSH/WinRM automation with human-readable YAML playbooks"
+    },
+    {
+      "name": "SaltStack (Salt)",
+      "repo": "saltstack/salt",
+      "stars": 15721,
+      "forks": 5605,
+      "license": "Apache-2.0",
+      "description": "Software to automate the management and configuration of any infrastructure or application at scale.",
+      "score": 98.7,
+      "best_for": "Ultra-fast event-driven ZeroMQ minion architecture for tens of thousands of servers"
+    },
+    {
+      "name": "AWX / Semaphore",
+      "repo": "ansible/awx",
+      "stars": 15599,
+      "forks": 3694,
+      "license": "Apache-2.0",
+      "description": "Official open-source web-based user interface, REST API, and task engine for Ansible.",
+      "score": 98.2,
+      "best_for": "Web UI dashboard, RBAC, job scheduling, and credential management for Ansible playbooks"
+    },
+    {
+      "name": "Puppet",
+      "repo": "puppetlabs/puppet",
+      "stars": 7967,
+      "forks": 2204,
+      "license": "Apache-2.0",
+      "description": "Server automation framework and declarative configuration language.",
+      "score": 96.8,
+      "best_for": "Declarative DSL configuration enforcement and compliance reporting"
+    }
+  ],
+  "commercial_alternatives": [
+    {
+      "name": "Red Hat Ansible Automation Platform (AAP)",
+      "pricing": "$15,000 - $50,000+/yr enterprise node licensing and control plane subscriptions"
+    },
+    {
+      "name": "Puppet Enterprise",
+      "pricing": "$120 - $180/node/yr enterprise agent subscriptions"
+    },
+    {
+      "name": "Chef Enterprise Automate",
+      "pricing": "$150/node/yr enterprise server licensing"
+    }
+  ]
+}

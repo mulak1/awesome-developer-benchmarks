@@ -72,6 +72,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Cloud Development Environments (CDE) & Workspaces](https://exactbaseline.com/benchmarks/open-source-cloud-development-environments-cde-coder-daytona)** — Daytona vs Coder vs DevPod vs Gitpod (GitHub Codespaces and AWS Cloud9 per-core hour runtime metering and inactivity toll replacement).
 - **[Container Vulnerability Scanners & SBOM Engines](https://exactbaseline.com/benchmarks/open-source-container-vulnerability-scanners-sbom-trivy-grype)** — Aqua Trivy vs Anchore Grype vs Syft vs Clair (Snyk Container and Prisma Cloud Defender per-dev seat licensing and enterprise runtime taxes replacement).
 - **[E2E Browser Testing & QA Automation Frameworks](https://exactbaseline.com/benchmarks/open-source-e2e-browser-testing-automation-playwright-cypress)** — Microsoft Playwright vs Cypress vs Puppeteer vs Selenium (BrowserStack and Sauce Labs parallel VM concurrency and cloud grid toll replacement).
+- **[Configuration Management & Fleet Automation Frameworks](https://exactbaseline.com/benchmarks/open-source-configuration-management-fleet-automation-ansible-salt)** — Red Hat Ansible vs SaltStack vs AWX vs Semaphore vs Puppet (Red Hat Ansible Automation Platform and Puppet Enterprise per-node subscription and agent license toll replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators
