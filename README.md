@@ -65,6 +65,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Geospatial Vector Tiles & Self-Hosted Map Servers](https://exactbaseline.com/benchmarks/open-source-geospatial-vector-tiles-map-servers)** — Leaflet vs MapLibre GL vs Martin (Mapbox and Google Maps Platform metered dynamic map load toll replacement).
 - **[Web Application Firewall (WAF) & API Security Gateways](https://exactbaseline.com/benchmarks/open-source-web-application-firewall-waf-api-security)** — BunkerWeb vs ModSecurity vs Coraza WAF (Cloudflare WAF Enterprise and AWS WAF Shield Advanced metered rule request fee replacement).
 - **[GitOps & Kubernetes Continuous Delivery](https://exactbaseline.com/benchmarks/open-source-gitops-continuous-delivery-argo-flux)** — Argo CD vs Flux CD vs Spinnaker (Harness Continuous Delivery Enterprise and Octopus Deploy per-service licensing replacement).
+- **[Identity, SSO & Access Management](https://exactbaseline.com/benchmarks/open-source-identity-access-management-sso-keycloak-authentik)** — Keycloak vs Authentik vs Zitadel (Okta Workforce Identity Cloud and Auth0 Enterprise per-user and per-connection fee replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators

@@ -1,0 +1,56 @@
+{
+  "category": "open-source-identity-access-management-sso-keycloak-authentik",
+  "name": "Open-Source Identity, Single Sign-On (SSO) & Access Management",
+  "generated_at": "2026-10-22T10:00:00Z",
+  "commercial_alternatives": [
+    {
+      "name": "Okta Workforce Identity Cloud",
+      "slug": "okta-enterprise-workforce-identity",
+      "model": "per_user_and_add_on_subscriptions",
+      "annual_cost_floor_usd": 18000.0,
+      "metered_unit_usd": 8.0
+    },
+    {
+      "name": "Auth0 by Okta Enterprise",
+      "slug": "auth0-enterprise-sso",
+      "model": "per_connection_and_custom_domain_tier",
+      "annual_cost_floor_usd": 15600.0,
+      "metered_unit_usd": 1500.0
+    }
+  ],
+  "tools": [
+    {
+      "name": "Keycloak",
+      "slug": "keycloak",
+      "repo": "keycloak/keycloak",
+      "stars": 37468,
+      "forks": 9093,
+      "license": "Apache-2.0",
+      "language": "Java (Quarkus)",
+      "primary_use_case": "CNCF enterprise standard for OIDC/SAML federation, multi-realm B2B brokering & FAPI 2.0",
+      "benchmark_score": 99.6
+    },
+    {
+      "name": "Authentik",
+      "slug": "authentik",
+      "repo": "goauthentik/authentik",
+      "stars": 26039,
+      "forks": 2093,
+      "license": "MIT",
+      "language": "Python/Go",
+      "primary_use_case": "Modern visual authentication flow orchestration, forward-auth proxy & low-RAM footprint",
+      "benchmark_score": 98.9
+    },
+    {
+      "name": "Zitadel",
+      "slug": "zitadel",
+      "repo": "zitadel/zitadel",
+      "stars": 15380,
+      "forks": 1396,
+      "license": "AGPL-3.0",
+      "language": "Go",
+      "primary_use_case": "Cloud-native multi-tenant Go identity engine with passkeys, event-sourcing & audit logging",
+      "benchmark_score": 97.8
+    }
+  ]
+}
