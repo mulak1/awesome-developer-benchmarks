@@ -1,0 +1,68 @@
+{
+  "category": "Open-Source Database Connection Pooling, Query Proxying & Sharding Frameworks",
+  "generated_at": "2026-10-22T18:47:00Z",
+  "commercial_alternatives": [
+    {
+      "name": "AWS RDS Proxy & Aurora Serverless ACU",
+      "pricing": "Commercial Cloud / vCPU-Hour + Connection Markup",
+      "estimated_monthly_tax_usd": 1850.0,
+      "disadvantage": "Costly $0.015/vCPU-hr charges plus mandatory idle ACU overhead and cloud vendor lock-in"
+    },
+    {
+      "name": "PlanetScale Database Proxy",
+      "pricing": "Commercial SaaS / Tiered Enterprise",
+      "estimated_monthly_tax_usd": 2200.0,
+      "disadvantage": "Expensive enterprise cluster minimums and recurring query routing seat fees"
+    }
+  ],
+  "open_source_benchmarks": [
+    {
+      "rank": 1,
+      "name": "PgBouncer",
+      "repo": "pgbouncer/pgbouncer",
+      "stars": 4410,
+      "forks": 604,
+      "license": "BSD-2-Clause",
+      "primary_language": "C",
+      "core_win": "Lightweight connection pooler with sub-millisecond overhead and 2KB RAM per connection",
+      "throughput_qps": 65000,
+      "memory_footprint_mb": 64
+    },
+    {
+      "rank": 2,
+      "name": "PgCat",
+      "repo": "postgresml/pgcat",
+      "stars": 4026,
+      "forks": 267,
+      "license": "MIT",
+      "primary_language": "Rust",
+      "core_win": "Next-gen Rust PostgreSQL pooler with sharding, load balancing, and automated replica failover",
+      "throughput_qps": 82000,
+      "memory_footprint_mb": 96
+    },
+    {
+      "rank": 3,
+      "name": "ProxySQL",
+      "repo": "sysown/proxysql",
+      "stars": 6935,
+      "forks": 1094,
+      "license": "GPL-3.0",
+      "primary_language": "C++",
+      "core_win": "High-performance MySQL and PostgreSQL proxy with query caching and read/write splitting",
+      "throughput_qps": 75000,
+      "memory_footprint_mb": 128
+    },
+    {
+      "rank": 4,
+      "name": "Vitess",
+      "repo": "vitessio/vitess",
+      "stars": 21390,
+      "forks": 2431,
+      "license": "Apache-2.0",
+      "primary_language": "Go",
+      "core_win": "Cloud-native database clustering system for horizontal scaling of massive relational fleets",
+      "throughput_qps": 120000,
+      "memory_footprint_mb": 512
+    }
+  ]
+}

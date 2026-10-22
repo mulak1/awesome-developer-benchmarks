@@ -74,6 +74,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[E2E Browser Testing & QA Automation Frameworks](https://exactbaseline.com/benchmarks/open-source-e2e-browser-testing-automation-playwright-cypress)** — Microsoft Playwright vs Cypress vs Puppeteer vs Selenium (BrowserStack and Sauce Labs parallel VM concurrency and cloud grid toll replacement).
 - **[Configuration Management & Fleet Automation Frameworks](https://exactbaseline.com/benchmarks/open-source-configuration-management-fleet-automation-ansible-salt)** — Red Hat Ansible vs SaltStack vs AWX vs Semaphore vs Puppet (Red Hat Ansible Automation Platform and Puppet Enterprise per-node subscription and agent license toll replacement).
 - **[SIEM, Host XDR & Network Threat Detection Frameworks](https://exactbaseline.com/benchmarks/open-source-siem-xdr-threat-detection-wazuh-suricata)** — Wazuh vs Suricata vs OSSEC vs Security Onion (Splunk Enterprise daily ingest volume taxes and CrowdStrike Falcon per-endpoint agent toll replacement).
+- **[Database Connection Pooling, Query Proxying & Sharding Frameworks](https://exactbaseline.com/benchmarks/open-source-database-proxy-connection-pooling-pgbouncer-pgcat)** — PgBouncer vs PgCat vs ProxySQL vs Vitess (AWS RDS Proxy vCPU connection markup and PlanetScale Enterprise query routing toll replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators
