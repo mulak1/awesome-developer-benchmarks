@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Temporal",
+    "slug": "temporal",
+    "repo": "temporalio/temporal",
+    "stars": 23916,
+    "forks": 2033,
+    "license": "MIT",
+    "language": "Go",
+    "primary_use_case": "Durable execution and workflow orchestration platform for reliable distributed background jobs",
+    "benchmark_score": 99.6
+  },
+  {
+    "name": "BullMQ",
+    "slug": "bullmq",
+    "repo": "taskforcesh/bullmq",
+    "stars": 9527,
+    "forks": 729,
+    "license": "MIT",
+    "language": "TypeScript",
+    "primary_use_case": "High-throughput distributed background message and task queue engine for NodeJS and Redis",
+    "benchmark_score": 99.1
+  },
+  {
+    "name": "Celery",
+    "slug": "celery",
+    "repo": "celery/celery",
+    "stars": 29033,
+    "forks": 5236,
+    "license": "BSD-3-Clause",
+    "language": "Python",
+    "primary_use_case": "Asynchronous task queue and job scheduler based on distributed message passing",
+    "benchmark_score": 98.9
+  },
+  {
+    "name": "River",
+    "slug": "river",
+    "repo": "riverqueue/river",
+    "stars": 5801,
+    "forks": 193,
+    "license": "MPL-2.0",
+    "language": "Go",
+    "primary_use_case": "Fast, robust background job queue for Go backed by PostgreSQL transactional outbox",
+    "benchmark_score": 98.5
+  }
+]
