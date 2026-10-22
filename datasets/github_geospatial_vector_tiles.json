@@ -1,0 +1,54 @@
+{
+  "category": "open-source-geospatial-vector-tiles-map-servers",
+  "name": "Geospatial Vector Tiles & Self-Hosted Map Servers",
+  "generated_at": "2026-10-22T06:01:00Z",
+  "description": "Empirical benchmarks evaluating open-source web mapping libraries, vector tile renderers, and PostGIS/PMTiles map servers against commercial map API providers (Mapbox, Google Maps Platform).",
+  "repositories": [
+    {
+      "repo": "Leaflet/Leaflet",
+      "name": "Leaflet",
+      "stars": 45782,
+      "forks": 6186,
+      "license": "BSD-2-Clause",
+      "language": "JavaScript",
+      "highlight": "Lightweight 42KB mobile-first interactive mapping library with universal mobile browser support and thousands of plugins."
+    },
+    {
+      "repo": "maplibre/maplibre-gl-js",
+      "name": "MapLibre GL JS",
+      "stars": 11915,
+      "forks": 1294,
+      "license": "BSD-3-Clause",
+      "language": "TypeScript",
+      "highlight": "Hardware-accelerated WebGL/WebGPU vector tile rendering engine with dynamic client-side styling, 3D terrain, and PMTiles support."
+    },
+    {
+      "repo": "maplibre/martin",
+      "name": "Martin",
+      "stars": 4012,
+      "forks": 409,
+      "license": "MIT / Apache-2.0",
+      "language": "Rust",
+      "highlight": "Blazing fast async Rust tile server generating vector tiles directly from PostGIS tables, MBTiles files, and PMTiles archives."
+    }
+  ],
+  "commercial_alternatives_replaced": [
+    {
+      "name": "Mapbox Enterprise",
+      "typical_pricing": "$5.00/1,000 map loads after 50k monthly loads ($2,500 - $6,000+/mo)",
+      "pain_point": "Aggressive per-load metering, proprietary closed-source SDK lock-in, and unpredictable traffic spikes."
+    },
+    {
+      "name": "Google Maps Platform",
+      "typical_pricing": "$7.00/1,000 dynamic map loads with tiered billing",
+      "pain_point": "Exorbitant cost per map view, third-party user tracking, and rigid API rate limits."
+    }
+  ],
+  "finops_summary": {
+    "commercial_monthly_cost_usd": 2500.00,
+    "open_source_monthly_cost_usd": 65.00,
+    "monthly_net_savings_usd": 2435.00,
+    "annual_net_savings_usd": 29220.00,
+    "savings_percentage": 97.4
+  }
+}

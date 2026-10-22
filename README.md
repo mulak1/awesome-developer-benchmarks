@@ -62,6 +62,7 @@ Empirical performance, memory footprints, and commercial cloud savings benchmark
 - **[Headless Commerce & Composable Shopping APIs](https://exactbaseline.com/benchmarks/open-source-headless-commerce-composable-apis)** — Medusa vs Saleor vs Vendure (Shopify Plus and BigCommerce Enterprise GMV revenue share tax and catalog gating replacement).
 - **[Session Replay & Experience Intelligence](https://exactbaseline.com/benchmarks/open-source-session-replay-digital-experience-intelligence)** — PostHog vs OpenReplay vs Highlight.io (FullStory Enterprise and LogRocket per-session sampling and seat tax replacement).
 - **[Distributed Tracing & OpenTelemetry Backends](https://exactbaseline.com/benchmarks/open-source-distributed-tracing-opentelemetry-backends)** — Jaeger vs Grafana Tempo vs Zipkin (Dynatrace Enterprise and Honeycomb.io per-span ingest and host-unit tax replacement).
+- **[Geospatial Vector Tiles & Self-Hosted Map Servers](https://exactbaseline.com/benchmarks/open-source-geospatial-vector-tiles-map-servers)** — Leaflet vs MapLibre GL vs Martin (Mapbox and Google Maps Platform metered dynamic map load toll replacement).
 ---
 
 ## ⚡ Interactive Tools & FinOps Calculators
