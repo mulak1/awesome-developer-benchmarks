@@ -1,0 +1,70 @@
+{
+  "category": "open-source-ebpf-auto-instrumentation-profiling-pixie-beyla",
+  "category_name": "Open-Source eBPF Auto-Instrumentation & Runtime Profiling Engines",
+  "collected_at": "2026-10-23T03:42:00Z",
+  "total_stars": 21676,
+  "commercial_alternatives": [
+    {
+      "name": "Dynatrace OneAgent",
+      "slug": "dynatrace-oneagent-enterprise",
+      "model": "Commercial Full-Stack APM ($0.08/host-hr + $58+/host/mo & custom metric taxes)",
+      "monthly_cost_estimate_usd": 5800.0
+    },
+    {
+      "name": "New Relic APM",
+      "slug": "newrelic-fullstack-apm-enterprise",
+      "model": "Commercial Observability ($0.35/GB data ingest + $99-$349/user/mo full platform seats)",
+      "monthly_cost_estimate_usd": 3025.0
+    }
+  ],
+  "projects": [
+    {
+      "name": "Pixie",
+      "repo": "pixie-io/pixie",
+      "stars": 6551,
+      "license": "Apache-2.0",
+      "language": "C++ / Go",
+      "description": "CNCF open-source eBPF-powered in-cluster application observability, auto-tracing, and CPU flamegraphs",
+      "pulse_score": 99.0,
+      "best_for": "Zero-overhead in-cluster live debugging and distributed tracing with edge memory retention",
+      "cost_tier": "100% Free Open-Source",
+      "self_hosted_cost_mo": 95.0
+    },
+    {
+      "name": "Grafana Beyla",
+      "repo": "grafana/beyla",
+      "stars": 2147,
+      "license": "Apache-2.0",
+      "language": "Go / C",
+      "description": "eBPF-based auto-instrumentation tool that inspects HTTP/gRPC and SQL traffic without manual code changes",
+      "pulse_score": 98.7,
+      "best_for": "Zero-code OpenTelemetry metrics and traces exported directly to Prometheus and Tempo",
+      "cost_tier": "100% Free Open-Source",
+      "self_hosted_cost_mo": 85.0
+    },
+    {
+      "name": "Coroot",
+      "repo": "coroot/coroot",
+      "stars": 7981,
+      "license": "Apache-2.0",
+      "language": "Go",
+      "description": "Zero-overhead eBPF-powered monitoring and APM tool with automated root-cause analysis",
+      "pulse_score": 99.2,
+      "best_for": "Service architecture dependency mapping and automated Kubernetes performance RCA",
+      "cost_tier": "100% Free Open-Source",
+      "self_hosted_cost_mo": 110.0
+    },
+    {
+      "name": "Parca",
+      "repo": "parca-dev/parca",
+      "stars": 4997,
+      "license": "Apache-2.0",
+      "language": "Go / C",
+      "description": "Continuous profiling platform for applications and infrastructure using eBPF with pprof compatibility",
+      "pulse_score": 98.5,
+      "best_for": "Always-on system-wide CPU and memory profiling down to kernel stack traces",
+      "cost_tier": "100% Free Open-Source",
+      "self_hosted_cost_mo": 90.0
+    }
+  ]
+}
