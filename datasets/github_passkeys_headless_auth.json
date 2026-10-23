@@ -1,0 +1,70 @@
+{
+  "category": "open-source-passkeys-webauthn-headless-auth-supertokens-kratos",
+  "category_name": "Open-Source Passkeys, WebAuthn & Headless Authentication Engines",
+  "collected_at": "2026-10-23T02:37:00Z",
+  "total_stars": 59419,
+  "commercial_alternatives": [
+    {
+      "name": "Clerk Enterprise",
+      "slug": "clerk-enterprise-b2b-auth",
+      "model": "Commercial B2B Auth ($0.02/MAU + $100/mo org tiers & custom domain tolls)",
+      "monthly_cost_estimate_usd": 3200.0
+    },
+    {
+      "name": "WorkOS Enterprise SSO",
+      "slug": "workos-enterprise-sso",
+      "model": "Commercial SSO ($125-$250/connection/mo SAML/OIDC enterprise tolls)",
+      "monthly_cost_estimate_usd": 3125.0
+    }
+  ],
+  "projects": [
+    {
+      "name": "SuperTokens",
+      "repo": "supertokens/supertokens-core",
+      "stars": 15333,
+      "license": "Apache-2.0",
+      "language": "Java / TypeScript",
+      "description": "Open-source headless authentication architecture with passkeys, session management, and multi-tenancy",
+      "pulse_score": 99.1,
+      "best_for": "Drop-in WebAuthn/passkeys, session security, and full UI customization in React/Vue",
+      "cost_tier": "100% Free Open-Source Core",
+      "self_hosted_cost_mo": 110.0
+    },
+    {
+      "name": "Ory Kratos",
+      "repo": "ory/kratos",
+      "stars": 13934,
+      "license": "Apache-2.0",
+      "language": "Go",
+      "description": "Cloud-native headless identity, user management, and zero-trust authentication server in Go",
+      "pulse_score": 98.8,
+      "best_for": "API-first headless IAM pipelines, zero-trust OIDC, and multi-cloud Go microservices",
+      "cost_tier": "100% Free Open-Source",
+      "self_hosted_cost_mo": 95.0
+    },
+    {
+      "name": "Logto",
+      "repo": "logto-io/logto",
+      "stars": 14756,
+      "license": "MPL-2.0",
+      "language": "TypeScript",
+      "description": "Cost-effective Auth0 and Clerk alternative with out-of-the-box sign-in UI and enterprise SSO",
+      "pulse_score": 98.6,
+      "best_for": "Modern developer experience with pre-built responsive sign-in widgets and multi-tenancy",
+      "cost_tier": "100% Free Open-Source",
+      "self_hosted_cost_mo": 105.0
+    },
+    {
+      "name": "ZITADEL",
+      "repo": "zitadel/zitadel",
+      "stars": 15396,
+      "license": "Apache-2.0",
+      "language": "Go",
+      "description": "Cloud-native identity infrastructure with built-in multi-tenancy and audit trails",
+      "pulse_score": 98.7,
+      "best_for": "Enterprise multi-tenancy, granular RBAC, and event-sourced identity audit logs",
+      "cost_tier": "100% Free Open-Source",
+      "self_hosted_cost_mo": 115.0
+    }
+  ]
+}
