@@ -1,0 +1,54 @@
+{
+  "category": "open-source-cloud-data-warehouse-lakehouse-starrocks-doris",
+  "category_name": "Open-Source Cloud Data Warehouse & Real-Time Lakehouse Engines",
+  "collected_at": "2026-10-23T04:46:00Z",
+  "total_stars": 121301,
+  "commercial_alternatives": [
+    {
+      "name": "Snowflake Enterprise Data Cloud",
+      "slug": "snowflake-enterprise-data-cloud",
+      "model": "Commercial Cloud DW ($3.00-$4.00/credit + multi-cluster auto-scaling compute tolls + $23-$40/TB/mo storage markup)",
+      "monthly_cost_estimate_usd": 12500.0
+    },
+    {
+      "name": "Databricks SQL Lakehouse",
+      "slug": "databricks-sql-lakehouse-warehouse",
+      "model": "Commercial Serverless Lakehouse ($0.22-$0.55/DBU + underlying cloud VM markup & egress tolls)",
+      "monthly_cost_estimate_usd": 9800.0
+    }
+  ],
+  "projects": [
+    {
+      "name": "StarRocks",
+      "repo": "StarRocks/starrocks",
+      "stars": 12199,
+      "license": "Apache-2.0",
+      "description": "StarRocks is a next-generation sub-second MPP OLAP database for full-analytics scenarios, supporting multi-table joins, real-time aggregation, and direct lakehouse query execution on Apache Iceberg, Hudi, and Delta Lake.",
+      "best_for": "Sub-second multi-table relational joins, denormalized real-time dashboards, and vectorized MPP Iceberg lakehouse query acceleration"
+    },
+    {
+      "name": "Apache Doris",
+      "repo": "apache/doris",
+      "stars": 16131,
+      "license": "Apache-2.0",
+      "description": "Apache Doris is an easy-to-use, high-performance and real-time analytical database based on MPP architecture, known for high query performance and real-time data ingestion.",
+      "best_for": "Real-time high-concurrency point queries, ad-hoc OLAP exploration, inverted index search, and flexible partial column updates"
+    },
+    {
+      "name": "ClickHouse",
+      "repo": "ClickHouse/ClickHouse",
+      "stars": 50550,
+      "license": "Apache-2.0",
+      "description": "ClickHouse is a free, fast, open-source columnar database management system for real-time analytical reporting using SQL.",
+      "best_for": "Ultra-fast single-table aggregations, time-series telemetry metrics, log ingestion, and high-throughput analytical scanning"
+    },
+    {
+      "name": "DuckDB",
+      "repo": "duckdb/duckdb",
+      "stars": 42421,
+      "license": "MIT",
+      "description": "DuckDB is an in-process SQL OLAP database management system designed for fast analytical queries on local files and cloud object storage.",
+      "best_for": "Embedded analytical querying, zero-copy Arrow data science pipelines, serverless single-node ETL, and direct Parquet querying"
+    }
+  ]
+}
