@@ -1,0 +1,70 @@
+{
+  "category": "open-source-api-management-zero-trust-service-mesh-kong-traefik",
+  "category_name": "Open-Source API Management & Zero-Trust Service Mesh",
+  "collected_at": "2026-10-23T01:30:00Z",
+  "total_stars": 164439,
+  "commercial_alternatives": [
+    {
+      "name": "MuleSoft Anypoint Enterprise",
+      "slug": "mulesoft-anypoint-enterprise-api",
+      "model": "Commercial Enterprise API Manager ($50k-$100k+/yr per vCore & platform licensing)",
+      "monthly_cost_estimate_usd": 4800.0
+    },
+    {
+      "name": "HashiCorp Consul Enterprise",
+      "slug": "hashicorp-consul-enterprise-service-mesh",
+      "model": "Commercial Service Mesh ($0.027/instance-hr + $3,500/mo minimums & BSL lock-in)",
+      "monthly_cost_estimate_usd": 3950.0
+    }
+  ],
+  "projects": [
+    {
+      "name": "Traefik",
+      "repo": "traefik/traefik",
+      "stars": 65325,
+      "license": "MIT",
+      "language": "Go",
+      "description": "Cloud-native edge router and reverse proxy with automatic discovery and Let's Encrypt TLS",
+      "pulse_score": 99.5,
+      "best_for": "Effortless container and Kubernetes ingress with zero-downtime hot reloads",
+      "cost_tier": "100% Free Open-Source",
+      "self_hosted_cost_mo": 95.0
+    },
+    {
+      "name": "Kong",
+      "repo": "Kong/kong",
+      "stars": 44295,
+      "license": "Apache-2.0",
+      "language": "Lua / OpenResty / Rust",
+      "description": "The cloud-native API gateway and AI gateway standard with 100+ plugins and declarative GitOps",
+      "pulse_score": 99.2,
+      "best_for": "High-throughput API gateway governance and enterprise token rate-limiting",
+      "cost_tier": "100% Free Open-Source",
+      "self_hosted_cost_mo": 120.0
+    },
+    {
+      "name": "Envoy Proxy",
+      "repo": "envoyproxy/envoy",
+      "stars": 29109,
+      "license": "Apache-2.0",
+      "language": "C++",
+      "description": "CNCF graduated high-performance L7 edge and service proxy powering modern service meshes",
+      "pulse_score": 98.9,
+      "best_for": "Sub-millisecond p99 service mesh communication and L7 traffic policies",
+      "cost_tier": "100% Free Open-Source",
+      "self_hosted_cost_mo": 110.0
+    },
+    {
+      "name": "Cilium",
+      "repo": "cilium/cilium",
+      "stars": 25710,
+      "license": "Apache-2.0",
+      "language": "Go / C",
+      "description": "eBPF-powered sidecarless cloud-native service mesh, networking, and zero-trust security",
+      "pulse_score": 98.7,
+      "best_for": "Kernel-level sidecarless service mesh without Envoy sidecar memory overhead",
+      "cost_tier": "100% Free Open-Source",
+      "self_hosted_cost_mo": 130.0
+    }
+  ]
+}
