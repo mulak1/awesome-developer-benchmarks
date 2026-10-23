@@ -1,0 +1,70 @@
+{
+  "category": "open-source-real-time-cdc-event-streaming-debezium-redpanda",
+  "category_name": "Open-Source Real-Time Event Streaming & Change Data Capture (CDC) Engines",
+  "collected_at": "2026-10-23T00:24:00Z",
+  "total_stars": 45292,
+  "commercial_alternatives": [
+    {
+      "name": "Confluent Cloud CDC",
+      "slug": "confluent-cloud-cdc-enterprise",
+      "model": "Commercial Managed Kafka CDC ($0.11/GB throughput + $0.50/task-hour)",
+      "monthly_cost_estimate_usd": 4850.00
+    },
+    {
+      "name": "Fivetran HVR CDC",
+      "slug": "fivetran-hvr-enterprise-cdc",
+      "model": "Commercial Managed Database Replication ($1.50+/M rows + enterprise tiers)",
+      "monthly_cost_estimate_usd": 5400.00
+    }
+  ],
+  "projects": [
+    {
+      "name": "Debezium",
+      "repo": "debezium/debezium",
+      "stars": 13263,
+      "license": "Apache-2.0",
+      "language": "Java",
+      "description": "Definitive log-based distributed change data capture platform for Postgres, MySQL, MongoDB, and SQL Server",
+      "pulse_score": 99.2,
+      "best_for": "Production database WAL/binlog change streaming into Kafka and message brokers",
+      "cost_tier": "100% Free Open-Source",
+      "self_hosted_cost_mo": 185.00
+    },
+    {
+      "name": "Redpanda Connect",
+      "repo": "redpanda-data/connect",
+      "stars": 8792,
+      "license": "Apache-2.0",
+      "language": "Go",
+      "description": "High-performance declarative stream processing and event router (formerly Benthos)",
+      "pulse_score": 98.7,
+      "best_for": "Lightweight single-binary streaming data pipelines with zero JVM overhead",
+      "cost_tier": "100% Free Open-Source",
+      "self_hosted_cost_mo": 110.00
+    },
+    {
+      "name": "Airbyte",
+      "repo": "airbytehq/airbyte",
+      "stars": 22254,
+      "license": "ELv2 / MIT",
+      "language": "Java / Python",
+      "description": "Unified open-source data movement for ELT pipelines and incremental CDC replication",
+      "pulse_score": 98.5,
+      "best_for": "Turnkey UI-driven database replication to Snowflake, BigQuery, and S3",
+      "cost_tier": "100% Free Self-Hosted Core",
+      "self_hosted_cost_mo": 195.00
+    },
+    {
+      "name": "Estuary Flow",
+      "repo": "estuary/flow",
+      "stars": 983,
+      "license": "Apache-2.0 Core",
+      "language": "Go / Rust",
+      "description": "Real-time streaming integration runtime for change data capture and continuous ELT",
+      "pulse_score": 97.4,
+      "best_for": "Sub-second database-to-warehouse change synchronization",
+      "cost_tier": "100% Free Open-Source Core",
+      "self_hosted_cost_mo": 125.00
+    }
+  ]
+}
