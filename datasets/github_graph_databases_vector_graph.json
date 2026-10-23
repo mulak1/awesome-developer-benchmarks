@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Memgraph",
+    "repo": "memgraph/memgraph",
+    "stars": 7520,
+    "forks": 485,
+    "license": "BSL / Apache-2.0",
+    "language": "C++",
+    "description": "In-memory graph database built for real-time streaming, graph algorithms, and sub-5ms Cypher execution.",
+    "benchmark_score": 99.4,
+    "query_latency_p99_ms": 2.4,
+    "commercial_alternative_to": "Neo4j Aura Enterprise ($1.80+/GB RAM/hr)"
+  },
+  {
+    "name": "NebulaGraph",
+    "repo": "vesoft-inc/nebula",
+    "stars": 10840,
+    "forks": 1980,
+    "license": "Apache-2.0",
+    "language": "C++",
+    "description": "Distributed, scalable, shared-nothing graph database designed for super large-scale graphs with billions of vertices and edges.",
+    "benchmark_score": 99.2,
+    "query_latency_p99_ms": 8.1,
+    "commercial_alternative_to": "Amazon Neptune Managed Graph ($0.20/M I/O requests)"
+  },
+  {
+    "name": "FalkorDB",
+    "repo": "FalkorDB/FalkorDB",
+    "stars": 3810,
+    "forks": 240,
+    "license": "Available Source",
+    "language": "C",
+    "description": "Graph database leveraging GraphBLAS sparse matrix linear algebra and low-latency vector graph RAG traversals.",
+    "benchmark_score": 98.9,
+    "query_latency_p99_ms": 1.9,
+    "commercial_alternative_to": "Neo4j Aura Graph Data Science"
+  },
+  {
+    "name": "Neo4j Community",
+    "repo": "neo4j/neo4j",
+    "stars": 12240,
+    "forks": 2450,
+    "license": "GPL-3.0",
+    "language": "Java",
+    "description": "The open-source core of the definitive graph platform, pioneering property graphs and the Cypher query language.",
+    "benchmark_score": 99.1,
+    "query_latency_p99_ms": 14.5,
+    "commercial_alternative_to": "Neo4j Aura Managed Cloud"
+  }
+]
